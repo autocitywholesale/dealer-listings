@@ -1,1 +1,21 @@
-{"vehicles": []}
+{
+ "vehicles": [
+  {
+   "vin": "4S3GTAF69H1733449",
+   "year": 2017,
+   "make": "Subaru",
+   "model": "Impreza",
+   "km": 56956,
+   "photos": [
+    "incoming/4S3GTAF69H1733449/1.png"
+   ],
+   "specs": {
+    "Body": "5-door hatchback",
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Black"
+   },
+   "sold": false
+  }
+ ]
+}
