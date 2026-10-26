@@ -43,7 +43,16 @@
     "Tires": "245/60R18 on 18x8 rims",
     "Build date": "03/2019"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Accidents/damage": "No police-reported accidents, estimates or claims. One glass record: Jun 27, 2024, New Brunswick, $2,097",
+    "Registration": "New Brunswick, Normal branding; no U.S. history; not stolen",
+    "Open recalls": "1: HP83 Fuel Pump May Seize (Dec 18, 2023)",
+    "records": [
+     "Mar 28, 2019: Fundy Honda, Saint John NB, pre-delivery inspection"
+    ],
+    "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
+   }
   }
  ]
 }
