@@ -25,7 +25,7 @@ def page(title, body, rel=""):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><link rel="stylesheet" href="{rel}style.css"></head><body>
 <header><a href="{rel}index.html"><h1>{e(c['name'])}</h1></a><p>Dealer-to-dealer inventory · {e(c['addr'])}</p></header>
-<main>{body}</main><footer>{e(c['name'])} · {e(c['addr'])}<br>{e(contact)}<br>Dealer-to-dealer listing. Information provided as-is; verify before purchase.</footer></body></html>"""
+<main>{body}</main><footer>{e(c['name'])} · {e(c['addr'])}<br>Dealer-to-dealer listing. Information provided as-is; verify before purchase.</footer></body></html>"""
 def title(v): return " ".join(str(v.get(k, "")) for k in ("year", "make", "model", "trim") if v.get(k))
 def money(x): return f"${x:,.0f}" if isinstance(x, (int, float)) else e(x)
 def photos(v):
@@ -61,7 +61,7 @@ def vpage(v, imgs):
         if cf.get("records"): b += "<ul>" + "".join(f"<li>{e(r)}</li>" for r in cf["records"]) + "</ul>"
         if cf.get("pdf"): b += f'<p><a class="btn" href="{e(os.path.basename(cf["pdf"]))}">Full Carfax report (PDF)</a></p>'
     else: b += "<p>Not available.</p>"
-    b += f"</section><section><h2>Contact</h2><p>{e(DEALER['name'])}, {e(DEALER['addr'])}. Ask for {e(DEALER['contact'])}.</p></section>"
+    b += "</section>"
     return page(title(v) + " – " + DEALER["name"], b, "../../")
 def build():
     shutil.rmtree(DIST, ignore_errors=True); os.makedirs(DIST)
