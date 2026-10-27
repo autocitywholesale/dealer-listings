@@ -338,6 +338,43 @@
         "url": "https://vhr.carfax.ca/?id=SryrYourwzXGU%2FQvNzCuLFU1ky%2BeCyLn",
         "pdf": "incoming/KL77LJE21TC125840/carfax.pdf"
       }
+    },
+    {
+      "vin": "KL79MRSL5RB206128",
+      "slug": "cgd99auuqkqh",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "LT AWD",
+      "km": 30413,
+      "photos": [
+        "incoming/KL79MRSL5RB206128/1.jpg",
+        "incoming/KL79MRSL5RB206128/2.jpg",
+        "incoming/KL79MRSL5RB206128/3.jpg"
+      ],
+      "specs": {
+        "Body": "SUV",
+        "Engine": "Ecotec 1.3L turbo 3-cylinder, gasoline",
+        "Transmission": "9-speed automatic",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Iridescent Pearl Tricoat",
+        "Interior": "Jet Black",
+        "Built": "Bupyeong, Korea"
+      },
+      "sold": false,
+      "build_sheet": {
+        "msrp": 35489,
+        "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
+      },
+      "carfax": {
+        "Accidents/damage": "No accident or damage records",
+        "Registration": "PEI and New Brunswick",
+        "Owners": "1",
+        "Open recalls": "None",
+        "Service records": "4",
+        "url": "https://vhr.carfax.ca/?id=5YJLC9NHClnVPKXv7z8JV0wUqLhusuV2",
+        "pdf": "incoming/KL79MRSL5RB206128/carfax.pdf"
+      }
     }
   ]
 }
