@@ -2,6 +2,10 @@
 Live: https://autocitywholesale.github.io/dealer-listings/ (GitHub Pages, repo https://github.com/autocitywholesale/dealer-listings; every push to `main` builds via `.github/workflows/pages.yml`).
 Optional preview: https://autocity-fredericton-dealers.surge.sh (surge.sh; account autocityfredericton+surge@mail.grokbot.com, logged in on this box).
 
+## Private links (important)
+The home page lists no cars. Each vehicle is published only at `/v/<slug>/` where `slug` is a random 12-char token that `build.py` generates once and stores in `vehicles.json` (never change it; the old `/v/<VIN>/` paths are not published). `build.py` prints each unsold car's share URL. Sold cars are not published. Pages carry noindex/nofollow and `robots.txt` disallows all. Always publish with `build.py --deploy` so a new car's slug is saved and committed (the GitHub Action refuses to build an unsold car without a slug).
+NOTE: the repo itself is public, so `vehicles.json` (with slugs) is readable by anyone who finds the repo.
+
 ## Add a vehicle
 1. Put photos in `incoming/<VIN>/` (first photo = main photo). Put Carfax / build-sheet PDFs there too if you have them.
 2. Add an entry to `vehicles.json` -> "vehicles" list. Only `vin`, `year`, `make`, `model`, `km` are required:

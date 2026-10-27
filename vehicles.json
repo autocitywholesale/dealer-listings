@@ -2,6 +2,7 @@
  "vehicles": [
   {
    "vin": "5FNYF6H33KB505148",
+   "slug": "u2pe4ygydovc",
    "year": 2019,
    "make": "Honda",
    "model": "Pilot",
@@ -56,6 +57,7 @@
   },
   {
    "vin": "1GYAZAR49KF154240",
+   "slug": "tugew2eullgz",
    "year": 2019,
    "make": "Cadillac",
    "model": "XT4",
@@ -94,6 +96,7 @@
   },
   {
    "vin": "2HKRW2H82HH111739",
+   "slug": "b7ecefyo1giv",
    "year": 2017,
    "make": "Honda",
    "model": "CR-V",

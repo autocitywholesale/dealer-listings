@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the Auto City dealer listing site from vehicles.json into dist/.
-Usage: python3 build.py [--deploy]"""
-import json, os, shutil, subprocess, sys, html, urllib.parse
+Usage: python3 build.py [--deploy]  (prints each unsold car's private share URL)"""
+import json, os, secrets, shutil, string, subprocess, sys, html, urllib.parse
 from PIL import Image, ImageOps
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DIST = os.path.join(ROOT, "dist")
@@ -40,13 +40,16 @@ def page(title, body, rel="", head=""):
     c = DEALER
     contact = " · ".join(x for x in [c["contact"], c["phone"], c["email"]] if x)
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)}</title>{head}<link rel="stylesheet" href="{rel}style.css"></head><body>
-<header><a href="{rel}index.html"><h1>{e(c['name'])}</h1></a><p>Dealer-to-dealer inventory · {e(c['addr'])}</p></header>
+<meta name="robots" content="noindex,nofollow"><title>{e(title)}</title>{head}<link rel="stylesheet" href="{rel}style.css"></head><body>
+<header><h1>{e(c['name'])}</h1><p>Dealer-to-dealer inventory · {e(c['addr'])}</p></header>
 <main>{body}</main><footer>{e(c['name'])} · {e(c['addr'])}<br>Dealer-to-dealer listing. Information provided as-is; verify before purchase.</footer><script>{SHARE_JS}</script></body></html>"""
+SLUG_CHARS = string.ascii_lowercase + string.digits
+def new_slug(): return "".join(secrets.choice(SLUG_CHARS) for _ in range(12))
+def share_url(v): return BASE + "v/" + v["slug"] + "/"
 def title(v): return " ".join(str(v.get(k, "")) for k in ("year", "make", "model", "trim") if v.get(k))
 def money(x): return f"${x:,.0f}" if isinstance(x, (int, float)) else e(x)
 def photos(v):
-    out, d = [], os.path.join(DIST, "v", v["vin"]); os.makedirs(d, exist_ok=True)
+    out, d = [], os.path.join(DIST, "v", v["slug"]); os.makedirs(d, exist_ok=True)
     for i, p in enumerate(v.get("photos", [])):
         src = p if os.path.isabs(p) else os.path.join(ROOT, p)
         im = ImageOps.exif_transpose(Image.open(src)).convert("RGB"); im.thumbnail((1600, 1600))
@@ -57,7 +60,7 @@ def photos(v):
 def rows(dct): return "<table>" + "".join(f"<tr><td>{e(k)}</td><td>{e(val)}</td></tr>" for k, val in dct.items()) + "</table>"
 def vpage(v, imgs):
     pr = "".join(f"<tr><td>{lbl}</td><td class=price>{money(v[k])}</td></tr>" for k, lbl in (("asking_price","Asking"),("wholesale_price","Wholesale")) if v.get(k))
-    url = BASE + "v/" + v["vin"] + "/"; stitle = f"{title(v)} - {SITE_SHORT}"
+    url = share_url(v); stitle = f"{title(v)} - {SITE_SHORT}"
     em = "mailto:?" + urllib.parse.urlencode({"subject": stitle, "body": f"{stitle}\n{url}"}, quote_via=urllib.parse.quote)
     sms = "sms:?&body=" + urllib.parse.quote(f"{stitle} {url}", safe="")
     b = (f'<div class="titlebar"><h1>{e(title(v))}</h1><div class="sharebox" data-share-root>{sharebtn(url, stitle)}'
@@ -91,24 +94,40 @@ def vpage(v, imgs):
     head = "".join(f'<meta property="{k}" content="{e(val)}">' for k, val in og)
     head += f'<meta name="twitter:card" content="{"summary_large_image" if imgs else "summary"}"><meta name="description" content="{e(desc)}">'
     return page(title(v) + " – " + DEALER["name"], b, "../../", head)
+def load_vehicles():
+    """Load vehicles.json; give every entry without a 'slug' a random one and save it (stable once set)."""
+    path = os.path.join(ROOT, "vehicles.json"); data = json.load(open(path)); changed = False
+    used = {v["slug"] for v in data["vehicles"] if v.get("slug")}
+    if len(used) != sum(1 for v in data["vehicles"] if v.get("slug")): sys.exit("ERROR: duplicate slug in vehicles.json")
+    for n, v in enumerate(data["vehicles"]):
+        if v.get("slug"): continue
+        if os.environ.get("GITHUB_ACTIONS") and not v.get("sold"):
+            sys.exit(f"ERROR: {v['vin']} has no slug in vehicles.json. Run `python3 build.py --deploy` locally so the slug is saved and committed.")
+        s = new_slug()
+        while s in used: s = new_slug()
+        used.add(s); changed = True
+        data["vehicles"][n] = {k2: v2 for k, v0 in (("vin", v["vin"]), ("slug", s)) for k2, v2 in [(k, v0)]} | {k: x for k, x in v.items() if k != "vin"}
+    if changed and not os.environ.get("GITHUB_ACTIONS"):
+        json.dump(data, open(path, "w"), indent=1, ensure_ascii=False); open(path, "a").write("\n")
+    return data["vehicles"]
+HOME = (f'<div class="empty"><h2>Private dealer-to-dealer listings</h2><p>Vehicles are shared by private link only.</p>'
+        f'<p>If you were sent a link, please open it directly. For inquiries, contact {e(DEALER["contact"])} at {e(DEALER["name"])}.</p></div>')
 def build():
     shutil.rmtree(DIST, ignore_errors=True); os.makedirs(DIST)
     open(os.path.join(DIST, "style.css"), "w").write(CSS)
-    vs = [v for v in json.load(open(os.path.join(ROOT, "vehicles.json")))["vehicles"] if not v.get("sold")]
-    cards = []
+    open(os.path.join(DIST, "robots.txt"), "w").write("User-agent: *\nDisallow: /\n")
+    vs = [v for v in load_vehicles() if not v.get("sold")]  # sold cars are never published
     for v in vs:
-        imgs = photos(v); d = os.path.join(DIST, "v", v["vin"])
+        imgs = photos(v); d = os.path.join(DIST, "v", v["slug"])
         for key in ("carfax", "build_sheet"):
             p = (v.get(key) or {}).get("pdf")
             if p: shutil.copy(p if os.path.isabs(p) else os.path.join(ROOT, p), d)
         open(os.path.join(d, "index.html"), "w").write(vpage(v, imgs))
-        pr = v.get("asking_price") or v.get("wholesale_price")
-        cards.append(f'<div class="card">{"<img src=v/%s/thumb.jpg alt=\'\' loading=lazy>" % v["vin"] if imgs else "<div class=noimg>Photos coming soon</div>"}<div class="b"><h2>{e(title(v))}</h2><div>{v["km"]:,} km</div>'
-                     f'{f"<div class=price>{money(pr)}</div>" if pr else ""}<a class="btn" href="v/{v["vin"]}/index.html">View details</a>'
-                     f'<span data-share-root>{sharebtn(BASE + "v/" + v["vin"] + "/", title(v) + " - " + SITE_SHORT, "cardshare")}<span class="sharemsg" role="status"></span></span></div></div>')
-    body = f'<div class="grid">{"".join(cards)}</div>' if cards else '<div class="empty"><h2>No vehicles listed yet</h2><p>Check back soon — new dealer-to-dealer units will appear here.</p></div>'
-    open(os.path.join(DIST, "index.html"), "w").write(page(DEALER["name"] + " – Dealer Inventory", body))
+    # Home + 404: branded, no car list, no links. Nothing else (no sitemap/feed/vehicles.json) is published.
+    open(os.path.join(DIST, "index.html"), "w").write(page(DEALER["name"] + " – Private Listings", HOME))
+    open(os.path.join(DIST, "404.html"), "w").write(page(DEALER["name"], '<div class="empty"><h2>Listing not found</h2><p>This link is not available. Please check with the person who sent it.</p></div>', BASE))
     print(f"Built {len(vs)} vehicle(s) into {DIST}")
+    for v in vs: print(f"  SHARE URL  {title(v)} ({v['vin']}): {share_url(v)}")
 if __name__ == "__main__":
     build()
     if "--deploy" in sys.argv:  # publish: commit + push to main; GitHub Actions builds and deploys Pages
@@ -116,6 +135,7 @@ if __name__ == "__main__":
         subprocess.run(["git", "-C", ROOT, "add", "-A"], check=True)
         subprocess.run(["git", "-C", ROOT, "commit", "-m", msg])  # no-op if nothing changed
         subprocess.run(["git", "-C", ROOT, "push", "origin", "main"], check=True)
-        print("Pushed. Live in ~1-2 min: https://autocitywholesale.github.io/dealer-listings/")
+        print("Pushed. Live in ~1-2 min. Share links:")
+        for v in (x for x in load_vehicles() if not x.get("sold")): print(f"  {title(v)} ({v['vin']}): {share_url(v)}")
     if "--preview" in sys.argv:  # optional quick preview on surge.sh
         subprocess.run(["npx", "-y", "surge", DIST, DOMAIN], check=True); print("Preview: https://" + DOMAIN)
