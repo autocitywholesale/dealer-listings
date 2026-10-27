@@ -214,7 +214,7 @@
         "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
         "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
       },
-      "sold": false,
+      "sold": true,
       "build_sheet": {
         "spec_sheet": true,
         "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
