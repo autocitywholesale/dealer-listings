@@ -16,6 +16,7 @@ main{max-width:1150px;margin:auto;padding:20px}.grid{display:grid;grid-template-
 .card{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 4px #0002;display:flex;flex-direction:column}.card img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#ddd}
 .card .b{padding:12px 14px;flex:1;display:flex;flex-direction:column;gap:4px}.card h2{font-size:1.05rem;margin:0}.price{color:#c0392b;font-weight:700}
 .btn{display:inline-block;margin-top:auto;background:#13315c;color:#fff;padding:8px 12px;border-radius:6px;text-decoration:none;text-align:center}
+.noimg{display:flex;align-items:center;justify-content:center;width:100%;aspect-ratio:4/3;background:#e3e6eb;color:#6b7280;font-weight:600;font-size:.95rem;text-align:center}.hero.noimg{max-height:300px;border-radius:10px;background:#e3e6eb}
 .empty{text-align:center;padding:60px 20px;background:#fff;border-radius:10px}.gal{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:8px}
 .gal img{width:100%;border-radius:6px}.hero{width:100%;max-height:600px;object-fit:contain;background:#000;border-radius:10px}
 section{background:#fff;border-radius:10px;padding:16px;margin:16px 0}table{border-collapse:collapse;width:100%}td{padding:6px;border-bottom:1px solid #eee;vertical-align:top}td:first-child{font-weight:600;width:40%}
@@ -62,6 +63,7 @@ def vpage(v, imgs):
     b = (f'<div class="titlebar"><h1>{e(title(v))}</h1><div class="sharebox" data-share-root>{sharebtn(url, stitle)}'
          f'<div class="sharemsg" role="status" aria-live="polite"></div>'
          f'<div class="sharealt">Or share by <a href="{e(em)}">Email</a> · <a href="{e(sms)}">Text</a></div></div></div>')
+    if not imgs: b += '<div class="noimg hero" style="aspect-ratio:16/6">Photos coming soon</div>'
     if imgs: b += f'<img class="hero" src="{imgs[0]}" alt="">' + ('<h3>Photos</h3><div class="gal">' + "".join(f'<a href="{i}"><img src="{i}" loading="lazy" alt=""></a>' for i in imgs) + "</div>" if len(imgs) > 1 else "")
     b += f"<section><h2>Overview</h2><table><tr><td>VIN</td><td>{e(v['vin'])}</td></tr><tr><td>Kilometres</td><td>{v['km']:,} km</td></tr>{pr}</table>"
     if v.get("specs"): b += rows(v["specs"])
@@ -101,7 +103,7 @@ def build():
             if p: shutil.copy(p if os.path.isabs(p) else os.path.join(ROOT, p), d)
         open(os.path.join(d, "index.html"), "w").write(vpage(v, imgs))
         pr = v.get("asking_price") or v.get("wholesale_price")
-        cards.append(f'<div class="card">{"<img src=v/%s/thumb.jpg alt=\'\' loading=lazy>" % v["vin"] if imgs else ""}<div class="b"><h2>{e(title(v))}</h2><div>{v["km"]:,} km</div>'
+        cards.append(f'<div class="card">{"<img src=v/%s/thumb.jpg alt=\'\' loading=lazy>" % v["vin"] if imgs else "<div class=noimg>Photos coming soon</div>"}<div class="b"><h2>{e(title(v))}</h2><div>{v["km"]:,} km</div>'
                      f'{f"<div class=price>{money(pr)}</div>" if pr else ""}<a class="btn" href="v/{v["vin"]}/index.html">View details</a>'
                      f'<span data-share-root>{sharebtn(BASE + "v/" + v["vin"] + "/", title(v) + " - " + SITE_SHORT, "cardshare")}<span class="sharemsg" role="status"></span></span></div></div>')
     body = f'<div class="grid">{"".join(cards)}</div>' if cards else '<div class="empty"><h2>No vehicles listed yet</h2><p>Check back soon — new dealer-to-dealer units will appear here.</p></div>'
