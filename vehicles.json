@@ -219,6 +219,60 @@
     "spec_sheet": true,
     "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
    }
+  },
+  {
+   "vin": "2GC4YME74R1145051",
+   "slug": "y2e6spu0ih9h",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Silverado 2500HD",
+   "trim": "Custom Crew Cab 4WD Z71",
+   "km": 77336,
+   "photos": [
+    "incoming/2GC4YME74R1145051/1.jpg",
+    "incoming/2GC4YME74R1145051/2.jpg",
+    "incoming/2GC4YME74R1145051/3.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab pickup",
+    "Engine": "6.6L V8, gasoline (L8T)",
+    "Transmission": "Allison 10-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Dark Ash Metallic",
+    "Interior": "Jet Black",
+    "Built": "Oshawa, Ontario, Canada"
+   },
+   "build_sheet": {
+    "msrp": 74364,
+    "packages": [
+     "Custom Value Package (1CX): 10-way power driver seat, remote start, 120V outlets in cab and bed, trailer brake controller, lane change alert with side blind zone alert, rear cross traffic alert, rear park assist, power-folding trailering mirrors",
+     "Gooseneck/5th Wheel Prep Package with spray-on bedliner",
+     "Z71 Off-Road Package: Rancho shocks, hill descent control, skid plates"
+    ],
+    "options": [
+     "LED roof marker lamps",
+     "3.73 rear axle ratio",
+     "20-inch machined aluminum wheels with LT275/65R20 all-terrain tires",
+     "7-inch infotainment with wireless Apple CarPlay / Android Auto",
+     "40/20/40 front split-bench seat"
+    ],
+    "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "October 15, 2026",
+    "Last reported odometer": "64,129 km (Apr 17, 2026)",
+    "Accidents/damage": "No accident or damage records",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Apr 17, 2026: Fox Chevrolet Cadillac, Fredericton NB, 64,129 km",
+     "12 service records in total reported (all New Brunswick)"
+    ],
+    "url": "https://vhr.carfax.ca/?id=AlOOa8Fb%2Fbw9%2F4hI9fwMU8xdS9dhMu0L",
+    "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
+   },
+   "sold": false
   }
  ]
 }
