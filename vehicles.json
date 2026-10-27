@@ -145,6 +145,41 @@
     "spec_sheet": true,
     "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
    }
+  },
+  {
+   "vin": "1GNSKAKC3FR247671",
+   "year": 2015,
+   "make": "Chevrolet",
+   "model": "Tahoe",
+   "trim": "LS",
+   "km": 214012,
+   "photos": [
+    "incoming/1GNSKAKC3FR247671/1.jpg",
+    "incoming/1GNSKAKC3FR247671/2.jpg",
+    "incoming/1GNSKAKC3FR247671/3.jpg",
+    "incoming/1GNSKAKC3FR247671/4.jpg",
+    "incoming/1GNSKAKC3FR247671/5.jpg",
+    "incoming/1GNSKAKC3FR247671/6.jpg",
+    "incoming/1GNSKAKC3FR247671/7.jpg",
+    "incoming/1GNSKAKC3FR247671/8.jpg",
+    "incoming/1GNSKAKC3FR247671/9.jpg",
+    "incoming/1GNSKAKC3FR247671/10.jpg",
+    "incoming/1GNSKAKC3FR247671/11.jpg",
+    "incoming/1GNSKAKC3FR247671/12.jpg",
+    "incoming/1GNSKAKC3FR247671/13.jpg",
+    "incoming/1GNSKAKC3FR247671/14.jpg",
+    "incoming/1GNSKAKC3FR247671/15.jpg",
+    "incoming/1GNSKAKC3FR247671/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "5.3L V8, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Tires": "P265/65R18 on 18x8.5 rims",
+    "Build date": "07/2014"
+   },
+   "sold": false
   }
  ]
 }
