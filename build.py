@@ -73,19 +73,21 @@ def vpage(v, imgs):
     if v.get("notes"): b += f"<p>{e(v['notes'])}</p>"
     b += "</section>"
     bs = v.get("build_sheet") or {}
-    b += "<section><h2>Factory build sheet</h2>"
+    spec = bool(bs.get("spec_sheet"))  # NHTSA-decoded spec sheet (not a window sticker)
+    b += f"<section><h2>{'Factory specifications' if spec else 'Factory build sheet'}</h2>"
     if bs:
         if bs.get("msrp"): b += f"<p><b>Original MSRP:</b> {money(bs['msrp'])}</p>"
         for k, lbl in (("packages","Packages"),("options","Options")):
             if bs.get(k): b += f"<h3>{lbl}</h3><ul>" + "".join(f"<li>{e(x)}</li>" for x in bs[k]) + "</ul>"
-        if bs.get("pdf"): b += f'<p><a class="btn" href="{e(os.path.basename(bs["pdf"]))}">Window sticker / build sheet (PDF)</a></p>'
+        if bs.get("pdf"): b += f'<p><a class="btn" href="{e(os.path.basename(bs["pdf"]))}">{"Factory specifications - NHTSA VIN decode (PDF)" if spec else "Window sticker / build sheet (PDF)"}</a></p>{"<p><small>Source: NHTSA VIN decode. Factory window sticker not available.</small></p>" if spec else ""}'
     else: b += "<p>Not available.</p>"
     cf = v.get("carfax") or {}
     b += "</section><section><h2>Carfax Canada history summary</h2>"
     if cf:
-        b += rows({k: val for k, val in cf.items() if k not in ("pdf", "records") and val not in (None, "")})
+        b += rows({k: val for k, val in cf.items() if k not in ("pdf", "url", "records") and val not in (None, "")})
         if cf.get("records"): b += "<ul>" + "".join(f"<li>{e(r)}</li>" for r in cf["records"]) + "</ul>"
         if cf.get("pdf"): b += f'<p><a class="btn" href="{e(os.path.basename(cf["pdf"]))}">Full Carfax report (PDF)</a></p>'
+        if cf.get("url"): b += f'<p><a href="{e(cf["url"])}" rel="noopener">View online Carfax report</a></p>'
     else: b += "<p>Not available.</p>"
     b += "</section>"
     desc = f"{title(v)} - {v['km']:,} km. Dealer-to-dealer wholesale listing."

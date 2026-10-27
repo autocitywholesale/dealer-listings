@@ -22,3 +22,7 @@ NOTE: the repo itself is public, so `vehicles.json` (with slugs) is readable by 
    Optional surge preview: `python3 build.py --preview`.
 
 Photos are auto-rotated and resized to max 1600 px (plus a 640 px thumbnail). Set `"sold": true` to hide a unit. Never commit invented data – leave fields out if unknown.
+
+## Carfax + spec sheet on every listing (do this for each new vehicle)
+- Carfax: save the PDF as `incoming/<VIN>/carfax.pdf`, fill `carfax` (summary fields, `records`, `pdf`, optional `url` = online report link, shown as a link).
+- Build sheet: if a real window sticker/build sheet exists, use `build_sheet.pdf` path with msrp/packages/options. If not, save the NHTSA decode to `incoming/<VIN>/vpic.json` (https://vpic.nhtsa.dot.gov/api/vehicles/decodevinvalues/<VIN>?format=json), run `python3 make_specsheet.py <VIN>` and set `"build_sheet":{"spec_sheet":true,"pdf":"incoming/<VIN>/build_sheet.pdf"}`. The page then shows a "Factory specifications" section (never labelled as a window sticker; no MSRP/options invented).
