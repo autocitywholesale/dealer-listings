@@ -181,6 +181,44 @@
     "Build date": "07/2014"
    },
    "sold": false
+  },
+  {
+   "vin": "2HKRW2H84KH123723",
+   "slug": "rr506iwmvkyn",
+   "year": 2019,
+   "make": "Honda",
+   "model": "CR-V",
+   "trim": "EX-L",
+   "km": 81506,
+   "photos": [],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Seating": "5",
+    "Exterior colour": "Gunmetal",
+    "Built": "Alliston, Ontario, Canada"
+   },
+   "carfax": {
+    "Report date": "October 27, 2026",
+    "Last reported odometer": "32,394 km (Jun 30, 2022)",
+    "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
+    "Owners": "1",
+    "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
+    "records": [
+     "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
+     "6 service records in total reported (all New Brunswick)"
+    ],
+    "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
+    "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
+   },
+   "sold": false,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
+   }
   }
  ]
 }
