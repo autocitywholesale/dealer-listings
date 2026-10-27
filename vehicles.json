@@ -409,7 +409,10 @@
         "incoming/2GNAXUEV4L6250517/9.jpg",
         "incoming/2GNAXUEV4L6250517/10.jpg",
         "incoming/2GNAXUEV4L6250517/11.jpg",
-        "incoming/2GNAXUEV4L6250517/12.jpg"
+        "incoming/2GNAXUEV4L6250517/12.jpg",
+        "incoming/2GNAXUEV4L6250517/13.jpg",
+        "incoming/2GNAXUEV4L6250517/14.jpg",
+        "incoming/2GNAXUEV4L6250517/15.jpg"
       ],
       "specs": {
         "Body": "SUV",
@@ -419,7 +422,8 @@
         "Exterior colour": "Black",
         "Tires": "235/50R19 on 19x7.5 rims",
         "Build date": "06/2020",
-        "Built": "Ingersoll, Ontario"
+        "Built": "Ingersoll, Ontario",
+        "Interior": "Black leather"
       },
       "sold": false,
       "carfax": {
