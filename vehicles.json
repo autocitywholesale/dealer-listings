@@ -53,6 +53,29 @@
     ],
     "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
    }
+  },
+  {
+   "vin": "1GYAZAR49KF154240",
+   "year": 2019,
+   "make": "Cadillac",
+   "model": "XT4",
+   "km": 157365,
+   "photos": [
+    "incoming/1GYAZAR49KF154240/1.jpg",
+    "incoming/1GYAZAR49KF154240/2.jpg",
+    "incoming/1GYAZAR49KF154240/3.jpg",
+    "incoming/1GYAZAR49KF154240/4.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.0L turbo 4-cylinder, gasoline",
+    "Drivetrain": "FWD",
+    "Seating": "5",
+    "Exterior colour": "Silver",
+    "Tires": "235/60R18 on 18x8 rims",
+    "Build date": "01/2019"
+   },
+   "sold": false
   }
  ]
 }
