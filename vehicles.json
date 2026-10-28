@@ -577,6 +577,43 @@
     "Build date": "07/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2SJHWC4FH574764",
+   "slug": "typuugxna8zt",
+   "year": 2015,
+   "make": "Subaru",
+   "model": "Forester",
+   "trim": "XT",
+   "km": 159018,
+   "photos": [
+    "incoming/JF2SJHWC4FH574764/1.jpg",
+    "incoming/JF2SJHWC4FH574764/2.jpg",
+    "incoming/JF2SJHWC4FH574764/3.jpg",
+    "incoming/JF2SJHWC4FH574764/4.jpg",
+    "incoming/JF2SJHWC4FH574764/5.jpg",
+    "incoming/JF2SJHWC4FH574764/6.jpg",
+    "incoming/JF2SJHWC4FH574764/7.jpg",
+    "incoming/JF2SJHWC4FH574764/8.jpg",
+    "incoming/JF2SJHWC4FH574764/9.jpg",
+    "incoming/JF2SJHWC4FH574764/10.jpg",
+    "incoming/JF2SJHWC4FH574764/11.jpg",
+    "incoming/JF2SJHWC4FH574764/12.jpg",
+    "incoming/JF2SJHWC4FH574764/13.jpg",
+    "incoming/JF2SJHWC4FH574764/14.jpg",
+    "incoming/JF2SJHWC4FH574764/15.jpg",
+    "incoming/JF2SJHWC4FH574764/16.jpg",
+    "incoming/JF2SJHWC4FH574764/17.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L turbo",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Silver",
+    "Factory tire size (door label)": "P225/55R18 97H on 18x7J rims",
+    "Build date": "01/2015"
+   },
+   "sold": false
   }
  ]
 }
