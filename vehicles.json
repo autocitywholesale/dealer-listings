@@ -903,6 +903,40 @@
     "Build date": "08/2022"
    },
    "sold": false
+  },
+  {
+   "vin": "JA4AJ3AU7CZ602635",
+   "slug": "0o4oazli34kz",
+   "year": 2012,
+   "make": "Mitsubishi",
+   "model": "RVR",
+   "km": 293820,
+   "photos": [
+    "incoming/JA4AJ3AU7CZ602635/1.jpg",
+    "incoming/JA4AJ3AU7CZ602635/2.jpg",
+    "incoming/JA4AJ3AU7CZ602635/3.jpg",
+    "incoming/JA4AJ3AU7CZ602635/4.jpg",
+    "incoming/JA4AJ3AU7CZ602635/5.jpg",
+    "incoming/JA4AJ3AU7CZ602635/6.jpg",
+    "incoming/JA4AJ3AU7CZ602635/7.jpg",
+    "incoming/JA4AJ3AU7CZ602635/8.jpg",
+    "incoming/JA4AJ3AU7CZ602635/9.jpg",
+    "incoming/JA4AJ3AU7CZ602635/10.jpg",
+    "incoming/JA4AJ3AU7CZ602635/11.jpg",
+    "incoming/JA4AJ3AU7CZ602635/12.jpg",
+    "incoming/JA4AJ3AU7CZ602635/13.jpg",
+    "incoming/JA4AJ3AU7CZ602635/14.jpg",
+    "incoming/JA4AJ3AU7CZ602635/15.jpg",
+    "incoming/JA4AJ3AU7CZ602635/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "P215/70R16 on 16x6.5J rims",
+    "Build date": "12/2011"
+   },
+   "sold": false
   }
  ]
 }
