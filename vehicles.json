@@ -1,445 +1,481 @@
 {
-  "vehicles": [
-    {
-      "vin": "5FNYF6H33KB505148",
-      "slug": "u2pe4ygydovc",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Pilot",
-      "km": 193522,
-      "photos": [
-        "incoming/5FNYF6H33KB505148/1.jpg",
-        "incoming/5FNYF6H33KB505148/2.jpg",
-        "incoming/5FNYF6H33KB505148/3.jpg",
-        "incoming/5FNYF6H33KB505148/4.jpg",
-        "incoming/5FNYF6H33KB505148/5.jpg",
-        "incoming/5FNYF6H33KB505148/6.jpg",
-        "incoming/5FNYF6H33KB505148/7.jpg",
-        "incoming/5FNYF6H33KB505148/8.jpg",
-        "incoming/5FNYF6H33KB505148/9.jpg",
-        "incoming/5FNYF6H33KB505148/10.jpg",
-        "incoming/5FNYF6H33KB505148/11.jpg",
-        "incoming/5FNYF6H33KB505148/12.jpg",
-        "incoming/5FNYF6H33KB505148/13.jpg",
-        "incoming/5FNYF6H33KB505148/14.jpg",
-        "incoming/5FNYF6H33KB505148/15.jpg",
-        "incoming/5FNYF6H33KB505148/16.jpg",
-        "incoming/5FNYF6H33KB505148/17.jpg",
-        "incoming/5FNYF6H33KB505148/18.jpg",
-        "incoming/5FNYF6H33KB505148/19.jpg",
-        "incoming/5FNYF6H33KB505148/20.jpg",
-        "incoming/5FNYF6H33KB505148/21.jpg",
-        "incoming/5FNYF6H33KB505148/22.jpg",
-        "incoming/5FNYF6H33KB505148/23.jpg",
-        "incoming/5FNYF6H33KB505148/24.jpg",
-        "incoming/5FNYF6H33KB505148/25.jpg"
-      ],
-      "specs": {
-        "Body": "SUV, 5-door",
-        "Engine": "3.5L V6, gasoline",
-        "Transmission": "6-speed automatic",
-        "Drivetrain": "AWD",
-        "Seating": "8",
-        "Exterior colour": "Black (paint code NH731P)",
-        "Tires": "245/60R18 on 18x8 rims",
-        "Build date": "03/2019"
-      },
-      "sold": true,
-      "carfax": {
-        "Accidents/damage": "No police-reported accidents, estimates or claims. One glass record: Jun 27, 2024, New Brunswick, $2,097",
-        "Registration": "New Brunswick, Normal branding; no U.S. history; not stolen",
-        "Open recalls": "1: HP83 Fuel Pump May Seize (Dec 18, 2023)",
-        "records": [
-          "Mar 28, 2019: Fundy Honda, Saint John NB, pre-delivery inspection"
-        ],
-        "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
-      }
-    },
-    {
-      "vin": "1GYAZAR49KF154240",
-      "slug": "tugew2eullgz",
-      "year": 2019,
-      "make": "Cadillac",
-      "model": "XT4",
-      "km": 157365,
-      "photos": [
-        "incoming/1GYAZAR49KF154240/1.jpg",
-        "incoming/1GYAZAR49KF154240/2.jpg",
-        "incoming/1GYAZAR49KF154240/3.jpg",
-        "incoming/1GYAZAR49KF154240/4.jpg",
-        "incoming/1GYAZAR49KF154240/5.jpg",
-        "incoming/1GYAZAR49KF154240/6.jpg",
-        "incoming/1GYAZAR49KF154240/7.jpg",
-        "incoming/1GYAZAR49KF154240/8.jpg",
-        "incoming/1GYAZAR49KF154240/9.jpg",
-        "incoming/1GYAZAR49KF154240/10.jpg",
-        "incoming/1GYAZAR49KF154240/11.jpg",
-        "incoming/1GYAZAR49KF154240/12.jpg",
-        "incoming/1GYAZAR49KF154240/13.jpg",
-        "incoming/1GYAZAR49KF154240/14.jpg",
-        "incoming/1GYAZAR49KF154240/15.jpg",
-        "incoming/1GYAZAR49KF154240/16.jpg",
-        "incoming/1GYAZAR49KF154240/17.jpg",
-        "incoming/1GYAZAR49KF154240/18.jpg",
-        "incoming/1GYAZAR49KF154240/19.jpg"
-      ],
-      "specs": {
-        "Body": "SUV, 4-door",
-        "Engine": "2.0L turbo 4-cylinder, gasoline",
-        "Drivetrain": "FWD",
-        "Seating": "5",
-        "Exterior colour": "Silver",
-        "Tires": "235/60R18 on 18x8 rims",
-        "Build date": "01/2019"
-      },
-      "sold": false,
-      "trim": "Luxury",
-      "carfax": {
-        "Report date": "September 29, 2026",
-        "Last reported odometer": "157,020 km (Sep 14, 2026)",
-        "Accidents/damage": "No accidents or damage reported",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history",
-        "Owners": "1",
-        "Open recalls": "None",
-        "records": [
-          "Sep 14, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 157,020 km, vehicle serviced (fluids checked, oil and filter changed)",
-          "25 service records in total reported"
-        ],
-        "url": "https://vhr.carfax.ca/?id=iIkR8BxF4jBF1%2FS82OP4C9%2FWi5X3UdNy",
-        "pdf": "incoming/1GYAZAR49KF154240/carfax.pdf"
-      },
-      "build_sheet": {
-        "spec_sheet": true,
-        "pdf": "incoming/1GYAZAR49KF154240/build_sheet.pdf"
-      }
-    },
-    {
-      "vin": "2HKRW2H82HH111739",
-      "slug": "b7ecefyo1giv",
-      "year": 2017,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": "EX-L",
-      "km": 98597,
-      "photos": [],
-      "specs": {
-        "Body": "SUV, 5-door",
-        "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
-        "Transmission": "CVT",
-        "Drivetrain": "AWD",
-        "Seating": "5",
-        "Built": "Alliston, Ontario, Canada"
-      },
-      "carfax": {
-        "Accidents/damage": "No accidents or damage reported",
-        "Registration": "New Brunswick (2017-2026), Normal branding; no U.S. history",
-        "Open recalls": "None",
-        "Odometer readings": "None reported",
-        "records": [
-          "May 3, 2017: Ceilidh Honda, New Glasgow NS, vehicle serviced"
-        ],
-        "pdf": "incoming/2HKRW2H82HH111739/carfax.pdf"
-      },
-      "sold": false,
-      "build_sheet": {
-        "spec_sheet": true,
-        "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
-      }
-    },
-    {
-      "vin": "1GNSKAKC3FR247671",
-      "slug": "qjdpwgyinups",
-      "year": 2015,
-      "make": "Chevrolet",
-      "model": "Tahoe",
-      "trim": "LS",
-      "km": 214012,
-      "photos": [
-        "incoming/1GNSKAKC3FR247671/1.jpg",
-        "incoming/1GNSKAKC3FR247671/2.jpg",
-        "incoming/1GNSKAKC3FR247671/3.jpg",
-        "incoming/1GNSKAKC3FR247671/4.jpg",
-        "incoming/1GNSKAKC3FR247671/5.jpg",
-        "incoming/1GNSKAKC3FR247671/6.jpg",
-        "incoming/1GNSKAKC3FR247671/7.jpg",
-        "incoming/1GNSKAKC3FR247671/8.jpg",
-        "incoming/1GNSKAKC3FR247671/9.jpg",
-        "incoming/1GNSKAKC3FR247671/10.jpg",
-        "incoming/1GNSKAKC3FR247671/11.jpg",
-        "incoming/1GNSKAKC3FR247671/12.jpg",
-        "incoming/1GNSKAKC3FR247671/13.jpg",
-        "incoming/1GNSKAKC3FR247671/14.jpg",
-        "incoming/1GNSKAKC3FR247671/15.jpg",
-        "incoming/1GNSKAKC3FR247671/16.jpg"
-      ],
-      "specs": {
-        "Body": "SUV, 4-door",
-        "Engine": "5.3L V8, gasoline",
-        "Drivetrain": "4WD",
-        "Exterior colour": "Black",
-        "Tires": "P265/65R18 on 18x8.5 rims",
-        "Build date": "07/2014"
-      },
-      "sold": false
-    },
-    {
-      "vin": "2HKRW2H84KH123723",
-      "slug": "rr506iwmvkyn",
-      "year": 2019,
-      "make": "Honda",
-      "model": "CR-V",
-      "trim": "EX-L",
-      "km": 81506,
-      "photos": [],
-      "specs": {
-        "Body": "SUV, 5-door",
-        "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
-        "Transmission": "CVT",
-        "Drivetrain": "AWD",
-        "Seating": "5",
-        "Exterior colour": "Gunmetal",
-        "Built": "Alliston, Ontario, Canada"
-      },
-      "carfax": {
-        "Report date": "October 27, 2026",
-        "Last reported odometer": "32,394 km (Jun 30, 2022)",
-        "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-        "Owners": "1",
-        "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
-        "records": [
-          "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
-          "6 service records in total reported (all New Brunswick)"
-        ],
-        "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
-        "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
-      },
-      "sold": true,
-      "build_sheet": {
-        "spec_sheet": true,
-        "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
-      }
-    },
-    {
-      "vin": "2GC4YME74R1145051",
-      "slug": "y2e6spu0ih9h",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Silverado 2500HD",
-      "trim": "Custom Crew Cab 4WD Z71",
-      "km": 77336,
-      "photos": [
-        "incoming/2GC4YME74R1145051/1.jpg",
-        "incoming/2GC4YME74R1145051/2.jpg",
-        "incoming/2GC4YME74R1145051/3.jpg",
-        "incoming/2GC4YME74R1145051/4.jpg",
-        "incoming/2GC4YME74R1145051/5.jpg",
-        "incoming/2GC4YME74R1145051/6.jpg",
-        "incoming/2GC4YME74R1145051/7.jpg",
-        "incoming/2GC4YME74R1145051/8.jpg",
-        "incoming/2GC4YME74R1145051/9.jpg",
-        "incoming/2GC4YME74R1145051/10.jpg",
-        "incoming/2GC4YME74R1145051/11.jpg",
-        "incoming/2GC4YME74R1145051/12.jpg",
-        "incoming/2GC4YME74R1145051/13.jpg",
-        "incoming/2GC4YME74R1145051/14.jpg",
-        "incoming/2GC4YME74R1145051/15.jpg",
-        "incoming/2GC4YME74R1145051/16.jpg",
-        "incoming/2GC4YME74R1145051/17.jpg",
-        "incoming/2GC4YME74R1145051/18.jpg"
-      ],
-      "specs": {
-        "Body": "Crew Cab pickup",
-        "Engine": "6.6L V8, gasoline (L8T)",
-        "Transmission": "Allison 10-speed automatic",
-        "Drivetrain": "4WD",
-        "Exterior colour": "Dark Ash Metallic",
-        "Interior": "Jet Black",
-        "Built": "Oshawa, Ontario, Canada"
-      },
-      "build_sheet": {
-        "msrp": 74364,
-        "packages": [
-          "Custom Value Package (1CX): 10-way power driver seat, remote start, 120V outlets in cab and bed, trailer brake controller, lane change alert with side blind zone alert, rear cross traffic alert, rear park assist, power-folding trailering mirrors",
-          "Gooseneck/5th Wheel Prep Package with spray-on bedliner",
-          "Z71 Off-Road Package: Rancho shocks, hill descent control, skid plates"
-        ],
-        "options": [
-          "LED roof marker lamps",
-          "3.73 rear axle ratio",
-          "20-inch machined aluminum wheels with LT275/65R20 all-terrain tires",
-          "7-inch infotainment with wireless Apple CarPlay / Android Auto",
-          "40/20/40 front split-bench seat"
-        ],
-        "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
-      },
-      "carfax": {
-        "Report date": "October 15, 2026",
-        "Last reported odometer": "64,129 km (Apr 17, 2026)",
-        "Accidents/damage": "No accident or damage records",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history",
-        "Owners": "1",
-        "Open recalls": "None",
-        "records": [
-          "Apr 17, 2026: Fox Chevrolet Cadillac, Fredericton NB, 64,129 km",
-          "12 service records in total reported (all New Brunswick)"
-        ],
-        "url": "https://vhr.carfax.ca/?id=AlOOa8Fb%2Fbw9%2F4hI9fwMU8xdS9dhMu0L",
-        "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
-      },
-      "sold": false
-    },
-    {
-      "vin": "KL77LJE21TC125840",
-      "slug": "pt6k2y9gvj0q",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Trax",
-      "trim": "RS FWD",
-      "km": 3144,
-      "photos": [
-        "incoming/KL77LJE21TC125840/1.jpg",
-        "incoming/KL77LJE21TC125840/2.jpg",
-        "incoming/KL77LJE21TC125840/3.jpg",
-        "incoming/KL77LJE21TC125840/4.jpg",
-        "incoming/KL77LJE21TC125840/5.jpg",
-        "incoming/KL77LJE21TC125840/6.jpg",
-        "incoming/KL77LJE21TC125840/7.jpg",
-        "incoming/KL77LJE21TC125840/8.jpg",
-        "incoming/KL77LJE21TC125840/9.jpg",
-        "incoming/KL77LJE21TC125840/10.jpg",
-        "incoming/KL77LJE21TC125840/11.jpg",
-        "incoming/KL77LJE21TC125840/12.jpg",
-        "incoming/KL77LJE21TC125840/13.jpg",
-        "incoming/KL77LJE21TC125840/14.jpg",
-        "incoming/KL77LJE21TC125840/15.jpg",
-        "incoming/KL77LJE21TC125840/16.jpg",
-        "incoming/KL77LJE21TC125840/17.jpg"
-      ],
-      "specs": {
-        "Body": "SUV",
-        "Engine": "Ecotec 1.2L turbo 3-cylinder, gasoline",
-        "Transmission": "6-speed automatic",
-        "Drivetrain": "FWD",
-        "Exterior colour": "Sterling Gray Metallic",
-        "Interior": "Jet Black with Red Accents",
-        "Built": "Changwon, Korea"
-      },
-      "sold": false,
-      "build_sheet": {
-        "msrp": 33198,
-        "pdf": "incoming/KL77LJE21TC125840/build_sheet.pdf"
-      },
-      "carfax": {
-        "Accidents/damage": "No accident or damage records",
-        "Registration": "New Brunswick only",
-        "Owners": "1",
-        "Open recalls": "None",
-        "url": "https://vhr.carfax.ca/?id=SryrYourwzXGU%2FQvNzCuLFU1ky%2BeCyLn",
-        "pdf": "incoming/KL77LJE21TC125840/carfax.pdf"
-      }
-    },
-    {
-      "vin": "KL79MRSL5RB206128",
-      "slug": "cgd99auuqkqh",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "trim": "LT AWD",
-      "km": 30413,
-      "photos": [
-        "incoming/KL79MRSL5RB206128/1.jpg",
-        "incoming/KL79MRSL5RB206128/2.jpg",
-        "incoming/KL79MRSL5RB206128/3.jpg",
-        "incoming/KL79MRSL5RB206128/4.jpg",
-        "incoming/KL79MRSL5RB206128/5.jpg",
-        "incoming/KL79MRSL5RB206128/6.jpg",
-        "incoming/KL79MRSL5RB206128/7.jpg",
-        "incoming/KL79MRSL5RB206128/8.jpg",
-        "incoming/KL79MRSL5RB206128/9.jpg",
-        "incoming/KL79MRSL5RB206128/10.jpg",
-        "incoming/KL79MRSL5RB206128/11.jpg",
-        "incoming/KL79MRSL5RB206128/12.jpg",
-        "incoming/KL79MRSL5RB206128/13.jpg",
-        "incoming/KL79MRSL5RB206128/14.jpg",
-        "incoming/KL79MRSL5RB206128/15.jpg",
-        "incoming/KL79MRSL5RB206128/16.jpg"
-      ],
-      "specs": {
-        "Body": "SUV",
-        "Engine": "Ecotec 1.3L turbo 3-cylinder, gasoline",
-        "Transmission": "9-speed automatic",
-        "Drivetrain": "AWD",
-        "Exterior colour": "Iridescent Pearl Tricoat",
-        "Interior": "Jet Black",
-        "Built": "Bupyeong, Korea"
-      },
-      "sold": false,
-      "build_sheet": {
-        "msrp": 35489,
-        "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
-      },
-      "carfax": {
-        "Accidents/damage": "No accident or damage records",
-        "Registration": "PEI and New Brunswick",
-        "Owners": "1",
-        "Open recalls": "None",
-        "Service records": "4",
-        "url": "https://vhr.carfax.ca/?id=5YJLC9NHClnVPKXv7z8JV0wUqLhusuV2",
-        "pdf": "incoming/KL79MRSL5RB206128/carfax.pdf"
-      }
-    },
-    {
-      "vin": "2GNAXUEV4L6250517",
-      "slug": "wdwww3ac57t8",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Equinox",
-      "trim": "LT",
-      "km": 123095,
-      "photos": [
-        "incoming/2GNAXUEV4L6250517/1.jpg",
-        "incoming/2GNAXUEV4L6250517/2.jpg",
-        "incoming/2GNAXUEV4L6250517/3.jpg",
-        "incoming/2GNAXUEV4L6250517/4.jpg",
-        "incoming/2GNAXUEV4L6250517/5.jpg",
-        "incoming/2GNAXUEV4L6250517/6.jpg",
-        "incoming/2GNAXUEV4L6250517/7.jpg",
-        "incoming/2GNAXUEV4L6250517/8.jpg",
-        "incoming/2GNAXUEV4L6250517/9.jpg",
-        "incoming/2GNAXUEV4L6250517/10.jpg",
-        "incoming/2GNAXUEV4L6250517/11.jpg",
-        "incoming/2GNAXUEV4L6250517/12.jpg",
-        "incoming/2GNAXUEV4L6250517/13.jpg",
-        "incoming/2GNAXUEV4L6250517/14.jpg",
-        "incoming/2GNAXUEV4L6250517/15.jpg",
-        "incoming/2GNAXUEV4L6250517/16.jpg",
-        "incoming/2GNAXUEV4L6250517/17.jpg"
-      ],
-      "specs": {
-        "Body": "SUV",
-        "Engine": "1.5L turbo 4-cylinder, gasoline",
-        "Transmission": "6-speed automatic",
-        "Drivetrain": "AWD",
-        "Exterior colour": "Black",
-        "Tires": "235/50R19 on 19x7.5 rims",
-        "Build date": "06/2020",
-        "Built": "Ingersoll, Ontario",
-        "Interior": "Black leather"
-      },
-      "sold": false,
-      "carfax": {
-        "Accidents/damage": "No accident or damage records",
-        "Registration": "New Brunswick only",
-        "Owners": "1",
-        "Service records": "3",
-        "url": "https://vhr.carfax.ca/?id=02F3M15cF3griL6YWTmQFu6XhO1mYzMV",
-        "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
-      },
-      "build_sheet": {
-        "spec_sheet": true,
-        "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
-      }
-    }
-  ]
+ "vehicles": [
+  {
+   "vin": "5FNYF6H33KB505148",
+   "slug": "u2pe4ygydovc",
+   "year": 2019,
+   "make": "Honda",
+   "model": "Pilot",
+   "km": 193522,
+   "photos": [
+    "incoming/5FNYF6H33KB505148/1.jpg",
+    "incoming/5FNYF6H33KB505148/2.jpg",
+    "incoming/5FNYF6H33KB505148/3.jpg",
+    "incoming/5FNYF6H33KB505148/4.jpg",
+    "incoming/5FNYF6H33KB505148/5.jpg",
+    "incoming/5FNYF6H33KB505148/6.jpg",
+    "incoming/5FNYF6H33KB505148/7.jpg",
+    "incoming/5FNYF6H33KB505148/8.jpg",
+    "incoming/5FNYF6H33KB505148/9.jpg",
+    "incoming/5FNYF6H33KB505148/10.jpg",
+    "incoming/5FNYF6H33KB505148/11.jpg",
+    "incoming/5FNYF6H33KB505148/12.jpg",
+    "incoming/5FNYF6H33KB505148/13.jpg",
+    "incoming/5FNYF6H33KB505148/14.jpg",
+    "incoming/5FNYF6H33KB505148/15.jpg",
+    "incoming/5FNYF6H33KB505148/16.jpg",
+    "incoming/5FNYF6H33KB505148/17.jpg",
+    "incoming/5FNYF6H33KB505148/18.jpg",
+    "incoming/5FNYF6H33KB505148/19.jpg",
+    "incoming/5FNYF6H33KB505148/20.jpg",
+    "incoming/5FNYF6H33KB505148/21.jpg",
+    "incoming/5FNYF6H33KB505148/22.jpg",
+    "incoming/5FNYF6H33KB505148/23.jpg",
+    "incoming/5FNYF6H33KB505148/24.jpg",
+    "incoming/5FNYF6H33KB505148/25.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "3.5L V6, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "AWD",
+    "Seating": "8",
+    "Exterior colour": "Black (paint code NH731P)",
+    "Tires": "245/60R18 on 18x8 rims",
+    "Build date": "03/2019"
+   },
+   "sold": true,
+   "carfax": {
+    "Accidents/damage": "No police-reported accidents, estimates or claims. One glass record: Jun 27, 2024, New Brunswick, $2,097",
+    "Registration": "New Brunswick, Normal branding; no U.S. history; not stolen",
+    "Open recalls": "1: HP83 Fuel Pump May Seize (Dec 18, 2023)",
+    "records": [
+     "Mar 28, 2019: Fundy Honda, Saint John NB, pre-delivery inspection"
+    ],
+    "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
+   }
+  },
+  {
+   "vin": "1GYAZAR49KF154240",
+   "slug": "tugew2eullgz",
+   "year": 2019,
+   "make": "Cadillac",
+   "model": "XT4",
+   "km": 157365,
+   "photos": [
+    "incoming/1GYAZAR49KF154240/1.jpg",
+    "incoming/1GYAZAR49KF154240/2.jpg",
+    "incoming/1GYAZAR49KF154240/3.jpg",
+    "incoming/1GYAZAR49KF154240/4.jpg",
+    "incoming/1GYAZAR49KF154240/5.jpg",
+    "incoming/1GYAZAR49KF154240/6.jpg",
+    "incoming/1GYAZAR49KF154240/7.jpg",
+    "incoming/1GYAZAR49KF154240/8.jpg",
+    "incoming/1GYAZAR49KF154240/9.jpg",
+    "incoming/1GYAZAR49KF154240/10.jpg",
+    "incoming/1GYAZAR49KF154240/11.jpg",
+    "incoming/1GYAZAR49KF154240/12.jpg",
+    "incoming/1GYAZAR49KF154240/13.jpg",
+    "incoming/1GYAZAR49KF154240/14.jpg",
+    "incoming/1GYAZAR49KF154240/15.jpg",
+    "incoming/1GYAZAR49KF154240/16.jpg",
+    "incoming/1GYAZAR49KF154240/17.jpg",
+    "incoming/1GYAZAR49KF154240/18.jpg",
+    "incoming/1GYAZAR49KF154240/19.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.0L turbo 4-cylinder, gasoline",
+    "Drivetrain": "FWD",
+    "Seating": "5",
+    "Exterior colour": "Silver",
+    "Tires": "235/60R18 on 18x8 rims",
+    "Build date": "01/2019"
+   },
+   "sold": false,
+   "trim": "Luxury",
+   "carfax": {
+    "Report date": "September 29, 2026",
+    "Last reported odometer": "157,020 km (Sep 14, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Sep 14, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 157,020 km, vehicle serviced (fluids checked, oil and filter changed)",
+     "25 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=iIkR8BxF4jBF1%2FS82OP4C9%2FWi5X3UdNy",
+    "pdf": "incoming/1GYAZAR49KF154240/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1GYAZAR49KF154240/build_sheet.pdf"
+   }
+  },
+  {
+   "vin": "2HKRW2H82HH111739",
+   "slug": "b7ecefyo1giv",
+   "year": 2017,
+   "make": "Honda",
+   "model": "CR-V",
+   "trim": "EX-L",
+   "km": 98597,
+   "photos": [],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Seating": "5",
+    "Built": "Alliston, Ontario, Canada"
+   },
+   "carfax": {
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick (2017-2026), Normal branding; no U.S. history",
+    "Open recalls": "None",
+    "Odometer readings": "None reported",
+    "records": [
+     "May 3, 2017: Ceilidh Honda, New Glasgow NS, vehicle serviced"
+    ],
+    "pdf": "incoming/2HKRW2H82HH111739/carfax.pdf"
+   },
+   "sold": false,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
+   }
+  },
+  {
+   "vin": "1GNSKAKC3FR247671",
+   "slug": "qjdpwgyinups",
+   "year": 2015,
+   "make": "Chevrolet",
+   "model": "Tahoe",
+   "trim": "LS",
+   "km": 214012,
+   "photos": [
+    "incoming/1GNSKAKC3FR247671/1.jpg",
+    "incoming/1GNSKAKC3FR247671/2.jpg",
+    "incoming/1GNSKAKC3FR247671/3.jpg",
+    "incoming/1GNSKAKC3FR247671/4.jpg",
+    "incoming/1GNSKAKC3FR247671/5.jpg",
+    "incoming/1GNSKAKC3FR247671/6.jpg",
+    "incoming/1GNSKAKC3FR247671/7.jpg",
+    "incoming/1GNSKAKC3FR247671/8.jpg",
+    "incoming/1GNSKAKC3FR247671/9.jpg",
+    "incoming/1GNSKAKC3FR247671/10.jpg",
+    "incoming/1GNSKAKC3FR247671/11.jpg",
+    "incoming/1GNSKAKC3FR247671/12.jpg",
+    "incoming/1GNSKAKC3FR247671/13.jpg",
+    "incoming/1GNSKAKC3FR247671/14.jpg",
+    "incoming/1GNSKAKC3FR247671/15.jpg",
+    "incoming/1GNSKAKC3FR247671/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "5.3L V8, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Tires": "P265/65R18 on 18x8.5 rims",
+    "Build date": "07/2014"
+   },
+   "sold": false
+  },
+  {
+   "vin": "2HKRW2H84KH123723",
+   "slug": "rr506iwmvkyn",
+   "year": 2019,
+   "make": "Honda",
+   "model": "CR-V",
+   "trim": "EX-L",
+   "km": 81506,
+   "photos": [],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Seating": "5",
+    "Exterior colour": "Gunmetal",
+    "Built": "Alliston, Ontario, Canada"
+   },
+   "carfax": {
+    "Report date": "October 27, 2026",
+    "Last reported odometer": "32,394 km (Jun 30, 2022)",
+    "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
+    "Owners": "1",
+    "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
+    "records": [
+     "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
+     "6 service records in total reported (all New Brunswick)"
+    ],
+    "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
+    "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
+   },
+   "sold": true,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
+   }
+  },
+  {
+   "vin": "2GC4YME74R1145051",
+   "slug": "y2e6spu0ih9h",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Silverado 2500HD",
+   "trim": "Custom Crew Cab 4WD Z71",
+   "km": 77336,
+   "photos": [
+    "incoming/2GC4YME74R1145051/1.jpg",
+    "incoming/2GC4YME74R1145051/2.jpg",
+    "incoming/2GC4YME74R1145051/3.jpg",
+    "incoming/2GC4YME74R1145051/4.jpg",
+    "incoming/2GC4YME74R1145051/5.jpg",
+    "incoming/2GC4YME74R1145051/6.jpg",
+    "incoming/2GC4YME74R1145051/7.jpg",
+    "incoming/2GC4YME74R1145051/8.jpg",
+    "incoming/2GC4YME74R1145051/9.jpg",
+    "incoming/2GC4YME74R1145051/10.jpg",
+    "incoming/2GC4YME74R1145051/11.jpg",
+    "incoming/2GC4YME74R1145051/12.jpg",
+    "incoming/2GC4YME74R1145051/13.jpg",
+    "incoming/2GC4YME74R1145051/14.jpg",
+    "incoming/2GC4YME74R1145051/15.jpg",
+    "incoming/2GC4YME74R1145051/16.jpg",
+    "incoming/2GC4YME74R1145051/17.jpg",
+    "incoming/2GC4YME74R1145051/18.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab pickup",
+    "Engine": "6.6L V8, gasoline (L8T)",
+    "Transmission": "Allison 10-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Dark Ash Metallic",
+    "Interior": "Jet Black",
+    "Built": "Oshawa, Ontario, Canada"
+   },
+   "build_sheet": {
+    "msrp": 74364,
+    "packages": [
+     "Custom Value Package (1CX): 10-way power driver seat, remote start, 120V outlets in cab and bed, trailer brake controller, lane change alert with side blind zone alert, rear cross traffic alert, rear park assist, power-folding trailering mirrors",
+     "Gooseneck/5th Wheel Prep Package with spray-on bedliner",
+     "Z71 Off-Road Package: Rancho shocks, hill descent control, skid plates"
+    ],
+    "options": [
+     "LED roof marker lamps",
+     "3.73 rear axle ratio",
+     "20-inch machined aluminum wheels with LT275/65R20 all-terrain tires",
+     "7-inch infotainment with wireless Apple CarPlay / Android Auto",
+     "40/20/40 front split-bench seat"
+    ],
+    "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "October 15, 2026",
+    "Last reported odometer": "64,129 km (Apr 17, 2026)",
+    "Accidents/damage": "No accident or damage records",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Apr 17, 2026: Fox Chevrolet Cadillac, Fredericton NB, 64,129 km",
+     "12 service records in total reported (all New Brunswick)"
+    ],
+    "url": "https://vhr.carfax.ca/?id=AlOOa8Fb%2Fbw9%2F4hI9fwMU8xdS9dhMu0L",
+    "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
+   },
+   "sold": false
+  },
+  {
+   "vin": "KL77LJE21TC125840",
+   "slug": "pt6k2y9gvj0q",
+   "year": 2026,
+   "make": "Chevrolet",
+   "model": "Trax",
+   "trim": "RS FWD",
+   "km": 3144,
+   "photos": [
+    "incoming/KL77LJE21TC125840/1.jpg",
+    "incoming/KL77LJE21TC125840/2.jpg",
+    "incoming/KL77LJE21TC125840/3.jpg",
+    "incoming/KL77LJE21TC125840/4.jpg",
+    "incoming/KL77LJE21TC125840/5.jpg",
+    "incoming/KL77LJE21TC125840/6.jpg",
+    "incoming/KL77LJE21TC125840/7.jpg",
+    "incoming/KL77LJE21TC125840/8.jpg",
+    "incoming/KL77LJE21TC125840/9.jpg",
+    "incoming/KL77LJE21TC125840/10.jpg",
+    "incoming/KL77LJE21TC125840/11.jpg",
+    "incoming/KL77LJE21TC125840/12.jpg",
+    "incoming/KL77LJE21TC125840/13.jpg",
+    "incoming/KL77LJE21TC125840/14.jpg",
+    "incoming/KL77LJE21TC125840/15.jpg",
+    "incoming/KL77LJE21TC125840/16.jpg",
+    "incoming/KL77LJE21TC125840/17.jpg"
+   ],
+   "specs": {
+    "Body": "SUV",
+    "Engine": "Ecotec 1.2L turbo 3-cylinder, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "FWD",
+    "Exterior colour": "Sterling Gray Metallic",
+    "Interior": "Jet Black with Red Accents",
+    "Built": "Changwon, Korea"
+   },
+   "sold": false,
+   "build_sheet": {
+    "msrp": 33198,
+    "pdf": "incoming/KL77LJE21TC125840/build_sheet.pdf"
+   },
+   "carfax": {
+    "Accidents/damage": "No accident or damage records",
+    "Registration": "New Brunswick only",
+    "Owners": "1",
+    "Open recalls": "None",
+    "url": "https://vhr.carfax.ca/?id=SryrYourwzXGU%2FQvNzCuLFU1ky%2BeCyLn",
+    "pdf": "incoming/KL77LJE21TC125840/carfax.pdf"
+   }
+  },
+  {
+   "vin": "KL79MRSL5RB206128",
+   "slug": "cgd99auuqkqh",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "trim": "LT AWD",
+   "km": 30413,
+   "photos": [
+    "incoming/KL79MRSL5RB206128/1.jpg",
+    "incoming/KL79MRSL5RB206128/2.jpg",
+    "incoming/KL79MRSL5RB206128/3.jpg",
+    "incoming/KL79MRSL5RB206128/4.jpg",
+    "incoming/KL79MRSL5RB206128/5.jpg",
+    "incoming/KL79MRSL5RB206128/6.jpg",
+    "incoming/KL79MRSL5RB206128/7.jpg",
+    "incoming/KL79MRSL5RB206128/8.jpg",
+    "incoming/KL79MRSL5RB206128/9.jpg",
+    "incoming/KL79MRSL5RB206128/10.jpg",
+    "incoming/KL79MRSL5RB206128/11.jpg",
+    "incoming/KL79MRSL5RB206128/12.jpg",
+    "incoming/KL79MRSL5RB206128/13.jpg",
+    "incoming/KL79MRSL5RB206128/14.jpg",
+    "incoming/KL79MRSL5RB206128/15.jpg",
+    "incoming/KL79MRSL5RB206128/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV",
+    "Engine": "Ecotec 1.3L turbo 3-cylinder, gasoline",
+    "Transmission": "9-speed automatic",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Iridescent Pearl Tricoat",
+    "Interior": "Jet Black",
+    "Built": "Bupyeong, Korea"
+   },
+   "sold": false,
+   "build_sheet": {
+    "msrp": 35489,
+    "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
+   },
+   "carfax": {
+    "Accidents/damage": "No accident or damage records",
+    "Registration": "PEI and New Brunswick",
+    "Owners": "1",
+    "Open recalls": "None",
+    "Service records": "4",
+    "url": "https://vhr.carfax.ca/?id=5YJLC9NHClnVPKXv7z8JV0wUqLhusuV2",
+    "pdf": "incoming/KL79MRSL5RB206128/carfax.pdf"
+   }
+  },
+  {
+   "vin": "2GNAXUEV4L6250517",
+   "slug": "wdwww3ac57t8",
+   "year": 2020,
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "trim": "LT",
+   "km": 123095,
+   "photos": [
+    "incoming/2GNAXUEV4L6250517/1.jpg",
+    "incoming/2GNAXUEV4L6250517/2.jpg",
+    "incoming/2GNAXUEV4L6250517/3.jpg",
+    "incoming/2GNAXUEV4L6250517/4.jpg",
+    "incoming/2GNAXUEV4L6250517/5.jpg",
+    "incoming/2GNAXUEV4L6250517/6.jpg",
+    "incoming/2GNAXUEV4L6250517/7.jpg",
+    "incoming/2GNAXUEV4L6250517/8.jpg",
+    "incoming/2GNAXUEV4L6250517/9.jpg",
+    "incoming/2GNAXUEV4L6250517/10.jpg",
+    "incoming/2GNAXUEV4L6250517/11.jpg",
+    "incoming/2GNAXUEV4L6250517/12.jpg",
+    "incoming/2GNAXUEV4L6250517/13.jpg",
+    "incoming/2GNAXUEV4L6250517/14.jpg",
+    "incoming/2GNAXUEV4L6250517/15.jpg",
+    "incoming/2GNAXUEV4L6250517/16.jpg",
+    "incoming/2GNAXUEV4L6250517/17.jpg"
+   ],
+   "specs": {
+    "Body": "SUV",
+    "Engine": "1.5L turbo 4-cylinder, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Black",
+    "Tires": "235/50R19 on 19x7.5 rims",
+    "Build date": "06/2020",
+    "Built": "Ingersoll, Ontario",
+    "Interior": "Black leather"
+   },
+   "sold": false,
+   "carfax": {
+    "Accidents/damage": "No accident or damage records",
+    "Registration": "New Brunswick only",
+    "Owners": "1",
+    "Service records": "3",
+    "url": "https://vhr.carfax.ca/?id=02F3M15cF3griL6YWTmQFu6XhO1mYzMV",
+    "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
+   }
+  },
+  {
+   "vin": "1GC5YTEY0RF326146",
+   "slug": "w3ao56mg7fh8",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Silverado 3500HD",
+   "trim": "LT",
+   "km": 85147,
+   "photos": [
+    "incoming/1GC5YTEY0RF326146/1.jpg",
+    "incoming/1GC5YTEY0RF326146/2.jpg",
+    "incoming/1GC5YTEY0RF326146/3.jpg",
+    "incoming/1GC5YTEY0RF326146/4.jpg",
+    "incoming/1GC5YTEY0RF326146/5.jpg",
+    "incoming/1GC5YTEY0RF326146/6.jpg",
+    "incoming/1GC5YTEY0RF326146/7.jpg",
+    "incoming/1GC5YTEY0RF326146/8.jpg",
+    "incoming/1GC5YTEY0RF326146/9.jpg",
+    "incoming/1GC5YTEY0RF326146/10.jpg",
+    "incoming/1GC5YTEY0RF326146/11.jpg",
+    "incoming/1GC5YTEY0RF326146/12.jpg",
+    "incoming/1GC5YTEY0RF326146/13.jpg",
+    "incoming/1GC5YTEY0RF326146/14.jpg",
+    "incoming/1GC5YTEY0RF326146/15.jpg"
+   ],
+   "specs": {
+    "Engine": "6.6L Duramax turbo V8, diesel (L5P)",
+    "Drivetrain": "4WD",
+    "Rear wheels": "Dual rear wheels (dually)",
+    "Exterior colour": "White",
+    "Tires": "LT235/80R17E on 17x6.5 rims",
+    "Build date": "01/2024",
+    "Equipment": "Gooseneck hitch in bed, crossover truck-bed toolbox"
+   },
+   "sold": false
+  }
+ ]
 }
