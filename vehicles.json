@@ -758,6 +758,47 @@
    },
    "notes": "Condition: mint (per dealer). No photos available.",
    "sold": false
+  },
+  {
+   "vin": "JF2GTABC8JH214922",
+   "slug": "bec9jajeayqc",
+   "year": 2018,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "km": 179644,
+   "photos": [
+    "incoming/JF2GTABC8JH214922/1.jpg",
+    "incoming/JF2GTABC8JH214922/2.jpg",
+    "incoming/JF2GTABC8JH214922/3.jpg",
+    "incoming/JF2GTABC8JH214922/4.jpg",
+    "incoming/JF2GTABC8JH214922/5.jpg",
+    "incoming/JF2GTABC8JH214922/6.jpg",
+    "incoming/JF2GTABC8JH214922/7.jpg",
+    "incoming/JF2GTABC8JH214922/8.jpg",
+    "incoming/JF2GTABC8JH214922/9.jpg",
+    "incoming/JF2GTABC8JH214922/10.jpg",
+    "incoming/JF2GTABC8JH214922/11.jpg",
+    "incoming/JF2GTABC8JH214922/12.jpg",
+    "incoming/JF2GTABC8JH214922/13.jpg",
+    "incoming/JF2GTABC8JH214922/14.jpg",
+    "incoming/JF2GTABC8JH214922/15.jpg",
+    "incoming/JF2GTABC8JH214922/16.jpg",
+    "incoming/JF2GTABC8JH214922/17.jpg",
+    "incoming/JF2GTABC8JH214922/18.jpg",
+    "incoming/JF2GTABC8JH214922/19.jpg",
+    "incoming/JF2GTABC8JH214922/20.jpg",
+    "incoming/JF2GTABC8JH214922/21.jpg",
+    "incoming/JF2GTABC8JH214922/22.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "P225/60R17 on 17x7J rims",
+    "Build date": "07/2017"
+   },
+   "sold": false
   }
  ]
 }
