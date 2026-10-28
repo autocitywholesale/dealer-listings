@@ -1037,6 +1037,40 @@
     "Build date": "10/2018"
    },
    "sold": false
+  },
+  {
+   "vin": "2FMPK3J96LBA63979",
+   "slug": "9nnt9xz5cm9c",
+   "year": 2020,
+   "make": "Ford",
+   "model": "Edge",
+   "km": 77949,
+   "photos": [
+    "incoming/2FMPK3J96LBA63979/1.jpg",
+    "incoming/2FMPK3J96LBA63979/2.jpg",
+    "incoming/2FMPK3J96LBA63979/3.jpg",
+    "incoming/2FMPK3J96LBA63979/4.jpg",
+    "incoming/2FMPK3J96LBA63979/5.jpg",
+    "incoming/2FMPK3J96LBA63979/6.jpg",
+    "incoming/2FMPK3J96LBA63979/7.jpg",
+    "incoming/2FMPK3J96LBA63979/8.jpg",
+    "incoming/2FMPK3J96LBA63979/9.jpg",
+    "incoming/2FMPK3J96LBA63979/10.jpg",
+    "incoming/2FMPK3J96LBA63979/11.jpg",
+    "incoming/2FMPK3J96LBA63979/12.jpg",
+    "incoming/2FMPK3J96LBA63979/13.jpg",
+    "incoming/2FMPK3J96LBA63979/14.jpg",
+    "incoming/2FMPK3J96LBA63979/15.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L turbo 4-cylinder, gasoline",
+    "Transmission": "8-speed automatic",
+    "Drivetrain": "FWD",
+    "Exterior colour": "Burgundy",
+    "Factory tire size (door label)": "245/60R18 on 18x8.0J rims",
+    "Build date": "02/2020"
+   },
+   "sold": false
   }
  ]
 }
