@@ -719,6 +719,45 @@
     "Build date": "08/2017"
    },
    "sold": false
+  },
+  {
+   "vin": "1FTEW3LP9RFA05576",
+   "slug": "a5ujtzn1056e",
+   "year": 2024,
+   "make": "Ford",
+   "model": "F-150",
+   "trim": "XLT",
+   "km": 40375,
+   "photos": [],
+   "specs": {
+    "Body": "Pickup, SuperCrew",
+    "Engine": "2.7L EcoBoost V6, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Equipment (per dealer)": "302A package, 20\" wheels, tailgate step",
+    "Built": "Dearborn, Michigan, USA"
+   },
+   "carfax": {
+    "Report date": "October 27, 2026",
+    "Last reported odometer": "None reported",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Jul 17, 2024: Fredericton NB, registration issued, first owner reported (loan or lien reported)",
+     "Mar 13, 2026: New Brunswick, registration renewed",
+     "0 service records reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=N0lRss%2FreQV%2FriC7VN%2Bk6T34zNDMgKm2",
+    "pdf": "incoming/1FTEW3LP9RFA05576/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1FTEW3LP9RFA05576/build_sheet.pdf"
+   },
+   "notes": "Condition: mint (per dealer). No photos available.",
+   "sold": false
   }
  ]
 }
