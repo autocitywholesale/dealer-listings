@@ -140,7 +140,7 @@
     ],
     "pdf": "incoming/2HKRW2H82HH111739/carfax.pdf"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
