@@ -26,10 +26,12 @@ footer{text-align:center;padding:24px;color:#555;font-size:.9rem}
 .sharebtn:hover{background:#a93226}.sharebtn svg,.cardshare svg{width:1.2em;height:1.2em;fill:currentColor;flex:none}
 .sharealt{font-size:.85rem;color:#555}.sharealt a{color:#13315c}.sharemsg{font-size:.85rem;font-weight:600;color:#1e7e34;min-height:1.1em}
 .cardshare{margin-top:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:6px;padding:7px 12px;cursor:pointer;font-family:inherit;font-size:.95rem;display:inline-flex;align-items:center;justify-content:center;gap:6px}
+.vinline{margin:4px 0 0;font-size:1.05rem}.vin{font-family:ui-monospace,Menlo,Consolas,monospace;font-weight:700;letter-spacing:.04em;user-select:all;-webkit-user-select:all;background:#eef2f7;padding:2px 6px;border-radius:4px}.vincopy{margin-left:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:5px;padding:2px 8px;font-size:.8rem;cursor:pointer;font-family:inherit}
 @media(max-width:600px){.sharebox{width:100%}.sharebtn{width:100%;font-size:1.15rem;padding:14px}}"""
 ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>'
 SHARE_JS = """(function(){function note(el,t){var m=el.closest('[data-share-root]');m=m&&m.querySelector('.sharemsg');if(m){m.textContent=t;setTimeout(function(){m.textContent=''},3000)}else{alert(t)}}
 function copy(u){if(navigator.clipboard&&window.isSecureContext)return navigator.clipboard.writeText(u);return new Promise(function(ok,no){var a=document.createElement('textarea');a.value=u;a.style.position='fixed';a.style.opacity='0';document.body.appendChild(a);a.select();try{document.execCommand('copy')?ok():no()}catch(x){no(x)}document.body.removeChild(a)})}
+document.addEventListener('click',function(ev){var c=ev.target.closest('[data-copy-vin]');if(c){copy(c.getAttribute('data-copy-vin')).then(function(){c.textContent='Copied';setTimeout(function(){c.textContent='Copy'},2000)},function(){});return}});
 document.addEventListener('click',function(ev){var b=ev.target.closest('[data-share-url]');if(!b)return;ev.preventDefault();var u=b.getAttribute('data-share-url'),t=b.getAttribute('data-share-title');
 if(navigator.share){navigator.share({title:t,text:t,url:u}).catch(function(x){if(x&&x.name==='AbortError')return;copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})})}
 else{copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})}})})();"""
@@ -63,7 +65,7 @@ def vpage(v, imgs):
     url = share_url(v); stitle = f"{title(v)} - {SITE_SHORT}"
     em = "mailto:?" + urllib.parse.urlencode({"subject": stitle, "body": f"{stitle}\n{url}"}, quote_via=urllib.parse.quote)
     sms = "sms:?&body=" + urllib.parse.quote(f"{stitle} {url}", safe="")
-    b = (f'<div class="titlebar"><h1>{e(title(v))}</h1><div class="sharebox" data-share-root>{sharebtn(url, stitle)}'
+    b = (f'<div class="titlebar"><div><h1>{e(title(v))}</h1><p class="vinline">VIN: <span class="vin">{e(v['vin'])}</span><button type="button" class="vincopy" data-copy-vin="{e(v['vin'])}">Copy</button> · {v['km']:,} km</p></div><div class="sharebox" data-share-root>{sharebtn(url, stitle)}'
          f'<div class="sharemsg" role="status" aria-live="polite"></div>'
          f'<div class="sharealt">Or share by <a href="{e(em)}">Email</a> · <a href="{e(sms)}">Text</a></div></div></div>')
     if not imgs: b += '<div class="noimg hero" style="aspect-ratio:16/6">Photos coming soon</div>'
