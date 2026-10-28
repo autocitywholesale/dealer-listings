@@ -649,6 +649,41 @@
     "Build date": "10/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2GUADC7R8276625",
+   "slug": "41bfgx1wfgag",
+   "year": 2024,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "km": 60762,
+   "photos": [
+    "incoming/JF2GUADC7R8276625/1.jpg",
+    "incoming/JF2GUADC7R8276625/2.jpg",
+    "incoming/JF2GUADC7R8276625/3.jpg",
+    "incoming/JF2GUADC7R8276625/4.jpg",
+    "incoming/JF2GUADC7R8276625/5.jpg",
+    "incoming/JF2GUADC7R8276625/6.jpg",
+    "incoming/JF2GUADC7R8276625/7.jpg",
+    "incoming/JF2GUADC7R8276625/8.jpg",
+    "incoming/JF2GUADC7R8276625/9.jpg",
+    "incoming/JF2GUADC7R8276625/10.jpg",
+    "incoming/JF2GUADC7R8276625/11.jpg",
+    "incoming/JF2GUADC7R8276625/12.jpg",
+    "incoming/JF2GUADC7R8276625/13.jpg",
+    "incoming/JF2GUADC7R8276625/14.jpg",
+    "incoming/JF2GUADC7R8276625/15.jpg",
+    "incoming/JF2GUADC7R8276625/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Black",
+    "Factory tire size (door label)": "225/60R17 on 17x7J rims",
+    "Build date": "07/2023"
+   },
+   "sold": false
   }
  ]
 }
