@@ -835,6 +835,41 @@
     "Build date": "05/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4WMAGD6M3403171",
+   "slug": "0wubo20awbxo",
+   "year": 2021,
+   "make": "Subaru",
+   "model": "Ascent",
+   "km": 85254,
+   "photos": [
+    "incoming/4S4WMAGD6M3403171/1.jpg",
+    "incoming/4S4WMAGD6M3403171/2.jpg",
+    "incoming/4S4WMAGD6M3403171/3.jpg",
+    "incoming/4S4WMAGD6M3403171/4.jpg",
+    "incoming/4S4WMAGD6M3403171/5.jpg",
+    "incoming/4S4WMAGD6M3403171/6.jpg",
+    "incoming/4S4WMAGD6M3403171/7.jpg",
+    "incoming/4S4WMAGD6M3403171/8.jpg",
+    "incoming/4S4WMAGD6M3403171/9.jpg",
+    "incoming/4S4WMAGD6M3403171/10.jpg",
+    "incoming/4S4WMAGD6M3403171/11.jpg",
+    "incoming/4S4WMAGD6M3403171/12.jpg",
+    "incoming/4S4WMAGD6M3403171/13.jpg",
+    "incoming/4S4WMAGD6M3403171/14.jpg",
+    "incoming/4S4WMAGD6M3403171/15.jpg",
+    "incoming/4S4WMAGD6M3403171/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.4L turbo 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Grey",
+    "Factory tire size (door label)": "245/60R18 105H on 18x7.5J rims",
+    "Build date": "08/2020"
+   },
+   "sold": false
   }
  ]
 }
