@@ -614,6 +614,41 @@
     "Build date": "01/2015"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2SLDRC3SH503189",
+   "slug": "221nlrmjkdn8",
+   "year": 2025,
+   "make": "Subaru",
+   "model": "Forester",
+   "km": 88178,
+   "photos": [
+    "incoming/JF2SLDRC3SH503189/1.jpg",
+    "incoming/JF2SLDRC3SH503189/2.jpg",
+    "incoming/JF2SLDRC3SH503189/3.jpg",
+    "incoming/JF2SLDRC3SH503189/4.jpg",
+    "incoming/JF2SLDRC3SH503189/5.jpg",
+    "incoming/JF2SLDRC3SH503189/6.jpg",
+    "incoming/JF2SLDRC3SH503189/7.jpg",
+    "incoming/JF2SLDRC3SH503189/8.jpg",
+    "incoming/JF2SLDRC3SH503189/9.jpg",
+    "incoming/JF2SLDRC3SH503189/10.jpg",
+    "incoming/JF2SLDRC3SH503189/11.jpg",
+    "incoming/JF2SLDRC3SH503189/12.jpg",
+    "incoming/JF2SLDRC3SH503189/13.jpg",
+    "incoming/JF2SLDRC3SH503189/14.jpg",
+    "incoming/JF2SLDRC3SH503189/15.jpg",
+    "incoming/JF2SLDRC3SH503189/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.5L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Blue",
+    "Factory tire size (door label)": "225/55R18 on 18x7J rims",
+    "Build date": "10/2024"
+   },
+   "sold": false
   }
  ]
 }
