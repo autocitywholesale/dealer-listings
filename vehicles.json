@@ -971,6 +971,37 @@
     "Build date": "03/2016"
    },
    "sold": false
+  },
+  {
+   "vin": "KL79MRSL1PB204826",
+   "slug": "b4roehqov2lk",
+   "year": 2023,
+   "make": "Chevrolet",
+   "model": "Trailblazer",
+   "km": 58483,
+   "photos": [
+    "incoming/KL79MRSL1PB204826/1.jpg",
+    "incoming/KL79MRSL1PB204826/2.jpg",
+    "incoming/KL79MRSL1PB204826/3.jpg",
+    "incoming/KL79MRSL1PB204826/4.jpg",
+    "incoming/KL79MRSL1PB204826/5.jpg",
+    "incoming/KL79MRSL1PB204826/6.jpg",
+    "incoming/KL79MRSL1PB204826/7.jpg",
+    "incoming/KL79MRSL1PB204826/8.jpg",
+    "incoming/KL79MRSL1PB204826/9.jpg",
+    "incoming/KL79MRSL1PB204826/10.jpg",
+    "incoming/KL79MRSL1PB204826/11.jpg",
+    "incoming/KL79MRSL1PB204826/12.jpg",
+    "incoming/KL79MRSL1PB204826/13.jpg"
+   ],
+   "specs": {
+    "Engine": "1.3L turbo 3-cylinder, gasoline",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Red",
+    "Factory tire size (door label)": "225/60R17 on 17x7.5J rims",
+    "Build date": "06/2023"
+   },
+   "sold": false
   }
  ]
 }
