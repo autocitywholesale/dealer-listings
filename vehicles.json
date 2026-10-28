@@ -937,6 +937,40 @@
     "Build date": "12/2011"
    },
    "sold": false
+  },
+  {
+   "vin": "JF1GPAA63G8281571",
+   "slug": "vcqhvxu48egs",
+   "year": 2016,
+   "make": "Subaru",
+   "model": "Impreza",
+   "km": 414949,
+   "photos": [
+    "incoming/JF1GPAA63G8281571/1.jpg",
+    "incoming/JF1GPAA63G8281571/2.jpg",
+    "incoming/JF1GPAA63G8281571/3.jpg",
+    "incoming/JF1GPAA63G8281571/4.jpg",
+    "incoming/JF1GPAA63G8281571/5.jpg",
+    "incoming/JF1GPAA63G8281571/6.jpg",
+    "incoming/JF1GPAA63G8281571/7.jpg",
+    "incoming/JF1GPAA63G8281571/8.jpg",
+    "incoming/JF1GPAA63G8281571/9.jpg",
+    "incoming/JF1GPAA63G8281571/10.jpg",
+    "incoming/JF1GPAA63G8281571/11.jpg",
+    "incoming/JF1GPAA63G8281571/12.jpg",
+    "incoming/JF1GPAA63G8281571/13.jpg",
+    "incoming/JF1GPAA63G8281571/14.jpg",
+    "incoming/JF1GPAA63G8281571/15.jpg",
+    "incoming/JF1GPAA63G8281571/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Black",
+    "Build date": "03/2016"
+   },
+   "sold": false
   }
  ]
 }
