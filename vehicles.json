@@ -476,6 +476,41 @@
     "Equipment": "Gooseneck hitch in bed, crossover truck-bed toolbox"
    },
    "sold": false
+  },
+  {
+   "vin": "KM8SNDHF7HU237871",
+   "slug": "pxadn995n2rr",
+   "year": 2017,
+   "make": "Hyundai",
+   "model": "Santa Fe XL",
+   "km": 131099,
+   "photos": [
+    "incoming/KM8SNDHF7HU237871/1.jpg",
+    "incoming/KM8SNDHF7HU237871/2.jpg",
+    "incoming/KM8SNDHF7HU237871/3.jpg",
+    "incoming/KM8SNDHF7HU237871/4.jpg",
+    "incoming/KM8SNDHF7HU237871/5.jpg",
+    "incoming/KM8SNDHF7HU237871/6.jpg",
+    "incoming/KM8SNDHF7HU237871/7.jpg",
+    "incoming/KM8SNDHF7HU237871/8.jpg",
+    "incoming/KM8SNDHF7HU237871/9.jpg",
+    "incoming/KM8SNDHF7HU237871/10.jpg",
+    "incoming/KM8SNDHF7HU237871/11.jpg",
+    "incoming/KM8SNDHF7HU237871/12.jpg",
+    "incoming/KM8SNDHF7HU237871/13.jpg",
+    "incoming/KM8SNDHF7HU237871/14.jpg",
+    "incoming/KM8SNDHF7HU237871/15.jpg",
+    "incoming/KM8SNDHF7HU237871/16.jpg"
+   ],
+   "specs": {
+    "Engine": "3.3L V6, gasoline",
+    "Drivetrain": "AWD",
+    "Seating": "Third-row seating",
+    "Exterior colour": "White (paint code YAC)",
+    "Tires": "235/60R18 on 18x7.5 rims",
+    "Build date": "01/2017"
+   },
+   "sold": false
   }
  ]
 }
