@@ -511,6 +511,38 @@
     "Build date": "01/2017"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2GTHSC5PH272620",
+   "slug": "ht6ywbiqhsya",
+   "year": 2023,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "km": 138219,
+   "photos": [
+    "incoming/JF2GTHSC5PH272620/1.jpg",
+    "incoming/JF2GTHSC5PH272620/2.jpg",
+    "incoming/JF2GTHSC5PH272620/3.jpg",
+    "incoming/JF2GTHSC5PH272620/4.jpg",
+    "incoming/JF2GTHSC5PH272620/5.jpg",
+    "incoming/JF2GTHSC5PH272620/6.jpg",
+    "incoming/JF2GTHSC5PH272620/7.jpg",
+    "incoming/JF2GTHSC5PH272620/8.jpg",
+    "incoming/JF2GTHSC5PH272620/9.jpg",
+    "incoming/JF2GTHSC5PH272620/10.jpg",
+    "incoming/JF2GTHSC5PH272620/11.jpg",
+    "incoming/JF2GTHSC5PH272620/12.jpg",
+    "incoming/JF2GTHSC5PH272620/13.jpg"
+   ],
+   "specs": {
+    "Engine": "2.5L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims",
+    "Build date": "10/2022"
+   },
+   "sold": false
   }
  ]
 }
