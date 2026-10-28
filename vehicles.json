@@ -684,6 +684,41 @@
     "Build date": "07/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "5XYZUDLB8JG530633",
+   "slug": "znxkjitrcleb",
+   "year": 2018,
+   "make": "Hyundai",
+   "model": "Santa Fe Sport",
+   "km": 48111,
+   "photos": [
+    "incoming/5XYZUDLB8JG530633/1.jpg",
+    "incoming/5XYZUDLB8JG530633/2.jpg",
+    "incoming/5XYZUDLB8JG530633/3.jpg",
+    "incoming/5XYZUDLB8JG530633/4.jpg",
+    "incoming/5XYZUDLB8JG530633/5.jpg",
+    "incoming/5XYZUDLB8JG530633/6.jpg",
+    "incoming/5XYZUDLB8JG530633/7.jpg",
+    "incoming/5XYZUDLB8JG530633/8.jpg",
+    "incoming/5XYZUDLB8JG530633/9.jpg",
+    "incoming/5XYZUDLB8JG530633/10.jpg",
+    "incoming/5XYZUDLB8JG530633/11.jpg",
+    "incoming/5XYZUDLB8JG530633/12.jpg",
+    "incoming/5XYZUDLB8JG530633/13.jpg",
+    "incoming/5XYZUDLB8JG530633/14.jpg",
+    "incoming/5XYZUDLB8JG530633/15.jpg",
+    "incoming/5XYZUDLB8JG530633/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.4L 4-cylinder, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Red",
+    "Factory tire size (door label)": "235/65R17 on 7.0Jx17 rims",
+    "Build date": "08/2017"
+   },
+   "sold": false
   }
  ]
 }
