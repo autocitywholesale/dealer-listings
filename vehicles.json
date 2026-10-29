@@ -1270,6 +1270,40 @@
     "Build date": "09/2017"
    },
    "sold": false
+  },
+  {
+   "vin": "2HKRM4H58EH111554",
+   "slug": "bwynr5ys5elv",
+   "year": 2014,
+   "make": "Honda",
+   "model": "CR-V",
+   "km": 279614,
+   "photos": [
+    "incoming/2HKRM4H58EH111554/1.jpg",
+    "incoming/2HKRM4H58EH111554/2.jpg",
+    "incoming/2HKRM4H58EH111554/3.jpg",
+    "incoming/2HKRM4H58EH111554/4.jpg",
+    "incoming/2HKRM4H58EH111554/5.jpg",
+    "incoming/2HKRM4H58EH111554/6.jpg",
+    "incoming/2HKRM4H58EH111554/7.jpg",
+    "incoming/2HKRM4H58EH111554/8.jpg",
+    "incoming/2HKRM4H58EH111554/9.jpg",
+    "incoming/2HKRM4H58EH111554/10.jpg",
+    "incoming/2HKRM4H58EH111554/11.jpg",
+    "incoming/2HKRM4H58EH111554/12.jpg",
+    "incoming/2HKRM4H58EH111554/13.jpg",
+    "incoming/2HKRM4H58EH111554/14.jpg",
+    "incoming/2HKRM4H58EH111554/15.jpg"
+   ],
+   "specs": {
+    "Engine": "2.4L 4-cylinder, gasoline",
+    "Transmission": "5-speed automatic",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Grey",
+    "Factory tire size (door label)": "225/65R17 on 17x6.5J rims",
+    "Build date": "11/2013"
+   },
+   "sold": false
   }
  ]
 }
