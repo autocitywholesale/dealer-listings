@@ -1341,7 +1341,18 @@
     ],
     "pdf": "incoming/1GTUUGEDXRZ210897/sticker.pdf"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Last reported odometer": "32,652 km (2025-08-28)",
+    "Accidents/damage": "None",
+    "Registration": "New Brunswick only, 1 owner, Normal",
+    "Open recalls": "None",
+    "records": [
+     "4 service records at MacDonald Buick GMC Cadillac, Moncton"
+    ],
+    "url": "https://vhr.carfax.ca/?id=vJSnmtcpsQXcDJMO3mBGDVCzbmj%2BlygJ",
+    "pdf": "incoming/1GTUUGEDXRZ210897/carfax.pdf"
+   }
   }
  ]
 }
