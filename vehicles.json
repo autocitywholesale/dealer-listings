@@ -1,1358 +1,1358 @@
 {
- "vehicles": [
-  {
-   "vin": "5FNYF6H33KB505148",
-   "slug": "u2pe4ygydovc",
-   "year": 2019,
-   "make": "Honda",
-   "model": "Pilot",
-   "km": 193522,
-   "photos": [
-    "incoming/5FNYF6H33KB505148/1.jpg",
-    "incoming/5FNYF6H33KB505148/2.jpg",
-    "incoming/5FNYF6H33KB505148/3.jpg",
-    "incoming/5FNYF6H33KB505148/4.jpg",
-    "incoming/5FNYF6H33KB505148/5.jpg",
-    "incoming/5FNYF6H33KB505148/6.jpg",
-    "incoming/5FNYF6H33KB505148/7.jpg",
-    "incoming/5FNYF6H33KB505148/8.jpg",
-    "incoming/5FNYF6H33KB505148/9.jpg",
-    "incoming/5FNYF6H33KB505148/10.jpg",
-    "incoming/5FNYF6H33KB505148/11.jpg",
-    "incoming/5FNYF6H33KB505148/12.jpg",
-    "incoming/5FNYF6H33KB505148/13.jpg",
-    "incoming/5FNYF6H33KB505148/14.jpg",
-    "incoming/5FNYF6H33KB505148/15.jpg",
-    "incoming/5FNYF6H33KB505148/16.jpg",
-    "incoming/5FNYF6H33KB505148/17.jpg",
-    "incoming/5FNYF6H33KB505148/18.jpg",
-    "incoming/5FNYF6H33KB505148/19.jpg",
-    "incoming/5FNYF6H33KB505148/20.jpg",
-    "incoming/5FNYF6H33KB505148/21.jpg",
-    "incoming/5FNYF6H33KB505148/22.jpg",
-    "incoming/5FNYF6H33KB505148/23.jpg",
-    "incoming/5FNYF6H33KB505148/24.jpg",
-    "incoming/5FNYF6H33KB505148/25.jpg"
-   ],
-   "specs": {
-    "Body": "SUV, 5-door",
-    "Engine": "3.5L V6, gasoline",
-    "Transmission": "6-speed automatic",
-    "Drivetrain": "AWD",
-    "Seating": "8",
-    "Exterior colour": "Black (paint code NH731P)",
-    "Tires": "245/60R18 on 18x8 rims",
-    "Build date": "03/2019"
-   },
-   "sold": true,
-   "carfax": {
-    "Accidents/damage": "No police-reported accidents, estimates or claims. One glass record: Jun 27, 2024, New Brunswick, $2,097",
-    "Registration": "New Brunswick, Normal branding; no U.S. history; not stolen",
-    "Open recalls": "1: HP83 Fuel Pump May Seize (Dec 18, 2023)",
-    "records": [
-     "Mar 28, 2019: Fundy Honda, Saint John NB, pre-delivery inspection"
-    ],
-    "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
-   }
-  },
-  {
-   "vin": "1GYAZAR49KF154240",
-   "slug": "tugew2eullgz",
-   "year": 2019,
-   "make": "Cadillac",
-   "model": "XT4",
-   "km": 157365,
-   "photos": [
-    "incoming/1GYAZAR49KF154240/1.jpg",
-    "incoming/1GYAZAR49KF154240/2.jpg",
-    "incoming/1GYAZAR49KF154240/3.jpg",
-    "incoming/1GYAZAR49KF154240/4.jpg",
-    "incoming/1GYAZAR49KF154240/5.jpg",
-    "incoming/1GYAZAR49KF154240/6.jpg",
-    "incoming/1GYAZAR49KF154240/7.jpg",
-    "incoming/1GYAZAR49KF154240/8.jpg",
-    "incoming/1GYAZAR49KF154240/9.jpg",
-    "incoming/1GYAZAR49KF154240/10.jpg",
-    "incoming/1GYAZAR49KF154240/11.jpg",
-    "incoming/1GYAZAR49KF154240/12.jpg",
-    "incoming/1GYAZAR49KF154240/13.jpg",
-    "incoming/1GYAZAR49KF154240/14.jpg",
-    "incoming/1GYAZAR49KF154240/15.jpg",
-    "incoming/1GYAZAR49KF154240/16.jpg",
-    "incoming/1GYAZAR49KF154240/17.jpg",
-    "incoming/1GYAZAR49KF154240/18.jpg",
-    "incoming/1GYAZAR49KF154240/19.jpg"
-   ],
-   "specs": {
-    "Body": "SUV, 4-door",
-    "Engine": "2.0L turbo 4-cylinder, gasoline",
-    "Drivetrain": "FWD",
-    "Seating": "5",
-    "Exterior colour": "Silver",
-    "Tires": "235/60R18 on 18x8 rims",
-    "Build date": "01/2019"
-   },
-   "sold": false,
-   "trim": "Luxury",
-   "carfax": {
-    "Report date": "September 29, 2026",
-    "Last reported odometer": "157,020 km (Sep 14, 2026)",
-    "Accidents/damage": "No accidents or damage reported",
-    "Registration": "New Brunswick only, Normal branding; no U.S. history",
-    "Owners": "1",
-    "Open recalls": "None",
-    "records": [
-     "Sep 14, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 157,020 km, vehicle serviced (fluids checked, oil and filter changed)",
-     "25 service records in total reported"
-    ],
-    "url": "https://vhr.carfax.ca/?id=iIkR8BxF4jBF1%2FS82OP4C9%2FWi5X3UdNy",
-    "pdf": "incoming/1GYAZAR49KF154240/carfax.pdf"
-   },
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/1GYAZAR49KF154240/build_sheet.pdf"
-   }
-  },
-  {
-   "vin": "2HKRW2H82HH111739",
-   "slug": "b7ecefyo1giv",
-   "year": 2017,
-   "make": "Honda",
-   "model": "CR-V",
-   "trim": "EX-L",
-   "km": 98597,
-   "photos": [],
-   "specs": {
-    "Body": "SUV, 5-door",
-    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Seating": "5",
-    "Built": "Alliston, Ontario, Canada"
-   },
-   "carfax": {
-    "Accidents/damage": "No accidents or damage reported",
-    "Registration": "New Brunswick (2017-2026), Normal branding; no U.S. history",
-    "Open recalls": "None",
-    "Odometer readings": "None reported",
-    "records": [
-     "May 3, 2017: Ceilidh Honda, New Glasgow NS, vehicle serviced"
-    ],
-    "pdf": "incoming/2HKRW2H82HH111739/carfax.pdf"
-   },
-   "sold": true,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
-   }
-  },
-  {
-   "vin": "1GNSKAKC3FR247671",
-   "slug": "qjdpwgyinups",
-   "year": 2015,
-   "make": "Chevrolet",
-   "model": "Tahoe",
-   "trim": "LS",
-   "km": 214012,
-   "photos": [
-    "incoming/1GNSKAKC3FR247671/1.jpg",
-    "incoming/1GNSKAKC3FR247671/2.jpg",
-    "incoming/1GNSKAKC3FR247671/3.jpg",
-    "incoming/1GNSKAKC3FR247671/4.jpg",
-    "incoming/1GNSKAKC3FR247671/5.jpg",
-    "incoming/1GNSKAKC3FR247671/6.jpg",
-    "incoming/1GNSKAKC3FR247671/7.jpg",
-    "incoming/1GNSKAKC3FR247671/8.jpg",
-    "incoming/1GNSKAKC3FR247671/9.jpg",
-    "incoming/1GNSKAKC3FR247671/10.jpg",
-    "incoming/1GNSKAKC3FR247671/11.jpg",
-    "incoming/1GNSKAKC3FR247671/12.jpg",
-    "incoming/1GNSKAKC3FR247671/13.jpg",
-    "incoming/1GNSKAKC3FR247671/14.jpg",
-    "incoming/1GNSKAKC3FR247671/15.jpg",
-    "incoming/1GNSKAKC3FR247671/16.jpg"
-   ],
-   "specs": {
-    "Body": "SUV, 4-door",
-    "Engine": "5.3L V8, gasoline",
-    "Drivetrain": "4WD",
-    "Exterior colour": "Black",
-    "Tires": "P265/65R18 on 18x8.5 rims",
-    "Build date": "07/2014"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/1GNSKAKC3FR247671/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73634236",
-    "url": "https://vhr.carfax.ca/?id=5%2FiVQQKh2mHg8jC09EPN3kfoPL3q%2Bjcl",
-    "pdf": "incoming/1GNSKAKC3FR247671/carfax.pdf"
-   }
-  },
-  {
-   "vin": "2HKRW2H84KH123723",
-   "slug": "rr506iwmvkyn",
-   "year": 2019,
-   "make": "Honda",
-   "model": "CR-V",
-   "trim": "EX-L",
-   "km": 81506,
-   "photos": [],
-   "specs": {
-    "Body": "SUV, 5-door",
-    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Seating": "5",
-    "Exterior colour": "Gunmetal",
-    "Built": "Alliston, Ontario, Canada"
-   },
-   "carfax": {
-    "Report date": "October 27, 2026",
-    "Last reported odometer": "32,394 km (Jun 30, 2022)",
-    "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
-    "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-    "Owners": "1",
-    "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
-    "records": [
-     "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
-     "6 service records in total reported (all New Brunswick)"
-    ],
-    "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
-    "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
-   },
-   "sold": true,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
-   }
-  },
-  {
-   "vin": "2GC4YME74R1145051",
-   "slug": "y2e6spu0ih9h",
-   "year": 2024,
-   "make": "Chevrolet",
-   "model": "Silverado 2500HD",
-   "trim": "Custom Crew Cab 4WD Z71",
-   "km": 77336,
-   "photos": [
-    "incoming/2GC4YME74R1145051/1.jpg",
-    "incoming/2GC4YME74R1145051/2.jpg",
-    "incoming/2GC4YME74R1145051/3.jpg",
-    "incoming/2GC4YME74R1145051/4.jpg",
-    "incoming/2GC4YME74R1145051/5.jpg",
-    "incoming/2GC4YME74R1145051/6.jpg",
-    "incoming/2GC4YME74R1145051/7.jpg",
-    "incoming/2GC4YME74R1145051/8.jpg",
-    "incoming/2GC4YME74R1145051/9.jpg",
-    "incoming/2GC4YME74R1145051/10.jpg",
-    "incoming/2GC4YME74R1145051/11.jpg",
-    "incoming/2GC4YME74R1145051/12.jpg",
-    "incoming/2GC4YME74R1145051/13.jpg",
-    "incoming/2GC4YME74R1145051/14.jpg",
-    "incoming/2GC4YME74R1145051/15.jpg",
-    "incoming/2GC4YME74R1145051/16.jpg",
-    "incoming/2GC4YME74R1145051/17.jpg",
-    "incoming/2GC4YME74R1145051/18.jpg"
-   ],
-   "specs": {
-    "Body": "Crew Cab pickup",
-    "Engine": "6.6L V8, gasoline (L8T)",
-    "Transmission": "Allison 10-speed automatic",
-    "Drivetrain": "4WD",
-    "Exterior colour": "Dark Ash Metallic",
-    "Interior": "Jet Black",
-    "Built": "Oshawa, Ontario, Canada"
-   },
-   "build_sheet": {
-    "msrp": 74364,
-    "packages": [
-     "Custom Value Package (1CX): 10-way power driver seat, remote start, 120V outlets in cab and bed, trailer brake controller, lane change alert with side blind zone alert, rear cross traffic alert, rear park assist, power-folding trailering mirrors",
-     "Gooseneck/5th Wheel Prep Package with spray-on bedliner",
-     "Z71 Off-Road Package: Rancho shocks, hill descent control, skid plates"
-    ],
-    "options": [
-     "LED roof marker lamps",
-     "3.73 rear axle ratio",
-     "20-inch machined aluminum wheels with LT275/65R20 all-terrain tires",
-     "7-inch infotainment with wireless Apple CarPlay / Android Auto",
-     "40/20/40 front split-bench seat"
-    ],
-    "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
-   },
-   "carfax": {
-    "Report date": "October 15, 2026",
-    "Last reported odometer": "64,129 km (Apr 17, 2026)",
-    "Accidents/damage": "No accident or damage records",
-    "Registration": "New Brunswick only, Normal branding; no U.S. history",
-    "Owners": "1",
-    "Open recalls": "None",
-    "records": [
-     "Apr 17, 2026: Fox Chevrolet Cadillac, Fredericton NB, 64,129 km",
-     "12 service records in total reported (all New Brunswick)"
-    ],
-    "url": "https://vhr.carfax.ca/?id=AlOOa8Fb%2Fbw9%2F4hI9fwMU8xdS9dhMu0L",
-    "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
-   },
-   "sold": false
-  },
-  {
-   "vin": "KL77LJE21TC125840",
-   "slug": "pt6k2y9gvj0q",
-   "year": 2026,
-   "make": "Chevrolet",
-   "model": "Trax",
-   "trim": "RS FWD",
-   "km": 3144,
-   "photos": [
-    "incoming/KL77LJE21TC125840/1.jpg",
-    "incoming/KL77LJE21TC125840/2.jpg",
-    "incoming/KL77LJE21TC125840/3.jpg",
-    "incoming/KL77LJE21TC125840/4.jpg",
-    "incoming/KL77LJE21TC125840/5.jpg",
-    "incoming/KL77LJE21TC125840/6.jpg",
-    "incoming/KL77LJE21TC125840/7.jpg",
-    "incoming/KL77LJE21TC125840/8.jpg",
-    "incoming/KL77LJE21TC125840/9.jpg",
-    "incoming/KL77LJE21TC125840/10.jpg",
-    "incoming/KL77LJE21TC125840/11.jpg",
-    "incoming/KL77LJE21TC125840/12.jpg",
-    "incoming/KL77LJE21TC125840/13.jpg",
-    "incoming/KL77LJE21TC125840/14.jpg",
-    "incoming/KL77LJE21TC125840/15.jpg",
-    "incoming/KL77LJE21TC125840/16.jpg",
-    "incoming/KL77LJE21TC125840/17.jpg"
-   ],
-   "specs": {
-    "Body": "SUV",
-    "Engine": "Ecotec 1.2L turbo 3-cylinder, gasoline",
-    "Transmission": "6-speed automatic",
-    "Drivetrain": "FWD",
-    "Exterior colour": "Sterling Gray Metallic",
-    "Interior": "Jet Black with Red Accents",
-    "Built": "Changwon, Korea"
-   },
-   "sold": false,
-   "build_sheet": {
-    "msrp": 33198,
-    "pdf": "incoming/KL77LJE21TC125840/build_sheet.pdf"
-   },
-   "carfax": {
-    "Accidents/damage": "No accident or damage records",
-    "Registration": "New Brunswick only",
-    "Owners": "1",
-    "Open recalls": "None",
-    "url": "https://vhr.carfax.ca/?id=SryrYourwzXGU%2FQvNzCuLFU1ky%2BeCyLn",
-    "pdf": "incoming/KL77LJE21TC125840/carfax.pdf"
-   }
-  },
-  {
-   "vin": "KL79MRSL5RB206128",
-   "slug": "cgd99auuqkqh",
-   "year": 2024,
-   "make": "Chevrolet",
-   "model": "Trailblazer",
-   "trim": "LT AWD",
-   "km": 30413,
-   "photos": [
-    "incoming/KL79MRSL5RB206128/1.jpg",
-    "incoming/KL79MRSL5RB206128/2.jpg",
-    "incoming/KL79MRSL5RB206128/3.jpg",
-    "incoming/KL79MRSL5RB206128/4.jpg",
-    "incoming/KL79MRSL5RB206128/5.jpg",
-    "incoming/KL79MRSL5RB206128/6.jpg",
-    "incoming/KL79MRSL5RB206128/7.jpg",
-    "incoming/KL79MRSL5RB206128/8.jpg",
-    "incoming/KL79MRSL5RB206128/9.jpg",
-    "incoming/KL79MRSL5RB206128/10.jpg",
-    "incoming/KL79MRSL5RB206128/11.jpg",
-    "incoming/KL79MRSL5RB206128/12.jpg",
-    "incoming/KL79MRSL5RB206128/13.jpg",
-    "incoming/KL79MRSL5RB206128/14.jpg",
-    "incoming/KL79MRSL5RB206128/15.jpg",
-    "incoming/KL79MRSL5RB206128/16.jpg"
-   ],
-   "specs": {
-    "Body": "SUV",
-    "Engine": "Ecotec 1.3L turbo 3-cylinder, gasoline",
-    "Transmission": "9-speed automatic",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Iridescent Pearl Tricoat",
-    "Interior": "Jet Black",
-    "Built": "Bupyeong, Korea"
-   },
-   "sold": false,
-   "build_sheet": {
-    "msrp": 35489,
-    "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
-   },
-   "carfax": {
-    "Accidents/damage": "No accident or damage records",
-    "Registration": "PEI and New Brunswick",
-    "Owners": "1",
-    "Open recalls": "None",
-    "Service records": "4",
-    "url": "https://vhr.carfax.ca/?id=5YJLC9NHClnVPKXv7z8JV0wUqLhusuV2",
-    "pdf": "incoming/KL79MRSL5RB206128/carfax.pdf"
-   }
-  },
-  {
-   "vin": "2GNAXUEV4L6250517",
-   "slug": "wdwww3ac57t8",
-   "year": 2020,
-   "make": "Chevrolet",
-   "model": "Equinox",
-   "trim": "LT",
-   "km": 123095,
-   "photos": [
-    "incoming/2GNAXUEV4L6250517/1.jpg",
-    "incoming/2GNAXUEV4L6250517/2.jpg",
-    "incoming/2GNAXUEV4L6250517/3.jpg",
-    "incoming/2GNAXUEV4L6250517/4.jpg",
-    "incoming/2GNAXUEV4L6250517/5.jpg",
-    "incoming/2GNAXUEV4L6250517/6.jpg",
-    "incoming/2GNAXUEV4L6250517/7.jpg",
-    "incoming/2GNAXUEV4L6250517/8.jpg",
-    "incoming/2GNAXUEV4L6250517/9.jpg",
-    "incoming/2GNAXUEV4L6250517/10.jpg",
-    "incoming/2GNAXUEV4L6250517/11.jpg",
-    "incoming/2GNAXUEV4L6250517/12.jpg",
-    "incoming/2GNAXUEV4L6250517/13.jpg",
-    "incoming/2GNAXUEV4L6250517/14.jpg",
-    "incoming/2GNAXUEV4L6250517/15.jpg",
-    "incoming/2GNAXUEV4L6250517/16.jpg",
-    "incoming/2GNAXUEV4L6250517/17.jpg"
-   ],
-   "specs": {
-    "Body": "SUV",
-    "Engine": "1.5L turbo 4-cylinder, gasoline",
-    "Transmission": "6-speed automatic",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Black",
-    "Tires": "235/50R19 on 19x7.5 rims",
-    "Build date": "06/2020",
-    "Built": "Ingersoll, Ontario",
-    "Interior": "Black leather"
-   },
-   "sold": false,
-   "carfax": {
-    "Accidents/damage": "No accident or damage records",
-    "Registration": "New Brunswick only",
-    "Owners": "1",
-    "Service records": "3",
-    "url": "https://vhr.carfax.ca/?id=02F3M15cF3griL6YWTmQFu6XhO1mYzMV",
-    "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
-   },
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
-   }
-  },
-  {
-   "vin": "1GC5YTEY0RF326146",
-   "slug": "w3ao56mg7fh8",
-   "year": 2024,
-   "make": "Chevrolet",
-   "model": "Silverado 3500HD",
-   "trim": "LT",
-   "km": 85147,
-   "photos": [
-    "incoming/1GC5YTEY0RF326146/1.jpg",
-    "incoming/1GC5YTEY0RF326146/2.jpg",
-    "incoming/1GC5YTEY0RF326146/3.jpg",
-    "incoming/1GC5YTEY0RF326146/4.jpg",
-    "incoming/1GC5YTEY0RF326146/5.jpg",
-    "incoming/1GC5YTEY0RF326146/6.jpg",
-    "incoming/1GC5YTEY0RF326146/7.jpg",
-    "incoming/1GC5YTEY0RF326146/8.jpg",
-    "incoming/1GC5YTEY0RF326146/9.jpg",
-    "incoming/1GC5YTEY0RF326146/10.jpg",
-    "incoming/1GC5YTEY0RF326146/11.jpg",
-    "incoming/1GC5YTEY0RF326146/12.jpg",
-    "incoming/1GC5YTEY0RF326146/13.jpg",
-    "incoming/1GC5YTEY0RF326146/14.jpg",
-    "incoming/1GC5YTEY0RF326146/15.jpg"
-   ],
-   "specs": {
-    "Engine": "6.6L Duramax turbo V8, diesel (L5P)",
-    "Drivetrain": "4WD",
-    "Rear wheels": "Dual rear wheels (dually)",
-    "Exterior colour": "White",
-    "Tires": "LT235/80R17E on 17x6.5 rims",
-    "Build date": "01/2024",
-    "Equipment": "Gooseneck hitch in bed, crossover truck-bed toolbox"
-   },
-   "sold": false,
-   "build_sheet": {
-    "msrp": 99664,
-    "pdf": "incoming/1GC5YTEY0RF326146/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73477523",
-    "url": "https://vhr.carfax.ca/?id=QsuRvUWLIHhG3JPtoUefAF7TvQT47BmR",
-    "pdf": "incoming/1GC5YTEY0RF326146/carfax.pdf"
-   }
-  },
-  {
-   "vin": "KM8SNDHF7HU237871",
-   "slug": "pxadn995n2rr",
-   "year": 2017,
-   "make": "Hyundai",
-   "model": "Santa Fe XL",
-   "km": 131099,
-   "photos": [
-    "incoming/KM8SNDHF7HU237871/1.jpg",
-    "incoming/KM8SNDHF7HU237871/2.jpg",
-    "incoming/KM8SNDHF7HU237871/3.jpg",
-    "incoming/KM8SNDHF7HU237871/4.jpg",
-    "incoming/KM8SNDHF7HU237871/5.jpg",
-    "incoming/KM8SNDHF7HU237871/6.jpg",
-    "incoming/KM8SNDHF7HU237871/7.jpg",
-    "incoming/KM8SNDHF7HU237871/8.jpg",
-    "incoming/KM8SNDHF7HU237871/9.jpg",
-    "incoming/KM8SNDHF7HU237871/10.jpg",
-    "incoming/KM8SNDHF7HU237871/11.jpg",
-    "incoming/KM8SNDHF7HU237871/12.jpg",
-    "incoming/KM8SNDHF7HU237871/13.jpg",
-    "incoming/KM8SNDHF7HU237871/14.jpg",
-    "incoming/KM8SNDHF7HU237871/15.jpg",
-    "incoming/KM8SNDHF7HU237871/16.jpg"
-   ],
-   "specs": {
-    "Engine": "3.3L V6, gasoline",
-    "Drivetrain": "AWD",
-    "Seating": "Third-row seating",
-    "Exterior colour": "White (paint code YAC)",
-    "Tires": "235/60R18 on 18x7.5 rims",
-    "Build date": "01/2017"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/KM8SNDHF7HU237871/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73465006",
-    "url": "https://vhr.carfax.ca/?id=tNl5AzdUgyy1lbRneOlRt36ZZ9%2FBFfdX",
-    "pdf": "incoming/KM8SNDHF7HU237871/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GTHSC5PH272620",
-   "slug": "ht6ywbiqhsya",
-   "year": 2023,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 138219,
-   "photos": [
-    "incoming/JF2GTHSC5PH272620/1.jpg",
-    "incoming/JF2GTHSC5PH272620/2.jpg",
-    "incoming/JF2GTHSC5PH272620/3.jpg",
-    "incoming/JF2GTHSC5PH272620/4.jpg",
-    "incoming/JF2GTHSC5PH272620/5.jpg",
-    "incoming/JF2GTHSC5PH272620/6.jpg",
-    "incoming/JF2GTHSC5PH272620/7.jpg",
-    "incoming/JF2GTHSC5PH272620/8.jpg",
-    "incoming/JF2GTHSC5PH272620/9.jpg",
-    "incoming/JF2GTHSC5PH272620/10.jpg",
-    "incoming/JF2GTHSC5PH272620/11.jpg",
-    "incoming/JF2GTHSC5PH272620/12.jpg",
-    "incoming/JF2GTHSC5PH272620/13.jpg"
-   ],
-   "specs": {
-    "Engine": "2.5L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "White",
-    "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims",
-    "Build date": "10/2022"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GTHSC5PH272620/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663822",
-    "url": "https://vhr.carfax.ca/?id=19dWKGJrT1WuRgNRtF1ybf1t5rgolvhG",
-    "pdf": "incoming/JF2GTHSC5PH272620/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GUADC0R8270679",
-   "slug": "x9etaexg26i7",
-   "year": 2024,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 56743,
-   "photos": [
-    "incoming/JF2GUADC0R8270679/1.jpg",
-    "incoming/JF2GUADC0R8270679/2.jpg",
-    "incoming/JF2GUADC0R8270679/3.jpg",
-    "incoming/JF2GUADC0R8270679/4.jpg",
-    "incoming/JF2GUADC0R8270679/5.jpg",
-    "incoming/JF2GUADC0R8270679/6.jpg",
-    "incoming/JF2GUADC0R8270679/7.jpg",
-    "incoming/JF2GUADC0R8270679/8.jpg",
-    "incoming/JF2GUADC0R8270679/9.jpg",
-    "incoming/JF2GUADC0R8270679/10.jpg",
-    "incoming/JF2GUADC0R8270679/11.jpg",
-    "incoming/JF2GUADC0R8270679/12.jpg",
-    "incoming/JF2GUADC0R8270679/13.jpg",
-    "incoming/JF2GUADC0R8270679/14.jpg",
-    "incoming/JF2GUADC0R8270679/15.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Grey",
-    "Factory tire size (door label)": "225/60R17 on 17x7J rims",
-    "Build date": "07/2023"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GUADC0R8270679/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73465072",
-    "url": "https://vhr.carfax.ca/?id=tPOWOX6hnqkGCIhWEyKFntrxqX3wd6%2Bk",
-    "pdf": "incoming/JF2GUADC0R8270679/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2SJHWC4FH574764",
-   "slug": "typuugxna8zt",
-   "year": 2015,
-   "make": "Subaru",
-   "model": "Forester",
-   "trim": "XT",
-   "km": 159018,
-   "photos": [
-    "incoming/JF2SJHWC4FH574764/1.jpg",
-    "incoming/JF2SJHWC4FH574764/2.jpg",
-    "incoming/JF2SJHWC4FH574764/3.jpg",
-    "incoming/JF2SJHWC4FH574764/4.jpg",
-    "incoming/JF2SJHWC4FH574764/5.jpg",
-    "incoming/JF2SJHWC4FH574764/6.jpg",
-    "incoming/JF2SJHWC4FH574764/7.jpg",
-    "incoming/JF2SJHWC4FH574764/8.jpg",
-    "incoming/JF2SJHWC4FH574764/9.jpg",
-    "incoming/JF2SJHWC4FH574764/10.jpg",
-    "incoming/JF2SJHWC4FH574764/11.jpg",
-    "incoming/JF2SJHWC4FH574764/12.jpg",
-    "incoming/JF2SJHWC4FH574764/13.jpg",
-    "incoming/JF2SJHWC4FH574764/14.jpg",
-    "incoming/JF2SJHWC4FH574764/15.jpg",
-    "incoming/JF2SJHWC4FH574764/16.jpg",
-    "incoming/JF2SJHWC4FH574764/17.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L turbo",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Silver",
-    "Factory tire size (door label)": "P225/55R18 97H on 18x7J rims",
-    "Build date": "01/2015"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2SJHWC4FH574764/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73465032",
-    "url": "https://vhr.carfax.ca/?id=sji2l%2FXQ5bSeqrc5J%2FHVr0TMtQd8ZAO6",
-    "pdf": "incoming/JF2SJHWC4FH574764/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2SLDRC3SH503189",
-   "slug": "221nlrmjkdn8",
-   "year": 2025,
-   "make": "Subaru",
-   "model": "Forester",
-   "km": 88178,
-   "photos": [
-    "incoming/JF2SLDRC3SH503189/1.jpg",
-    "incoming/JF2SLDRC3SH503189/2.jpg",
-    "incoming/JF2SLDRC3SH503189/3.jpg",
-    "incoming/JF2SLDRC3SH503189/4.jpg",
-    "incoming/JF2SLDRC3SH503189/5.jpg",
-    "incoming/JF2SLDRC3SH503189/6.jpg",
-    "incoming/JF2SLDRC3SH503189/7.jpg",
-    "incoming/JF2SLDRC3SH503189/8.jpg",
-    "incoming/JF2SLDRC3SH503189/9.jpg",
-    "incoming/JF2SLDRC3SH503189/10.jpg",
-    "incoming/JF2SLDRC3SH503189/11.jpg",
-    "incoming/JF2SLDRC3SH503189/12.jpg",
-    "incoming/JF2SLDRC3SH503189/13.jpg",
-    "incoming/JF2SLDRC3SH503189/14.jpg",
-    "incoming/JF2SLDRC3SH503189/15.jpg",
-    "incoming/JF2SLDRC3SH503189/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.5L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Blue",
-    "Factory tire size (door label)": "225/55R18 on 18x7J rims",
-    "Build date": "10/2024"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2SLDRC3SH503189/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73464963",
-    "url": "https://vhr.carfax.ca/?id=cMARKdJKzmbiZjSMNEGmhmoCHUw9XKey",
-    "pdf": "incoming/JF2SLDRC3SH503189/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GUADC7R8276625",
-   "slug": "41bfgx1wfgag",
-   "year": 2024,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 60762,
-   "photos": [
-    "incoming/JF2GUADC7R8276625/1.jpg",
-    "incoming/JF2GUADC7R8276625/2.jpg",
-    "incoming/JF2GUADC7R8276625/3.jpg",
-    "incoming/JF2GUADC7R8276625/4.jpg",
-    "incoming/JF2GUADC7R8276625/5.jpg",
-    "incoming/JF2GUADC7R8276625/6.jpg",
-    "incoming/JF2GUADC7R8276625/7.jpg",
-    "incoming/JF2GUADC7R8276625/8.jpg",
-    "incoming/JF2GUADC7R8276625/9.jpg",
-    "incoming/JF2GUADC7R8276625/10.jpg",
-    "incoming/JF2GUADC7R8276625/11.jpg",
-    "incoming/JF2GUADC7R8276625/12.jpg",
-    "incoming/JF2GUADC7R8276625/13.jpg",
-    "incoming/JF2GUADC7R8276625/14.jpg",
-    "incoming/JF2GUADC7R8276625/15.jpg",
-    "incoming/JF2GUADC7R8276625/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Black",
-    "Factory tire size (door label)": "225/60R17 on 17x7J rims",
-    "Build date": "07/2023"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GUADC7R8276625/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73465039",
-    "url": "https://vhr.carfax.ca/?id=OootrziZ9UkuEOykAUABBEujHJCkA%2Fn%2B",
-    "pdf": "incoming/JF2GUADC7R8276625/carfax.pdf"
-   }
-  },
-  {
-   "vin": "5XYZUDLB8JG530633",
-   "slug": "znxkjitrcleb",
-   "year": 2018,
-   "make": "Hyundai",
-   "model": "Santa Fe Sport",
-   "km": 48111,
-   "photos": [
-    "incoming/5XYZUDLB8JG530633/1.jpg",
-    "incoming/5XYZUDLB8JG530633/2.jpg",
-    "incoming/5XYZUDLB8JG530633/3.jpg",
-    "incoming/5XYZUDLB8JG530633/4.jpg",
-    "incoming/5XYZUDLB8JG530633/5.jpg",
-    "incoming/5XYZUDLB8JG530633/6.jpg",
-    "incoming/5XYZUDLB8JG530633/7.jpg",
-    "incoming/5XYZUDLB8JG530633/8.jpg",
-    "incoming/5XYZUDLB8JG530633/9.jpg",
-    "incoming/5XYZUDLB8JG530633/10.jpg",
-    "incoming/5XYZUDLB8JG530633/11.jpg",
-    "incoming/5XYZUDLB8JG530633/12.jpg",
-    "incoming/5XYZUDLB8JG530633/13.jpg",
-    "incoming/5XYZUDLB8JG530633/14.jpg",
-    "incoming/5XYZUDLB8JG530633/15.jpg",
-    "incoming/5XYZUDLB8JG530633/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.4L 4-cylinder, gasoline",
-    "Transmission": "6-speed automatic",
-    "Drivetrain": "4WD",
-    "Exterior colour": "Red",
-    "Factory tire size (door label)": "235/65R17 on 7.0Jx17 rims",
-    "Build date": "08/2017"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/5XYZUDLB8JG530633/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663826",
-    "url": "https://vhr.carfax.ca/?id=NSX5Vkftg76vUBB4ZYQCXa69VJ30SRqE",
-    "pdf": "incoming/5XYZUDLB8JG530633/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GTABC8JH214922",
-   "slug": "bec9jajeayqc",
-   "year": 2018,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 179644,
-   "photos": [
-    "incoming/JF2GTABC8JH214922/1.jpg",
-    "incoming/JF2GTABC8JH214922/2.jpg",
-    "incoming/JF2GTABC8JH214922/3.jpg",
-    "incoming/JF2GTABC8JH214922/4.jpg",
-    "incoming/JF2GTABC8JH214922/5.jpg",
-    "incoming/JF2GTABC8JH214922/6.jpg",
-    "incoming/JF2GTABC8JH214922/7.jpg",
-    "incoming/JF2GTABC8JH214922/8.jpg",
-    "incoming/JF2GTABC8JH214922/9.jpg",
-    "incoming/JF2GTABC8JH214922/10.jpg",
-    "incoming/JF2GTABC8JH214922/11.jpg",
-    "incoming/JF2GTABC8JH214922/12.jpg",
-    "incoming/JF2GTABC8JH214922/13.jpg",
-    "incoming/JF2GTABC8JH214922/14.jpg",
-    "incoming/JF2GTABC8JH214922/15.jpg",
-    "incoming/JF2GTABC8JH214922/16.jpg",
-    "incoming/JF2GTABC8JH214922/17.jpg",
-    "incoming/JF2GTABC8JH214922/18.jpg",
-    "incoming/JF2GTABC8JH214922/19.jpg",
-    "incoming/JF2GTABC8JH214922/20.jpg",
-    "incoming/JF2GTABC8JH214922/21.jpg",
-    "incoming/JF2GTABC8JH214922/22.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "White",
-    "Factory tire size (door label)": "P225/60R17 on 17x7J rims",
-    "Build date": "07/2017"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GTABC8JH214922/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663823",
-    "url": "https://vhr.carfax.ca/?id=xtPvMfNXYjs9m8A8krK1z4PYweOmhw8H",
-    "pdf": "incoming/JF2GTABC8JH214922/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GUADC7RH381620",
-   "slug": "t7g12d99qm3m",
-   "year": 2024,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 66049,
-   "photos": [
-    "incoming/JF2GUADC7RH381620/1.jpg",
-    "incoming/JF2GUADC7RH381620/2.jpg",
-    "incoming/JF2GUADC7RH381620/3.jpg",
-    "incoming/JF2GUADC7RH381620/4.jpg",
-    "incoming/JF2GUADC7RH381620/5.jpg",
-    "incoming/JF2GUADC7RH381620/6.jpg",
-    "incoming/JF2GUADC7RH381620/7.jpg",
-    "incoming/JF2GUADC7RH381620/8.jpg",
-    "incoming/JF2GUADC7RH381620/9.jpg",
-    "incoming/JF2GUADC7RH381620/10.jpg",
-    "incoming/JF2GUADC7RH381620/11.jpg",
-    "incoming/JF2GUADC7RH381620/12.jpg",
-    "incoming/JF2GUADC7RH381620/13.jpg",
-    "incoming/JF2GUADC7RH381620/14.jpg",
-    "incoming/JF2GUADC7RH381620/15.jpg",
-    "incoming/JF2GUADC7RH381620/16.jpg",
-    "incoming/JF2GUADC7RH381620/17.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Red",
-    "Factory tire size (door label)": "225/60R17 on 17x7J rims",
-    "Build date": "05/2024"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GUADC7RH381620/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663821",
-    "url": "https://vhr.carfax.ca/?id=m7k6SpF0lbreJDCeDq7RVi54pwxlY3q2",
-    "pdf": "incoming/JF2GUADC7RH381620/carfax.pdf"
-   }
-  },
-  {
-   "vin": "4S4WMAGD6M3403171",
-   "slug": "0wubo20awbxo",
-   "year": 2021,
-   "make": "Subaru",
-   "model": "Ascent",
-   "km": 85254,
-   "photos": [
-    "incoming/4S4WMAGD6M3403171/1.jpg",
-    "incoming/4S4WMAGD6M3403171/2.jpg",
-    "incoming/4S4WMAGD6M3403171/3.jpg",
-    "incoming/4S4WMAGD6M3403171/4.jpg",
-    "incoming/4S4WMAGD6M3403171/5.jpg",
-    "incoming/4S4WMAGD6M3403171/6.jpg",
-    "incoming/4S4WMAGD6M3403171/7.jpg",
-    "incoming/4S4WMAGD6M3403171/8.jpg",
-    "incoming/4S4WMAGD6M3403171/9.jpg",
-    "incoming/4S4WMAGD6M3403171/10.jpg",
-    "incoming/4S4WMAGD6M3403171/11.jpg",
-    "incoming/4S4WMAGD6M3403171/12.jpg",
-    "incoming/4S4WMAGD6M3403171/13.jpg",
-    "incoming/4S4WMAGD6M3403171/14.jpg",
-    "incoming/4S4WMAGD6M3403171/15.jpg",
-    "incoming/4S4WMAGD6M3403171/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.4L turbo 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Grey",
-    "Factory tire size (door label)": "245/60R18 105H on 18x7.5J rims",
-    "Build date": "08/2020"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/4S4WMAGD6M3403171/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663825",
-    "url": "https://vhr.carfax.ca/?id=wvhz5lTY2QSIV2fSirNFQiutPGtZ%2FgRR",
-    "pdf": "incoming/4S4WMAGD6M3403171/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF2GTHSCXPH240603",
-   "slug": "grkfjs807qyj",
-   "year": 2023,
-   "make": "Subaru",
-   "model": "Crosstrek",
-   "km": 113885,
-   "photos": [
-    "incoming/JF2GTHSCXPH240603/1.jpg",
-    "incoming/JF2GTHSCXPH240603/2.jpg",
-    "incoming/JF2GTHSCXPH240603/3.jpg",
-    "incoming/JF2GTHSCXPH240603/4.jpg",
-    "incoming/JF2GTHSCXPH240603/5.jpg",
-    "incoming/JF2GTHSCXPH240603/6.jpg",
-    "incoming/JF2GTHSCXPH240603/7.jpg",
-    "incoming/JF2GTHSCXPH240603/8.jpg",
-    "incoming/JF2GTHSCXPH240603/9.jpg",
-    "incoming/JF2GTHSCXPH240603/10.jpg",
-    "incoming/JF2GTHSCXPH240603/11.jpg",
-    "incoming/JF2GTHSCXPH240603/12.jpg",
-    "incoming/JF2GTHSCXPH240603/13.jpg",
-    "incoming/JF2GTHSCXPH240603/14.jpg"
-   ],
-   "specs": {
-    "Engine": "2.5L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Light blue",
-    "Factory tire size (door label)": "P225/60R17 on 17x7J rims",
-    "Build date": "08/2022"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF2GTHSCXPH240603/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73465011",
-    "url": "https://vhr.carfax.ca/?id=qGGC5e9VfB%2FupjJ9POyT9NmeK11qUzgc",
-    "pdf": "incoming/JF2GTHSCXPH240603/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JA4AJ3AU7CZ602635",
-   "slug": "0o4oazli34kz",
-   "year": 2012,
-   "make": "Mitsubishi",
-   "model": "RVR",
-   "km": 293820,
-   "photos": [
-    "incoming/JA4AJ3AU7CZ602635/1.jpg",
-    "incoming/JA4AJ3AU7CZ602635/2.jpg",
-    "incoming/JA4AJ3AU7CZ602635/3.jpg",
-    "incoming/JA4AJ3AU7CZ602635/4.jpg",
-    "incoming/JA4AJ3AU7CZ602635/5.jpg",
-    "incoming/JA4AJ3AU7CZ602635/6.jpg",
-    "incoming/JA4AJ3AU7CZ602635/7.jpg",
-    "incoming/JA4AJ3AU7CZ602635/8.jpg",
-    "incoming/JA4AJ3AU7CZ602635/9.jpg",
-    "incoming/JA4AJ3AU7CZ602635/10.jpg",
-    "incoming/JA4AJ3AU7CZ602635/11.jpg",
-    "incoming/JA4AJ3AU7CZ602635/12.jpg",
-    "incoming/JA4AJ3AU7CZ602635/13.jpg",
-    "incoming/JA4AJ3AU7CZ602635/14.jpg",
-    "incoming/JA4AJ3AU7CZ602635/15.jpg",
-    "incoming/JA4AJ3AU7CZ602635/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L, gasoline",
-    "Drivetrain": "4WD",
-    "Exterior colour": "White",
-    "Factory tire size (door label)": "P215/70R16 on 16x6.5J rims",
-    "Build date": "12/2011"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JA4AJ3AU7CZ602635/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73531799",
-    "url": "https://vhr.carfax.ca/?id=WjrtG6LjoDFYuNIFw8QAf%2BR%2BvEP42LRH",
-    "pdf": "incoming/JA4AJ3AU7CZ602635/carfax.pdf"
-   }
-  },
-  {
-   "vin": "JF1GPAA63G8281571",
-   "slug": "vcqhvxu48egs",
-   "year": 2016,
-   "make": "Subaru",
-   "model": "Impreza",
-   "km": 414949,
-   "photos": [
-    "incoming/JF1GPAA63G8281571/1.jpg",
-    "incoming/JF1GPAA63G8281571/2.jpg",
-    "incoming/JF1GPAA63G8281571/3.jpg",
-    "incoming/JF1GPAA63G8281571/4.jpg",
-    "incoming/JF1GPAA63G8281571/5.jpg",
-    "incoming/JF1GPAA63G8281571/6.jpg",
-    "incoming/JF1GPAA63G8281571/7.jpg",
-    "incoming/JF1GPAA63G8281571/8.jpg",
-    "incoming/JF1GPAA63G8281571/9.jpg",
-    "incoming/JF1GPAA63G8281571/10.jpg",
-    "incoming/JF1GPAA63G8281571/11.jpg",
-    "incoming/JF1GPAA63G8281571/12.jpg",
-    "incoming/JF1GPAA63G8281571/13.jpg",
-    "incoming/JF1GPAA63G8281571/14.jpg",
-    "incoming/JF1GPAA63G8281571/15.jpg",
-    "incoming/JF1GPAA63G8281571/16.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Black",
-    "Build date": "03/2016"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/JF1GPAA63G8281571/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73663827",
-    "url": "https://vhr.carfax.ca/?id=6VRMm3VSghIx4n3nN%2F5Vwacvro439i5a",
-    "pdf": "incoming/JF1GPAA63G8281571/carfax.pdf"
-   }
-  },
-  {
-   "vin": "KL79MRSL1PB204826",
-   "slug": "b4roehqov2lk",
-   "year": 2023,
-   "make": "Chevrolet",
-   "model": "Trailblazer",
-   "km": 58483,
-   "photos": [
-    "incoming/KL79MRSL1PB204826/1.jpg",
-    "incoming/KL79MRSL1PB204826/2.jpg",
-    "incoming/KL79MRSL1PB204826/3.jpg",
-    "incoming/KL79MRSL1PB204826/4.jpg",
-    "incoming/KL79MRSL1PB204826/5.jpg",
-    "incoming/KL79MRSL1PB204826/6.jpg",
-    "incoming/KL79MRSL1PB204826/7.jpg",
-    "incoming/KL79MRSL1PB204826/8.jpg",
-    "incoming/KL79MRSL1PB204826/9.jpg",
-    "incoming/KL79MRSL1PB204826/10.jpg",
-    "incoming/KL79MRSL1PB204826/11.jpg",
-    "incoming/KL79MRSL1PB204826/12.jpg",
-    "incoming/KL79MRSL1PB204826/13.jpg"
-   ],
-   "specs": {
-    "Engine": "1.3L turbo 3-cylinder, gasoline",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Red",
-    "Factory tire size (door label)": "225/60R17 on 17x7.5J rims",
-    "Build date": "06/2023"
-   },
-   "sold": false,
-   "build_sheet": {
-    "msrp": 31923,
-    "pdf": "incoming/KL79MRSL1PB204826/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73634170",
-    "url": "https://vhr.carfax.ca/?id=VTE8BHkmyJs%2FOO90exlLWBHUZZTrPxrP",
-    "pdf": "incoming/KL79MRSL1PB204826/carfax.pdf"
-   }
-  },
-  {
-   "vin": "KNDCC3LC4K5238984",
-   "slug": "oaenxtq3dcng",
-   "year": 2019,
-   "make": "Kia",
-   "model": "Niro",
-   "km": 114670,
-   "photos": [
-    "incoming/KNDCC3LC4K5238984/1.jpg",
-    "incoming/KNDCC3LC4K5238984/2.jpg",
-    "incoming/KNDCC3LC4K5238984/3.jpg",
-    "incoming/KNDCC3LC4K5238984/4.jpg",
-    "incoming/KNDCC3LC4K5238984/5.jpg",
-    "incoming/KNDCC3LC4K5238984/6.jpg",
-    "incoming/KNDCC3LC4K5238984/7.jpg",
-    "incoming/KNDCC3LC4K5238984/8.jpg",
-    "incoming/KNDCC3LC4K5238984/9.jpg",
-    "incoming/KNDCC3LC4K5238984/10.jpg",
-    "incoming/KNDCC3LC4K5238984/11.jpg",
-    "incoming/KNDCC3LC4K5238984/12.jpg",
-    "incoming/KNDCC3LC4K5238984/13.jpg",
-    "incoming/KNDCC3LC4K5238984/14.jpg",
-    "incoming/KNDCC3LC4K5238984/15.jpg",
-    "incoming/KNDCC3LC4K5238984/16.jpg",
-    "incoming/KNDCC3LC4K5238984/17.jpg"
-   ],
-   "specs": {
-    "Engine": "1.6L 4-cylinder, gasoline hybrid",
-    "Drivetrain": "4x2",
-    "Exterior colour": "White",
-    "Factory tire size (door label)": "205/60R16 on 16x6.5J rims",
-    "Build date": "10/2018"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/KNDCC3LC4K5238984/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73560713",
-    "url": "https://vhr.carfax.ca/?id=tkRaIkJxUgPgXcdhb5mCnY%2FYlsJHZwA8",
-    "pdf": "incoming/KNDCC3LC4K5238984/carfax.pdf"
-   }
-  },
-  {
-   "vin": "2FMPK3J96LBA63979",
-   "slug": "9nnt9xz5cm9c",
-   "year": 2020,
-   "make": "Ford",
-   "model": "Edge",
-   "km": 77949,
-   "photos": [
-    "incoming/2FMPK3J96LBA63979/1.jpg",
-    "incoming/2FMPK3J96LBA63979/2.jpg",
-    "incoming/2FMPK3J96LBA63979/3.jpg",
-    "incoming/2FMPK3J96LBA63979/4.jpg",
-    "incoming/2FMPK3J96LBA63979/5.jpg",
-    "incoming/2FMPK3J96LBA63979/6.jpg",
-    "incoming/2FMPK3J96LBA63979/7.jpg",
-    "incoming/2FMPK3J96LBA63979/8.jpg",
-    "incoming/2FMPK3J96LBA63979/9.jpg",
-    "incoming/2FMPK3J96LBA63979/10.jpg",
-    "incoming/2FMPK3J96LBA63979/11.jpg",
-    "incoming/2FMPK3J96LBA63979/12.jpg",
-    "incoming/2FMPK3J96LBA63979/13.jpg",
-    "incoming/2FMPK3J96LBA63979/14.jpg",
-    "incoming/2FMPK3J96LBA63979/15.jpg"
-   ],
-   "specs": {
-    "Engine": "2.0L turbo 4-cylinder, gasoline",
-    "Transmission": "8-speed automatic",
-    "Drivetrain": "FWD",
-    "Exterior colour": "Burgundy",
-    "Factory tire size (door label)": "245/60R18 on 18x8.0J rims",
-    "Build date": "02/2020"
-   },
-   "sold": false,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2FMPK3J96LBA63979/build_sheet.pdf"
-   },
-   "carfax": {
-    "VHR #": "73535439",
-    "url": "https://vhr.carfax.ca/?id=hi8b92wQNm1IfbWuvin%2FVnhCg97Fzdhm",
-    "pdf": "incoming/2FMPK3J96LBA63979/carfax.pdf"
-   }
-  },
-  {
-   "vin": "3CZRU6H92KM109930",
-   "slug": "jv5y5w9y614p",
-   "year": 2019,
-   "make": "Honda",
-   "model": "HR-V",
-   "km": 121514,
-   "photos": [
-    "incoming/3CZRU6H92KM109930/1.jpg",
-    "incoming/3CZRU6H92KM109930/2.jpg",
-    "incoming/3CZRU6H92KM109930/3.jpg",
-    "incoming/3CZRU6H92KM109930/4.jpg",
-    "incoming/3CZRU6H92KM109930/5.jpg",
-    "incoming/3CZRU6H92KM109930/6.jpg",
-    "incoming/3CZRU6H92KM109930/7.jpg",
-    "incoming/3CZRU6H92KM109930/8.jpg",
-    "incoming/3CZRU6H92KM109930/9.jpg",
-    "incoming/3CZRU6H92KM109930/10.jpg",
-    "incoming/3CZRU6H92KM109930/11.jpg",
-    "incoming/3CZRU6H92KM109930/12.jpg",
-    "incoming/3CZRU6H92KM109930/13.jpg",
-    "incoming/3CZRU6H92KM109930/14.jpg",
-    "incoming/3CZRU6H92KM109930/15.jpg",
-    "incoming/3CZRU6H92KM109930/16.jpg",
-    "incoming/3CZRU6H92KM109930/17.jpg",
-    "incoming/3CZRU6H92KM109930/18.jpg",
-    "incoming/3CZRU6H92KM109930/19.jpg"
-   ],
-   "specs": {
-    "Engine": "1.8L 4-cylinder, gasoline",
-    "Transmission": "CVT",
-    "Drivetrain": "4WD",
-    "Exterior colour": "Black",
-    "Factory tire size (door label)": "215/55R17 on 17x7.5J rims",
-    "Build date": "08/2019"
-   },
-   "sold": false
-  },
-  {
-   "vin": "2C4RDGEG3HR878694",
-   "slug": "8sm4l3rlmp6l",
-   "year": 2017,
-   "make": "Dodge",
-   "model": "Grand Caravan",
-   "km": 212952,
-   "photos": [
-    "incoming/2C4RDGEG3HR878694/1.jpg",
-    "incoming/2C4RDGEG3HR878694/2.jpg",
-    "incoming/2C4RDGEG3HR878694/3.jpg",
-    "incoming/2C4RDGEG3HR878694/4.jpg",
-    "incoming/2C4RDGEG3HR878694/5.jpg",
-    "incoming/2C4RDGEG3HR878694/6.jpg",
-    "incoming/2C4RDGEG3HR878694/7.jpg",
-    "incoming/2C4RDGEG3HR878694/8.jpg",
-    "incoming/2C4RDGEG3HR878694/9.jpg",
-    "incoming/2C4RDGEG3HR878694/10.jpg",
-    "incoming/2C4RDGEG3HR878694/11.jpg",
-    "incoming/2C4RDGEG3HR878694/12.jpg",
-    "incoming/2C4RDGEG3HR878694/13.jpg",
-    "incoming/2C4RDGEG3HR878694/14.jpg",
-    "incoming/2C4RDGEG3HR878694/15.jpg",
-    "incoming/2C4RDGEG3HR878694/16.jpg",
-    "incoming/2C4RDGEG3HR878694/17.jpg",
-    "incoming/2C4RDGEG3HR878694/18.jpg",
-    "incoming/2C4RDGEG3HR878694/19.jpg",
-    "incoming/2C4RDGEG3HR878694/20.jpg"
-   ],
-   "specs": {
-    "Engine": "3.6L V6, gasoline",
-    "Drivetrain": "FWD",
-    "Exterior colour": "Red",
-    "Factory rim size (door label)": "17x6.5",
-    "Build date": "09/2017"
-   },
-   "sold": false
-  },
-  {
-   "vin": "2HKRM4H58EH111554",
-   "slug": "bwynr5ys5elv",
-   "year": 2014,
-   "make": "Honda",
-   "model": "CR-V",
-   "km": 279614,
-   "photos": [
-    "incoming/2HKRM4H58EH111554/1.jpg",
-    "incoming/2HKRM4H58EH111554/2.jpg",
-    "incoming/2HKRM4H58EH111554/3.jpg",
-    "incoming/2HKRM4H58EH111554/4.jpg",
-    "incoming/2HKRM4H58EH111554/5.jpg",
-    "incoming/2HKRM4H58EH111554/6.jpg",
-    "incoming/2HKRM4H58EH111554/7.jpg",
-    "incoming/2HKRM4H58EH111554/8.jpg",
-    "incoming/2HKRM4H58EH111554/9.jpg",
-    "incoming/2HKRM4H58EH111554/10.jpg",
-    "incoming/2HKRM4H58EH111554/11.jpg",
-    "incoming/2HKRM4H58EH111554/12.jpg",
-    "incoming/2HKRM4H58EH111554/13.jpg",
-    "incoming/2HKRM4H58EH111554/14.jpg",
-    "incoming/2HKRM4H58EH111554/15.jpg"
-   ],
-   "specs": {
-    "Engine": "2.4L 4-cylinder, gasoline",
-    "Transmission": "5-speed automatic",
-    "Drivetrain": "AWD",
-    "Exterior colour": "Grey",
-    "Factory tire size (door label)": "225/65R17 on 17x6.5J rims",
-    "Build date": "11/2013"
-   },
-   "sold": false
-  },
-  {
-   "vin": "1GTUUGEDXRZ210897",
-   "slug": "a2ml56uz36rj",
-   "year": 2024,
-   "make": "GMC",
-   "model": "Sierra 1500",
-   "trim": "Denali",
-   "km": 55336,
-   "photos": [
-    "incoming/1GTUUGEDXRZ210897/1.jpg",
-    "incoming/1GTUUGEDXRZ210897/2.jpg",
-    "incoming/1GTUUGEDXRZ210897/3.jpg",
-    "incoming/1GTUUGEDXRZ210897/4.jpg"
-   ],
-   "specs": {
-    "Body": "Crew Cab Short Bed",
-    "Engine": "5.3L EcoTec3 V8",
-    "Transmission": "10-speed automatic",
-    "Drivetrain": "4WD",
-    "Exterior colour": "Sterling Metallic",
-    "Interior": "Jet Black"
-   },
-   "build_sheet": {
-    "msrp": 94394,
-    "packages": [
-     "Denali Reserve Package ($4,695): rear camera mirror, 15\" multicolor head-up display, power sunroof, GMC MultiPro power steps, 22\" painted aluminum wheels w/ machining & chrome inserts"
-    ],
-    "options": [
-     "Base price $87,299",
-     "Wheel locks (dealer installed) $100",
-     "GVWR 3,221 kg (7,100 lb)",
-     "3.23 rear axle ratio",
-     "Trailering package (standard)"
-    ],
-    "pdf": "incoming/1GTUUGEDXRZ210897/sticker.pdf"
-   },
-   "sold": false,
-   "carfax": {
-    "Last reported odometer": "32,652 km (2025-08-28)",
-    "Accidents/damage": "None",
-    "Registration": "New Brunswick only, 1 owner, Normal",
-    "Open recalls": "None",
-    "records": [
-     "4 service records at MacDonald Buick GMC Cadillac, Moncton"
-    ],
-    "url": "https://vhr.carfax.ca/?id=vJSnmtcpsQXcDJMO3mBGDVCzbmj%2BlygJ",
-    "pdf": "incoming/1GTUUGEDXRZ210897/carfax.pdf"
-   }
-  }
- ]
+  "vehicles": [
+    {
+      "vin": "5FNYF6H33KB505148",
+      "slug": "u2pe4ygydovc",
+      "year": 2019,
+      "make": "Honda",
+      "model": "Pilot",
+      "km": 193522,
+      "photos": [
+        "incoming/5FNYF6H33KB505148/1.jpg",
+        "incoming/5FNYF6H33KB505148/2.jpg",
+        "incoming/5FNYF6H33KB505148/3.jpg",
+        "incoming/5FNYF6H33KB505148/4.jpg",
+        "incoming/5FNYF6H33KB505148/5.jpg",
+        "incoming/5FNYF6H33KB505148/6.jpg",
+        "incoming/5FNYF6H33KB505148/7.jpg",
+        "incoming/5FNYF6H33KB505148/8.jpg",
+        "incoming/5FNYF6H33KB505148/9.jpg",
+        "incoming/5FNYF6H33KB505148/10.jpg",
+        "incoming/5FNYF6H33KB505148/11.jpg",
+        "incoming/5FNYF6H33KB505148/12.jpg",
+        "incoming/5FNYF6H33KB505148/13.jpg",
+        "incoming/5FNYF6H33KB505148/14.jpg",
+        "incoming/5FNYF6H33KB505148/15.jpg",
+        "incoming/5FNYF6H33KB505148/16.jpg",
+        "incoming/5FNYF6H33KB505148/17.jpg",
+        "incoming/5FNYF6H33KB505148/18.jpg",
+        "incoming/5FNYF6H33KB505148/19.jpg",
+        "incoming/5FNYF6H33KB505148/20.jpg",
+        "incoming/5FNYF6H33KB505148/21.jpg",
+        "incoming/5FNYF6H33KB505148/22.jpg",
+        "incoming/5FNYF6H33KB505148/23.jpg",
+        "incoming/5FNYF6H33KB505148/24.jpg",
+        "incoming/5FNYF6H33KB505148/25.jpg"
+      ],
+      "specs": {
+        "Body": "SUV, 5-door",
+        "Engine": "3.5L V6, gasoline",
+        "Transmission": "6-speed automatic",
+        "Drivetrain": "AWD",
+        "Seating": "8",
+        "Exterior colour": "Black (paint code NH731P)",
+        "Tires": "245/60R18 on 18x8 rims",
+        "Build date": "03/2019"
+      },
+      "sold": true,
+      "carfax": {
+        "Accidents/damage": "No police-reported accidents, estimates or claims. One glass record: Jun 27, 2024, New Brunswick, $2,097",
+        "Registration": "New Brunswick, Normal branding; no U.S. history; not stolen",
+        "Open recalls": "1: HP83 Fuel Pump May Seize (Dec 18, 2023)",
+        "records": [
+          "Mar 28, 2019: Fundy Honda, Saint John NB, pre-delivery inspection"
+        ],
+        "pdf": "incoming/5FNYF6H33KB505148/carfax.pdf"
+      }
+    },
+    {
+      "vin": "1GYAZAR49KF154240",
+      "slug": "tugew2eullgz",
+      "year": 2019,
+      "make": "Cadillac",
+      "model": "XT4",
+      "km": 157365,
+      "photos": [
+        "incoming/1GYAZAR49KF154240/1.jpg",
+        "incoming/1GYAZAR49KF154240/2.jpg",
+        "incoming/1GYAZAR49KF154240/3.jpg",
+        "incoming/1GYAZAR49KF154240/4.jpg",
+        "incoming/1GYAZAR49KF154240/5.jpg",
+        "incoming/1GYAZAR49KF154240/6.jpg",
+        "incoming/1GYAZAR49KF154240/7.jpg",
+        "incoming/1GYAZAR49KF154240/8.jpg",
+        "incoming/1GYAZAR49KF154240/9.jpg",
+        "incoming/1GYAZAR49KF154240/10.jpg",
+        "incoming/1GYAZAR49KF154240/11.jpg",
+        "incoming/1GYAZAR49KF154240/12.jpg",
+        "incoming/1GYAZAR49KF154240/13.jpg",
+        "incoming/1GYAZAR49KF154240/14.jpg",
+        "incoming/1GYAZAR49KF154240/15.jpg",
+        "incoming/1GYAZAR49KF154240/16.jpg",
+        "incoming/1GYAZAR49KF154240/17.jpg",
+        "incoming/1GYAZAR49KF154240/18.jpg",
+        "incoming/1GYAZAR49KF154240/19.jpg"
+      ],
+      "specs": {
+        "Body": "SUV, 4-door",
+        "Engine": "2.0L turbo 4-cylinder, gasoline",
+        "Drivetrain": "FWD",
+        "Seating": "5",
+        "Exterior colour": "Silver",
+        "Tires": "235/60R18 on 18x8 rims",
+        "Build date": "01/2019"
+      },
+      "sold": false,
+      "trim": "Luxury",
+      "carfax": {
+        "Report date": "September 29, 2026",
+        "Last reported odometer": "157,020 km (Sep 14, 2026)",
+        "Accidents/damage": "No accidents or damage reported",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history",
+        "Owners": "1",
+        "Open recalls": "None",
+        "records": [
+          "Sep 14, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 157,020 km, vehicle serviced (fluids checked, oil and filter changed)",
+          "25 service records in total reported"
+        ],
+        "url": "https://vhr.carfax.ca/?id=iIkR8BxF4jBF1%2FS82OP4C9%2FWi5X3UdNy",
+        "pdf": "incoming/1GYAZAR49KF154240/carfax.pdf"
+      },
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/1GYAZAR49KF154240/build_sheet.pdf"
+      }
+    },
+    {
+      "vin": "2HKRW2H82HH111739",
+      "slug": "b7ecefyo1giv",
+      "year": 2017,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "km": 98597,
+      "photos": [],
+      "specs": {
+        "Body": "SUV, 5-door",
+        "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Seating": "5",
+        "Built": "Alliston, Ontario, Canada"
+      },
+      "carfax": {
+        "Accidents/damage": "No accidents or damage reported",
+        "Registration": "New Brunswick (2017-2026), Normal branding; no U.S. history",
+        "Open recalls": "None",
+        "Odometer readings": "None reported",
+        "records": [
+          "May 3, 2017: Ceilidh Honda, New Glasgow NS, vehicle serviced"
+        ],
+        "pdf": "incoming/2HKRW2H82HH111739/carfax.pdf"
+      },
+      "sold": true,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/2HKRW2H82HH111739/build_sheet.pdf"
+      }
+    },
+    {
+      "vin": "1GNSKAKC3FR247671",
+      "slug": "qjdpwgyinups",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "trim": "LS",
+      "km": 214012,
+      "photos": [
+        "incoming/1GNSKAKC3FR247671/1.jpg",
+        "incoming/1GNSKAKC3FR247671/2.jpg",
+        "incoming/1GNSKAKC3FR247671/3.jpg",
+        "incoming/1GNSKAKC3FR247671/4.jpg",
+        "incoming/1GNSKAKC3FR247671/5.jpg",
+        "incoming/1GNSKAKC3FR247671/6.jpg",
+        "incoming/1GNSKAKC3FR247671/7.jpg",
+        "incoming/1GNSKAKC3FR247671/8.jpg",
+        "incoming/1GNSKAKC3FR247671/9.jpg",
+        "incoming/1GNSKAKC3FR247671/10.jpg",
+        "incoming/1GNSKAKC3FR247671/11.jpg",
+        "incoming/1GNSKAKC3FR247671/12.jpg",
+        "incoming/1GNSKAKC3FR247671/13.jpg",
+        "incoming/1GNSKAKC3FR247671/14.jpg",
+        "incoming/1GNSKAKC3FR247671/15.jpg",
+        "incoming/1GNSKAKC3FR247671/16.jpg"
+      ],
+      "specs": {
+        "Body": "SUV, 4-door",
+        "Engine": "5.3L V8, gasoline",
+        "Drivetrain": "4WD",
+        "Exterior colour": "Black",
+        "Tires": "P265/65R18 on 18x8.5 rims",
+        "Build date": "07/2014"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/1GNSKAKC3FR247671/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73634236",
+        "url": "https://vhr.carfax.ca/?id=5%2FiVQQKh2mHg8jC09EPN3kfoPL3q%2Bjcl",
+        "pdf": "incoming/1GNSKAKC3FR247671/carfax.pdf"
+      }
+    },
+    {
+      "vin": "2HKRW2H84KH123723",
+      "slug": "rr506iwmvkyn",
+      "year": 2019,
+      "make": "Honda",
+      "model": "CR-V",
+      "trim": "EX-L",
+      "km": 81506,
+      "photos": [],
+      "specs": {
+        "Body": "SUV, 5-door",
+        "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Seating": "5",
+        "Exterior colour": "Gunmetal",
+        "Built": "Alliston, Ontario, Canada"
+      },
+      "carfax": {
+        "Report date": "October 27, 2026",
+        "Last reported odometer": "32,394 km (Jun 30, 2022)",
+        "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
+        "Owners": "1",
+        "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
+        "records": [
+          "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
+          "6 service records in total reported (all New Brunswick)"
+        ],
+        "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
+        "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
+      },
+      "sold": true,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
+      }
+    },
+    {
+      "vin": "2GC4YME74R1145051",
+      "slug": "y2e6spu0ih9h",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 2500HD",
+      "trim": "Custom Crew Cab 4WD Z71",
+      "km": 77336,
+      "photos": [
+        "incoming/2GC4YME74R1145051/1.jpg",
+        "incoming/2GC4YME74R1145051/2.jpg",
+        "incoming/2GC4YME74R1145051/3.jpg",
+        "incoming/2GC4YME74R1145051/4.jpg",
+        "incoming/2GC4YME74R1145051/5.jpg",
+        "incoming/2GC4YME74R1145051/6.jpg",
+        "incoming/2GC4YME74R1145051/7.jpg",
+        "incoming/2GC4YME74R1145051/8.jpg",
+        "incoming/2GC4YME74R1145051/9.jpg",
+        "incoming/2GC4YME74R1145051/10.jpg",
+        "incoming/2GC4YME74R1145051/11.jpg",
+        "incoming/2GC4YME74R1145051/12.jpg",
+        "incoming/2GC4YME74R1145051/13.jpg",
+        "incoming/2GC4YME74R1145051/14.jpg",
+        "incoming/2GC4YME74R1145051/15.jpg",
+        "incoming/2GC4YME74R1145051/16.jpg",
+        "incoming/2GC4YME74R1145051/17.jpg",
+        "incoming/2GC4YME74R1145051/18.jpg"
+      ],
+      "specs": {
+        "Body": "Crew Cab pickup",
+        "Engine": "6.6L V8, gasoline (L8T)",
+        "Transmission": "Allison 10-speed automatic",
+        "Drivetrain": "4WD",
+        "Exterior colour": "Dark Ash Metallic",
+        "Interior": "Jet Black",
+        "Built": "Oshawa, Ontario, Canada"
+      },
+      "build_sheet": {
+        "msrp": 74364,
+        "packages": [
+          "Custom Value Package (1CX): 10-way power driver seat, remote start, 120V outlets in cab and bed, trailer brake controller, lane change alert with side blind zone alert, rear cross traffic alert, rear park assist, power-folding trailering mirrors",
+          "Gooseneck/5th Wheel Prep Package with spray-on bedliner",
+          "Z71 Off-Road Package: Rancho shocks, hill descent control, skid plates"
+        ],
+        "options": [
+          "LED roof marker lamps",
+          "3.73 rear axle ratio",
+          "20-inch machined aluminum wheels with LT275/65R20 all-terrain tires",
+          "7-inch infotainment with wireless Apple CarPlay / Android Auto",
+          "40/20/40 front split-bench seat"
+        ],
+        "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
+      },
+      "carfax": {
+        "Report date": "October 15, 2026",
+        "Last reported odometer": "64,129 km (Apr 17, 2026)",
+        "Accidents/damage": "No accident or damage records",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history",
+        "Owners": "1",
+        "Open recalls": "None",
+        "records": [
+          "Apr 17, 2026: Fox Chevrolet Cadillac, Fredericton NB, 64,129 km",
+          "12 service records in total reported (all New Brunswick)"
+        ],
+        "url": "https://vhr.carfax.ca/?id=AlOOa8Fb%2Fbw9%2F4hI9fwMU8xdS9dhMu0L",
+        "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
+      },
+      "sold": false
+    },
+    {
+      "vin": "KL77LJE21TC125840",
+      "slug": "pt6k2y9gvj0q",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Trax",
+      "trim": "RS FWD",
+      "km": 3144,
+      "photos": [
+        "incoming/KL77LJE21TC125840/1.jpg",
+        "incoming/KL77LJE21TC125840/2.jpg",
+        "incoming/KL77LJE21TC125840/3.jpg",
+        "incoming/KL77LJE21TC125840/4.jpg",
+        "incoming/KL77LJE21TC125840/5.jpg",
+        "incoming/KL77LJE21TC125840/6.jpg",
+        "incoming/KL77LJE21TC125840/7.jpg",
+        "incoming/KL77LJE21TC125840/8.jpg",
+        "incoming/KL77LJE21TC125840/9.jpg",
+        "incoming/KL77LJE21TC125840/10.jpg",
+        "incoming/KL77LJE21TC125840/11.jpg",
+        "incoming/KL77LJE21TC125840/12.jpg",
+        "incoming/KL77LJE21TC125840/13.jpg",
+        "incoming/KL77LJE21TC125840/14.jpg",
+        "incoming/KL77LJE21TC125840/15.jpg",
+        "incoming/KL77LJE21TC125840/16.jpg",
+        "incoming/KL77LJE21TC125840/17.jpg"
+      ],
+      "specs": {
+        "Body": "SUV",
+        "Engine": "Ecotec 1.2L turbo 3-cylinder, gasoline",
+        "Transmission": "6-speed automatic",
+        "Drivetrain": "FWD",
+        "Exterior colour": "Sterling Gray Metallic",
+        "Interior": "Jet Black with Red Accents",
+        "Built": "Changwon, Korea"
+      },
+      "sold": false,
+      "build_sheet": {
+        "msrp": 33198,
+        "pdf": "incoming/KL77LJE21TC125840/build_sheet.pdf"
+      },
+      "carfax": {
+        "Accidents/damage": "No accident or damage records",
+        "Registration": "New Brunswick only",
+        "Owners": "1",
+        "Open recalls": "None",
+        "url": "https://vhr.carfax.ca/?id=SryrYourwzXGU%2FQvNzCuLFU1ky%2BeCyLn",
+        "pdf": "incoming/KL77LJE21TC125840/carfax.pdf"
+      }
+    },
+    {
+      "vin": "KL79MRSL5RB206128",
+      "slug": "cgd99auuqkqh",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "trim": "LT AWD",
+      "km": 30413,
+      "photos": [
+        "incoming/KL79MRSL5RB206128/1.jpg",
+        "incoming/KL79MRSL5RB206128/2.jpg",
+        "incoming/KL79MRSL5RB206128/3.jpg",
+        "incoming/KL79MRSL5RB206128/4.jpg",
+        "incoming/KL79MRSL5RB206128/5.jpg",
+        "incoming/KL79MRSL5RB206128/6.jpg",
+        "incoming/KL79MRSL5RB206128/7.jpg",
+        "incoming/KL79MRSL5RB206128/8.jpg",
+        "incoming/KL79MRSL5RB206128/9.jpg",
+        "incoming/KL79MRSL5RB206128/10.jpg",
+        "incoming/KL79MRSL5RB206128/11.jpg",
+        "incoming/KL79MRSL5RB206128/12.jpg",
+        "incoming/KL79MRSL5RB206128/13.jpg",
+        "incoming/KL79MRSL5RB206128/14.jpg",
+        "incoming/KL79MRSL5RB206128/15.jpg",
+        "incoming/KL79MRSL5RB206128/16.jpg"
+      ],
+      "specs": {
+        "Body": "SUV",
+        "Engine": "Ecotec 1.3L turbo 3-cylinder, gasoline",
+        "Transmission": "9-speed automatic",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Iridescent Pearl Tricoat",
+        "Interior": "Jet Black",
+        "Built": "Bupyeong, Korea"
+      },
+      "sold": false,
+      "build_sheet": {
+        "msrp": 35489,
+        "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
+      },
+      "carfax": {
+        "Accidents/damage": "No accident or damage records",
+        "Registration": "PEI and New Brunswick",
+        "Owners": "1",
+        "Open recalls": "None",
+        "Service records": "4",
+        "url": "https://vhr.carfax.ca/?id=5YJLC9NHClnVPKXv7z8JV0wUqLhusuV2",
+        "pdf": "incoming/KL79MRSL5RB206128/carfax.pdf"
+      }
+    },
+    {
+      "vin": "2GNAXUEV4L6250517",
+      "slug": "wdwww3ac57t8",
+      "year": 2020,
+      "make": "Chevrolet",
+      "model": "Equinox",
+      "trim": "LT",
+      "km": 123095,
+      "photos": [
+        "incoming/2GNAXUEV4L6250517/1.jpg",
+        "incoming/2GNAXUEV4L6250517/2.jpg",
+        "incoming/2GNAXUEV4L6250517/3.jpg",
+        "incoming/2GNAXUEV4L6250517/4.jpg",
+        "incoming/2GNAXUEV4L6250517/5.jpg",
+        "incoming/2GNAXUEV4L6250517/6.jpg",
+        "incoming/2GNAXUEV4L6250517/7.jpg",
+        "incoming/2GNAXUEV4L6250517/8.jpg",
+        "incoming/2GNAXUEV4L6250517/9.jpg",
+        "incoming/2GNAXUEV4L6250517/10.jpg",
+        "incoming/2GNAXUEV4L6250517/11.jpg",
+        "incoming/2GNAXUEV4L6250517/12.jpg",
+        "incoming/2GNAXUEV4L6250517/13.jpg",
+        "incoming/2GNAXUEV4L6250517/14.jpg",
+        "incoming/2GNAXUEV4L6250517/15.jpg",
+        "incoming/2GNAXUEV4L6250517/16.jpg",
+        "incoming/2GNAXUEV4L6250517/17.jpg"
+      ],
+      "specs": {
+        "Body": "SUV",
+        "Engine": "1.5L turbo 4-cylinder, gasoline",
+        "Transmission": "6-speed automatic",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Black",
+        "Tires": "235/50R19 on 19x7.5 rims",
+        "Build date": "06/2020",
+        "Built": "Ingersoll, Ontario",
+        "Interior": "Black leather"
+      },
+      "sold": false,
+      "carfax": {
+        "Accidents/damage": "No accident or damage records",
+        "Registration": "New Brunswick only",
+        "Owners": "1",
+        "Service records": "3",
+        "url": "https://vhr.carfax.ca/?id=02F3M15cF3griL6YWTmQFu6XhO1mYzMV",
+        "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
+      },
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
+      }
+    },
+    {
+      "vin": "1GC5YTEY0RF326146",
+      "slug": "w3ao56mg7fh8",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
+      "trim": "LT",
+      "km": 85147,
+      "photos": [
+        "incoming/1GC5YTEY0RF326146/1.jpg",
+        "incoming/1GC5YTEY0RF326146/2.jpg",
+        "incoming/1GC5YTEY0RF326146/3.jpg",
+        "incoming/1GC5YTEY0RF326146/4.jpg",
+        "incoming/1GC5YTEY0RF326146/5.jpg",
+        "incoming/1GC5YTEY0RF326146/6.jpg",
+        "incoming/1GC5YTEY0RF326146/7.jpg",
+        "incoming/1GC5YTEY0RF326146/8.jpg",
+        "incoming/1GC5YTEY0RF326146/9.jpg",
+        "incoming/1GC5YTEY0RF326146/10.jpg",
+        "incoming/1GC5YTEY0RF326146/11.jpg",
+        "incoming/1GC5YTEY0RF326146/12.jpg",
+        "incoming/1GC5YTEY0RF326146/13.jpg",
+        "incoming/1GC5YTEY0RF326146/14.jpg",
+        "incoming/1GC5YTEY0RF326146/15.jpg"
+      ],
+      "specs": {
+        "Engine": "6.6L Duramax turbo V8, diesel (L5P)",
+        "Drivetrain": "4WD",
+        "Rear wheels": "Dual rear wheels (dually)",
+        "Exterior colour": "White",
+        "Tires": "LT235/80R17E on 17x6.5 rims",
+        "Build date": "01/2024",
+        "Equipment": "Gooseneck hitch in bed, crossover truck-bed toolbox"
+      },
+      "sold": true,
+      "build_sheet": {
+        "msrp": 99664,
+        "pdf": "incoming/1GC5YTEY0RF326146/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73477523",
+        "url": "https://vhr.carfax.ca/?id=QsuRvUWLIHhG3JPtoUefAF7TvQT47BmR",
+        "pdf": "incoming/1GC5YTEY0RF326146/carfax.pdf"
+      }
+    },
+    {
+      "vin": "KM8SNDHF7HU237871",
+      "slug": "pxadn995n2rr",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Santa Fe XL",
+      "km": 131099,
+      "photos": [
+        "incoming/KM8SNDHF7HU237871/1.jpg",
+        "incoming/KM8SNDHF7HU237871/2.jpg",
+        "incoming/KM8SNDHF7HU237871/3.jpg",
+        "incoming/KM8SNDHF7HU237871/4.jpg",
+        "incoming/KM8SNDHF7HU237871/5.jpg",
+        "incoming/KM8SNDHF7HU237871/6.jpg",
+        "incoming/KM8SNDHF7HU237871/7.jpg",
+        "incoming/KM8SNDHF7HU237871/8.jpg",
+        "incoming/KM8SNDHF7HU237871/9.jpg",
+        "incoming/KM8SNDHF7HU237871/10.jpg",
+        "incoming/KM8SNDHF7HU237871/11.jpg",
+        "incoming/KM8SNDHF7HU237871/12.jpg",
+        "incoming/KM8SNDHF7HU237871/13.jpg",
+        "incoming/KM8SNDHF7HU237871/14.jpg",
+        "incoming/KM8SNDHF7HU237871/15.jpg",
+        "incoming/KM8SNDHF7HU237871/16.jpg"
+      ],
+      "specs": {
+        "Engine": "3.3L V6, gasoline",
+        "Drivetrain": "AWD",
+        "Seating": "Third-row seating",
+        "Exterior colour": "White (paint code YAC)",
+        "Tires": "235/60R18 on 18x7.5 rims",
+        "Build date": "01/2017"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/KM8SNDHF7HU237871/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73465006",
+        "url": "https://vhr.carfax.ca/?id=tNl5AzdUgyy1lbRneOlRt36ZZ9%2FBFfdX",
+        "pdf": "incoming/KM8SNDHF7HU237871/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GTHSC5PH272620",
+      "slug": "ht6ywbiqhsya",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 138219,
+      "photos": [
+        "incoming/JF2GTHSC5PH272620/1.jpg",
+        "incoming/JF2GTHSC5PH272620/2.jpg",
+        "incoming/JF2GTHSC5PH272620/3.jpg",
+        "incoming/JF2GTHSC5PH272620/4.jpg",
+        "incoming/JF2GTHSC5PH272620/5.jpg",
+        "incoming/JF2GTHSC5PH272620/6.jpg",
+        "incoming/JF2GTHSC5PH272620/7.jpg",
+        "incoming/JF2GTHSC5PH272620/8.jpg",
+        "incoming/JF2GTHSC5PH272620/9.jpg",
+        "incoming/JF2GTHSC5PH272620/10.jpg",
+        "incoming/JF2GTHSC5PH272620/11.jpg",
+        "incoming/JF2GTHSC5PH272620/12.jpg",
+        "incoming/JF2GTHSC5PH272620/13.jpg"
+      ],
+      "specs": {
+        "Engine": "2.5L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "White",
+        "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims",
+        "Build date": "10/2022"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GTHSC5PH272620/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663822",
+        "url": "https://vhr.carfax.ca/?id=19dWKGJrT1WuRgNRtF1ybf1t5rgolvhG",
+        "pdf": "incoming/JF2GTHSC5PH272620/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GUADC0R8270679",
+      "slug": "x9etaexg26i7",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 56743,
+      "photos": [
+        "incoming/JF2GUADC0R8270679/1.jpg",
+        "incoming/JF2GUADC0R8270679/2.jpg",
+        "incoming/JF2GUADC0R8270679/3.jpg",
+        "incoming/JF2GUADC0R8270679/4.jpg",
+        "incoming/JF2GUADC0R8270679/5.jpg",
+        "incoming/JF2GUADC0R8270679/6.jpg",
+        "incoming/JF2GUADC0R8270679/7.jpg",
+        "incoming/JF2GUADC0R8270679/8.jpg",
+        "incoming/JF2GUADC0R8270679/9.jpg",
+        "incoming/JF2GUADC0R8270679/10.jpg",
+        "incoming/JF2GUADC0R8270679/11.jpg",
+        "incoming/JF2GUADC0R8270679/12.jpg",
+        "incoming/JF2GUADC0R8270679/13.jpg",
+        "incoming/JF2GUADC0R8270679/14.jpg",
+        "incoming/JF2GUADC0R8270679/15.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Grey",
+        "Factory tire size (door label)": "225/60R17 on 17x7J rims",
+        "Build date": "07/2023"
+      },
+      "sold": true,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GUADC0R8270679/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73465072",
+        "url": "https://vhr.carfax.ca/?id=tPOWOX6hnqkGCIhWEyKFntrxqX3wd6%2Bk",
+        "pdf": "incoming/JF2GUADC0R8270679/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2SJHWC4FH574764",
+      "slug": "typuugxna8zt",
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Forester",
+      "trim": "XT",
+      "km": 159018,
+      "photos": [
+        "incoming/JF2SJHWC4FH574764/1.jpg",
+        "incoming/JF2SJHWC4FH574764/2.jpg",
+        "incoming/JF2SJHWC4FH574764/3.jpg",
+        "incoming/JF2SJHWC4FH574764/4.jpg",
+        "incoming/JF2SJHWC4FH574764/5.jpg",
+        "incoming/JF2SJHWC4FH574764/6.jpg",
+        "incoming/JF2SJHWC4FH574764/7.jpg",
+        "incoming/JF2SJHWC4FH574764/8.jpg",
+        "incoming/JF2SJHWC4FH574764/9.jpg",
+        "incoming/JF2SJHWC4FH574764/10.jpg",
+        "incoming/JF2SJHWC4FH574764/11.jpg",
+        "incoming/JF2SJHWC4FH574764/12.jpg",
+        "incoming/JF2SJHWC4FH574764/13.jpg",
+        "incoming/JF2SJHWC4FH574764/14.jpg",
+        "incoming/JF2SJHWC4FH574764/15.jpg",
+        "incoming/JF2SJHWC4FH574764/16.jpg",
+        "incoming/JF2SJHWC4FH574764/17.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L turbo",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Silver",
+        "Factory tire size (door label)": "P225/55R18 97H on 18x7J rims",
+        "Build date": "01/2015"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2SJHWC4FH574764/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73465032",
+        "url": "https://vhr.carfax.ca/?id=sji2l%2FXQ5bSeqrc5J%2FHVr0TMtQd8ZAO6",
+        "pdf": "incoming/JF2SJHWC4FH574764/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2SLDRC3SH503189",
+      "slug": "221nlrmjkdn8",
+      "year": 2025,
+      "make": "Subaru",
+      "model": "Forester",
+      "km": 88178,
+      "photos": [
+        "incoming/JF2SLDRC3SH503189/1.jpg",
+        "incoming/JF2SLDRC3SH503189/2.jpg",
+        "incoming/JF2SLDRC3SH503189/3.jpg",
+        "incoming/JF2SLDRC3SH503189/4.jpg",
+        "incoming/JF2SLDRC3SH503189/5.jpg",
+        "incoming/JF2SLDRC3SH503189/6.jpg",
+        "incoming/JF2SLDRC3SH503189/7.jpg",
+        "incoming/JF2SLDRC3SH503189/8.jpg",
+        "incoming/JF2SLDRC3SH503189/9.jpg",
+        "incoming/JF2SLDRC3SH503189/10.jpg",
+        "incoming/JF2SLDRC3SH503189/11.jpg",
+        "incoming/JF2SLDRC3SH503189/12.jpg",
+        "incoming/JF2SLDRC3SH503189/13.jpg",
+        "incoming/JF2SLDRC3SH503189/14.jpg",
+        "incoming/JF2SLDRC3SH503189/15.jpg",
+        "incoming/JF2SLDRC3SH503189/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.5L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Blue",
+        "Factory tire size (door label)": "225/55R18 on 18x7J rims",
+        "Build date": "10/2024"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2SLDRC3SH503189/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73464963",
+        "url": "https://vhr.carfax.ca/?id=cMARKdJKzmbiZjSMNEGmhmoCHUw9XKey",
+        "pdf": "incoming/JF2SLDRC3SH503189/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GUADC7R8276625",
+      "slug": "41bfgx1wfgag",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 60762,
+      "photos": [
+        "incoming/JF2GUADC7R8276625/1.jpg",
+        "incoming/JF2GUADC7R8276625/2.jpg",
+        "incoming/JF2GUADC7R8276625/3.jpg",
+        "incoming/JF2GUADC7R8276625/4.jpg",
+        "incoming/JF2GUADC7R8276625/5.jpg",
+        "incoming/JF2GUADC7R8276625/6.jpg",
+        "incoming/JF2GUADC7R8276625/7.jpg",
+        "incoming/JF2GUADC7R8276625/8.jpg",
+        "incoming/JF2GUADC7R8276625/9.jpg",
+        "incoming/JF2GUADC7R8276625/10.jpg",
+        "incoming/JF2GUADC7R8276625/11.jpg",
+        "incoming/JF2GUADC7R8276625/12.jpg",
+        "incoming/JF2GUADC7R8276625/13.jpg",
+        "incoming/JF2GUADC7R8276625/14.jpg",
+        "incoming/JF2GUADC7R8276625/15.jpg",
+        "incoming/JF2GUADC7R8276625/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Black",
+        "Factory tire size (door label)": "225/60R17 on 17x7J rims",
+        "Build date": "07/2023"
+      },
+      "sold": true,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GUADC7R8276625/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73465039",
+        "url": "https://vhr.carfax.ca/?id=OootrziZ9UkuEOykAUABBEujHJCkA%2Fn%2B",
+        "pdf": "incoming/JF2GUADC7R8276625/carfax.pdf"
+      }
+    },
+    {
+      "vin": "5XYZUDLB8JG530633",
+      "slug": "znxkjitrcleb",
+      "year": 2018,
+      "make": "Hyundai",
+      "model": "Santa Fe Sport",
+      "km": 48111,
+      "photos": [
+        "incoming/5XYZUDLB8JG530633/1.jpg",
+        "incoming/5XYZUDLB8JG530633/2.jpg",
+        "incoming/5XYZUDLB8JG530633/3.jpg",
+        "incoming/5XYZUDLB8JG530633/4.jpg",
+        "incoming/5XYZUDLB8JG530633/5.jpg",
+        "incoming/5XYZUDLB8JG530633/6.jpg",
+        "incoming/5XYZUDLB8JG530633/7.jpg",
+        "incoming/5XYZUDLB8JG530633/8.jpg",
+        "incoming/5XYZUDLB8JG530633/9.jpg",
+        "incoming/5XYZUDLB8JG530633/10.jpg",
+        "incoming/5XYZUDLB8JG530633/11.jpg",
+        "incoming/5XYZUDLB8JG530633/12.jpg",
+        "incoming/5XYZUDLB8JG530633/13.jpg",
+        "incoming/5XYZUDLB8JG530633/14.jpg",
+        "incoming/5XYZUDLB8JG530633/15.jpg",
+        "incoming/5XYZUDLB8JG530633/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.4L 4-cylinder, gasoline",
+        "Transmission": "6-speed automatic",
+        "Drivetrain": "4WD",
+        "Exterior colour": "Red",
+        "Factory tire size (door label)": "235/65R17 on 7.0Jx17 rims",
+        "Build date": "08/2017"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/5XYZUDLB8JG530633/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663826",
+        "url": "https://vhr.carfax.ca/?id=NSX5Vkftg76vUBB4ZYQCXa69VJ30SRqE",
+        "pdf": "incoming/5XYZUDLB8JG530633/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GTABC8JH214922",
+      "slug": "bec9jajeayqc",
+      "year": 2018,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 179644,
+      "photos": [
+        "incoming/JF2GTABC8JH214922/1.jpg",
+        "incoming/JF2GTABC8JH214922/2.jpg",
+        "incoming/JF2GTABC8JH214922/3.jpg",
+        "incoming/JF2GTABC8JH214922/4.jpg",
+        "incoming/JF2GTABC8JH214922/5.jpg",
+        "incoming/JF2GTABC8JH214922/6.jpg",
+        "incoming/JF2GTABC8JH214922/7.jpg",
+        "incoming/JF2GTABC8JH214922/8.jpg",
+        "incoming/JF2GTABC8JH214922/9.jpg",
+        "incoming/JF2GTABC8JH214922/10.jpg",
+        "incoming/JF2GTABC8JH214922/11.jpg",
+        "incoming/JF2GTABC8JH214922/12.jpg",
+        "incoming/JF2GTABC8JH214922/13.jpg",
+        "incoming/JF2GTABC8JH214922/14.jpg",
+        "incoming/JF2GTABC8JH214922/15.jpg",
+        "incoming/JF2GTABC8JH214922/16.jpg",
+        "incoming/JF2GTABC8JH214922/17.jpg",
+        "incoming/JF2GTABC8JH214922/18.jpg",
+        "incoming/JF2GTABC8JH214922/19.jpg",
+        "incoming/JF2GTABC8JH214922/20.jpg",
+        "incoming/JF2GTABC8JH214922/21.jpg",
+        "incoming/JF2GTABC8JH214922/22.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "White",
+        "Factory tire size (door label)": "P225/60R17 on 17x7J rims",
+        "Build date": "07/2017"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GTABC8JH214922/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663823",
+        "url": "https://vhr.carfax.ca/?id=xtPvMfNXYjs9m8A8krK1z4PYweOmhw8H",
+        "pdf": "incoming/JF2GTABC8JH214922/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GUADC7RH381620",
+      "slug": "t7g12d99qm3m",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 66049,
+      "photos": [
+        "incoming/JF2GUADC7RH381620/1.jpg",
+        "incoming/JF2GUADC7RH381620/2.jpg",
+        "incoming/JF2GUADC7RH381620/3.jpg",
+        "incoming/JF2GUADC7RH381620/4.jpg",
+        "incoming/JF2GUADC7RH381620/5.jpg",
+        "incoming/JF2GUADC7RH381620/6.jpg",
+        "incoming/JF2GUADC7RH381620/7.jpg",
+        "incoming/JF2GUADC7RH381620/8.jpg",
+        "incoming/JF2GUADC7RH381620/9.jpg",
+        "incoming/JF2GUADC7RH381620/10.jpg",
+        "incoming/JF2GUADC7RH381620/11.jpg",
+        "incoming/JF2GUADC7RH381620/12.jpg",
+        "incoming/JF2GUADC7RH381620/13.jpg",
+        "incoming/JF2GUADC7RH381620/14.jpg",
+        "incoming/JF2GUADC7RH381620/15.jpg",
+        "incoming/JF2GUADC7RH381620/16.jpg",
+        "incoming/JF2GUADC7RH381620/17.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Red",
+        "Factory tire size (door label)": "225/60R17 on 17x7J rims",
+        "Build date": "05/2024"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GUADC7RH381620/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663821",
+        "url": "https://vhr.carfax.ca/?id=m7k6SpF0lbreJDCeDq7RVi54pwxlY3q2",
+        "pdf": "incoming/JF2GUADC7RH381620/carfax.pdf"
+      }
+    },
+    {
+      "vin": "4S4WMAGD6M3403171",
+      "slug": "0wubo20awbxo",
+      "year": 2021,
+      "make": "Subaru",
+      "model": "Ascent",
+      "km": 85254,
+      "photos": [
+        "incoming/4S4WMAGD6M3403171/1.jpg",
+        "incoming/4S4WMAGD6M3403171/2.jpg",
+        "incoming/4S4WMAGD6M3403171/3.jpg",
+        "incoming/4S4WMAGD6M3403171/4.jpg",
+        "incoming/4S4WMAGD6M3403171/5.jpg",
+        "incoming/4S4WMAGD6M3403171/6.jpg",
+        "incoming/4S4WMAGD6M3403171/7.jpg",
+        "incoming/4S4WMAGD6M3403171/8.jpg",
+        "incoming/4S4WMAGD6M3403171/9.jpg",
+        "incoming/4S4WMAGD6M3403171/10.jpg",
+        "incoming/4S4WMAGD6M3403171/11.jpg",
+        "incoming/4S4WMAGD6M3403171/12.jpg",
+        "incoming/4S4WMAGD6M3403171/13.jpg",
+        "incoming/4S4WMAGD6M3403171/14.jpg",
+        "incoming/4S4WMAGD6M3403171/15.jpg",
+        "incoming/4S4WMAGD6M3403171/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.4L turbo 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Grey",
+        "Factory tire size (door label)": "245/60R18 105H on 18x7.5J rims",
+        "Build date": "08/2020"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/4S4WMAGD6M3403171/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663825",
+        "url": "https://vhr.carfax.ca/?id=wvhz5lTY2QSIV2fSirNFQiutPGtZ%2FgRR",
+        "pdf": "incoming/4S4WMAGD6M3403171/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF2GTHSCXPH240603",
+      "slug": "grkfjs807qyj",
+      "year": 2023,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "km": 113885,
+      "photos": [
+        "incoming/JF2GTHSCXPH240603/1.jpg",
+        "incoming/JF2GTHSCXPH240603/2.jpg",
+        "incoming/JF2GTHSCXPH240603/3.jpg",
+        "incoming/JF2GTHSCXPH240603/4.jpg",
+        "incoming/JF2GTHSCXPH240603/5.jpg",
+        "incoming/JF2GTHSCXPH240603/6.jpg",
+        "incoming/JF2GTHSCXPH240603/7.jpg",
+        "incoming/JF2GTHSCXPH240603/8.jpg",
+        "incoming/JF2GTHSCXPH240603/9.jpg",
+        "incoming/JF2GTHSCXPH240603/10.jpg",
+        "incoming/JF2GTHSCXPH240603/11.jpg",
+        "incoming/JF2GTHSCXPH240603/12.jpg",
+        "incoming/JF2GTHSCXPH240603/13.jpg",
+        "incoming/JF2GTHSCXPH240603/14.jpg"
+      ],
+      "specs": {
+        "Engine": "2.5L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Light blue",
+        "Factory tire size (door label)": "P225/60R17 on 17x7J rims",
+        "Build date": "08/2022"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF2GTHSCXPH240603/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73465011",
+        "url": "https://vhr.carfax.ca/?id=qGGC5e9VfB%2FupjJ9POyT9NmeK11qUzgc",
+        "pdf": "incoming/JF2GTHSCXPH240603/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JA4AJ3AU7CZ602635",
+      "slug": "0o4oazli34kz",
+      "year": 2012,
+      "make": "Mitsubishi",
+      "model": "RVR",
+      "km": 293820,
+      "photos": [
+        "incoming/JA4AJ3AU7CZ602635/1.jpg",
+        "incoming/JA4AJ3AU7CZ602635/2.jpg",
+        "incoming/JA4AJ3AU7CZ602635/3.jpg",
+        "incoming/JA4AJ3AU7CZ602635/4.jpg",
+        "incoming/JA4AJ3AU7CZ602635/5.jpg",
+        "incoming/JA4AJ3AU7CZ602635/6.jpg",
+        "incoming/JA4AJ3AU7CZ602635/7.jpg",
+        "incoming/JA4AJ3AU7CZ602635/8.jpg",
+        "incoming/JA4AJ3AU7CZ602635/9.jpg",
+        "incoming/JA4AJ3AU7CZ602635/10.jpg",
+        "incoming/JA4AJ3AU7CZ602635/11.jpg",
+        "incoming/JA4AJ3AU7CZ602635/12.jpg",
+        "incoming/JA4AJ3AU7CZ602635/13.jpg",
+        "incoming/JA4AJ3AU7CZ602635/14.jpg",
+        "incoming/JA4AJ3AU7CZ602635/15.jpg",
+        "incoming/JA4AJ3AU7CZ602635/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L, gasoline",
+        "Drivetrain": "4WD",
+        "Exterior colour": "White",
+        "Factory tire size (door label)": "P215/70R16 on 16x6.5J rims",
+        "Build date": "12/2011"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JA4AJ3AU7CZ602635/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73531799",
+        "url": "https://vhr.carfax.ca/?id=WjrtG6LjoDFYuNIFw8QAf%2BR%2BvEP42LRH",
+        "pdf": "incoming/JA4AJ3AU7CZ602635/carfax.pdf"
+      }
+    },
+    {
+      "vin": "JF1GPAA63G8281571",
+      "slug": "vcqhvxu48egs",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Impreza",
+      "km": 414949,
+      "photos": [
+        "incoming/JF1GPAA63G8281571/1.jpg",
+        "incoming/JF1GPAA63G8281571/2.jpg",
+        "incoming/JF1GPAA63G8281571/3.jpg",
+        "incoming/JF1GPAA63G8281571/4.jpg",
+        "incoming/JF1GPAA63G8281571/5.jpg",
+        "incoming/JF1GPAA63G8281571/6.jpg",
+        "incoming/JF1GPAA63G8281571/7.jpg",
+        "incoming/JF1GPAA63G8281571/8.jpg",
+        "incoming/JF1GPAA63G8281571/9.jpg",
+        "incoming/JF1GPAA63G8281571/10.jpg",
+        "incoming/JF1GPAA63G8281571/11.jpg",
+        "incoming/JF1GPAA63G8281571/12.jpg",
+        "incoming/JF1GPAA63G8281571/13.jpg",
+        "incoming/JF1GPAA63G8281571/14.jpg",
+        "incoming/JF1GPAA63G8281571/15.jpg",
+        "incoming/JF1GPAA63G8281571/16.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Black",
+        "Build date": "03/2016"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/JF1GPAA63G8281571/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73663827",
+        "url": "https://vhr.carfax.ca/?id=6VRMm3VSghIx4n3nN%2F5Vwacvro439i5a",
+        "pdf": "incoming/JF1GPAA63G8281571/carfax.pdf"
+      }
+    },
+    {
+      "vin": "KL79MRSL1PB204826",
+      "slug": "b4roehqov2lk",
+      "year": 2023,
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "km": 58483,
+      "photos": [
+        "incoming/KL79MRSL1PB204826/1.jpg",
+        "incoming/KL79MRSL1PB204826/2.jpg",
+        "incoming/KL79MRSL1PB204826/3.jpg",
+        "incoming/KL79MRSL1PB204826/4.jpg",
+        "incoming/KL79MRSL1PB204826/5.jpg",
+        "incoming/KL79MRSL1PB204826/6.jpg",
+        "incoming/KL79MRSL1PB204826/7.jpg",
+        "incoming/KL79MRSL1PB204826/8.jpg",
+        "incoming/KL79MRSL1PB204826/9.jpg",
+        "incoming/KL79MRSL1PB204826/10.jpg",
+        "incoming/KL79MRSL1PB204826/11.jpg",
+        "incoming/KL79MRSL1PB204826/12.jpg",
+        "incoming/KL79MRSL1PB204826/13.jpg"
+      ],
+      "specs": {
+        "Engine": "1.3L turbo 3-cylinder, gasoline",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Red",
+        "Factory tire size (door label)": "225/60R17 on 17x7.5J rims",
+        "Build date": "06/2023"
+      },
+      "sold": false,
+      "build_sheet": {
+        "msrp": 31923,
+        "pdf": "incoming/KL79MRSL1PB204826/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73634170",
+        "url": "https://vhr.carfax.ca/?id=VTE8BHkmyJs%2FOO90exlLWBHUZZTrPxrP",
+        "pdf": "incoming/KL79MRSL1PB204826/carfax.pdf"
+      }
+    },
+    {
+      "vin": "KNDCC3LC4K5238984",
+      "slug": "oaenxtq3dcng",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Niro",
+      "km": 114670,
+      "photos": [
+        "incoming/KNDCC3LC4K5238984/1.jpg",
+        "incoming/KNDCC3LC4K5238984/2.jpg",
+        "incoming/KNDCC3LC4K5238984/3.jpg",
+        "incoming/KNDCC3LC4K5238984/4.jpg",
+        "incoming/KNDCC3LC4K5238984/5.jpg",
+        "incoming/KNDCC3LC4K5238984/6.jpg",
+        "incoming/KNDCC3LC4K5238984/7.jpg",
+        "incoming/KNDCC3LC4K5238984/8.jpg",
+        "incoming/KNDCC3LC4K5238984/9.jpg",
+        "incoming/KNDCC3LC4K5238984/10.jpg",
+        "incoming/KNDCC3LC4K5238984/11.jpg",
+        "incoming/KNDCC3LC4K5238984/12.jpg",
+        "incoming/KNDCC3LC4K5238984/13.jpg",
+        "incoming/KNDCC3LC4K5238984/14.jpg",
+        "incoming/KNDCC3LC4K5238984/15.jpg",
+        "incoming/KNDCC3LC4K5238984/16.jpg",
+        "incoming/KNDCC3LC4K5238984/17.jpg"
+      ],
+      "specs": {
+        "Engine": "1.6L 4-cylinder, gasoline hybrid",
+        "Drivetrain": "4x2",
+        "Exterior colour": "White",
+        "Factory tire size (door label)": "205/60R16 on 16x6.5J rims",
+        "Build date": "10/2018"
+      },
+      "sold": false,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/KNDCC3LC4K5238984/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73560713",
+        "url": "https://vhr.carfax.ca/?id=tkRaIkJxUgPgXcdhb5mCnY%2FYlsJHZwA8",
+        "pdf": "incoming/KNDCC3LC4K5238984/carfax.pdf"
+      }
+    },
+    {
+      "vin": "2FMPK3J96LBA63979",
+      "slug": "9nnt9xz5cm9c",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Edge",
+      "km": 77949,
+      "photos": [
+        "incoming/2FMPK3J96LBA63979/1.jpg",
+        "incoming/2FMPK3J96LBA63979/2.jpg",
+        "incoming/2FMPK3J96LBA63979/3.jpg",
+        "incoming/2FMPK3J96LBA63979/4.jpg",
+        "incoming/2FMPK3J96LBA63979/5.jpg",
+        "incoming/2FMPK3J96LBA63979/6.jpg",
+        "incoming/2FMPK3J96LBA63979/7.jpg",
+        "incoming/2FMPK3J96LBA63979/8.jpg",
+        "incoming/2FMPK3J96LBA63979/9.jpg",
+        "incoming/2FMPK3J96LBA63979/10.jpg",
+        "incoming/2FMPK3J96LBA63979/11.jpg",
+        "incoming/2FMPK3J96LBA63979/12.jpg",
+        "incoming/2FMPK3J96LBA63979/13.jpg",
+        "incoming/2FMPK3J96LBA63979/14.jpg",
+        "incoming/2FMPK3J96LBA63979/15.jpg"
+      ],
+      "specs": {
+        "Engine": "2.0L turbo 4-cylinder, gasoline",
+        "Transmission": "8-speed automatic",
+        "Drivetrain": "FWD",
+        "Exterior colour": "Burgundy",
+        "Factory tire size (door label)": "245/60R18 on 18x8.0J rims",
+        "Build date": "02/2020"
+      },
+      "sold": true,
+      "build_sheet": {
+        "spec_sheet": true,
+        "pdf": "incoming/2FMPK3J96LBA63979/build_sheet.pdf"
+      },
+      "carfax": {
+        "VHR #": "73535439",
+        "url": "https://vhr.carfax.ca/?id=hi8b92wQNm1IfbWuvin%2FVnhCg97Fzdhm",
+        "pdf": "incoming/2FMPK3J96LBA63979/carfax.pdf"
+      }
+    },
+    {
+      "vin": "3CZRU6H92KM109930",
+      "slug": "jv5y5w9y614p",
+      "year": 2019,
+      "make": "Honda",
+      "model": "HR-V",
+      "km": 121514,
+      "photos": [
+        "incoming/3CZRU6H92KM109930/1.jpg",
+        "incoming/3CZRU6H92KM109930/2.jpg",
+        "incoming/3CZRU6H92KM109930/3.jpg",
+        "incoming/3CZRU6H92KM109930/4.jpg",
+        "incoming/3CZRU6H92KM109930/5.jpg",
+        "incoming/3CZRU6H92KM109930/6.jpg",
+        "incoming/3CZRU6H92KM109930/7.jpg",
+        "incoming/3CZRU6H92KM109930/8.jpg",
+        "incoming/3CZRU6H92KM109930/9.jpg",
+        "incoming/3CZRU6H92KM109930/10.jpg",
+        "incoming/3CZRU6H92KM109930/11.jpg",
+        "incoming/3CZRU6H92KM109930/12.jpg",
+        "incoming/3CZRU6H92KM109930/13.jpg",
+        "incoming/3CZRU6H92KM109930/14.jpg",
+        "incoming/3CZRU6H92KM109930/15.jpg",
+        "incoming/3CZRU6H92KM109930/16.jpg",
+        "incoming/3CZRU6H92KM109930/17.jpg",
+        "incoming/3CZRU6H92KM109930/18.jpg",
+        "incoming/3CZRU6H92KM109930/19.jpg"
+      ],
+      "specs": {
+        "Engine": "1.8L 4-cylinder, gasoline",
+        "Transmission": "CVT",
+        "Drivetrain": "4WD",
+        "Exterior colour": "Black",
+        "Factory tire size (door label)": "215/55R17 on 17x7.5J rims",
+        "Build date": "08/2019"
+      },
+      "sold": false
+    },
+    {
+      "vin": "2C4RDGEG3HR878694",
+      "slug": "8sm4l3rlmp6l",
+      "year": 2017,
+      "make": "Dodge",
+      "model": "Grand Caravan",
+      "km": 212952,
+      "photos": [
+        "incoming/2C4RDGEG3HR878694/1.jpg",
+        "incoming/2C4RDGEG3HR878694/2.jpg",
+        "incoming/2C4RDGEG3HR878694/3.jpg",
+        "incoming/2C4RDGEG3HR878694/4.jpg",
+        "incoming/2C4RDGEG3HR878694/5.jpg",
+        "incoming/2C4RDGEG3HR878694/6.jpg",
+        "incoming/2C4RDGEG3HR878694/7.jpg",
+        "incoming/2C4RDGEG3HR878694/8.jpg",
+        "incoming/2C4RDGEG3HR878694/9.jpg",
+        "incoming/2C4RDGEG3HR878694/10.jpg",
+        "incoming/2C4RDGEG3HR878694/11.jpg",
+        "incoming/2C4RDGEG3HR878694/12.jpg",
+        "incoming/2C4RDGEG3HR878694/13.jpg",
+        "incoming/2C4RDGEG3HR878694/14.jpg",
+        "incoming/2C4RDGEG3HR878694/15.jpg",
+        "incoming/2C4RDGEG3HR878694/16.jpg",
+        "incoming/2C4RDGEG3HR878694/17.jpg",
+        "incoming/2C4RDGEG3HR878694/18.jpg",
+        "incoming/2C4RDGEG3HR878694/19.jpg",
+        "incoming/2C4RDGEG3HR878694/20.jpg"
+      ],
+      "specs": {
+        "Engine": "3.6L V6, gasoline",
+        "Drivetrain": "FWD",
+        "Exterior colour": "Red",
+        "Factory rim size (door label)": "17x6.5",
+        "Build date": "09/2017"
+      },
+      "sold": false
+    },
+    {
+      "vin": "2HKRM4H58EH111554",
+      "slug": "bwynr5ys5elv",
+      "year": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "km": 279614,
+      "photos": [
+        "incoming/2HKRM4H58EH111554/1.jpg",
+        "incoming/2HKRM4H58EH111554/2.jpg",
+        "incoming/2HKRM4H58EH111554/3.jpg",
+        "incoming/2HKRM4H58EH111554/4.jpg",
+        "incoming/2HKRM4H58EH111554/5.jpg",
+        "incoming/2HKRM4H58EH111554/6.jpg",
+        "incoming/2HKRM4H58EH111554/7.jpg",
+        "incoming/2HKRM4H58EH111554/8.jpg",
+        "incoming/2HKRM4H58EH111554/9.jpg",
+        "incoming/2HKRM4H58EH111554/10.jpg",
+        "incoming/2HKRM4H58EH111554/11.jpg",
+        "incoming/2HKRM4H58EH111554/12.jpg",
+        "incoming/2HKRM4H58EH111554/13.jpg",
+        "incoming/2HKRM4H58EH111554/14.jpg",
+        "incoming/2HKRM4H58EH111554/15.jpg"
+      ],
+      "specs": {
+        "Engine": "2.4L 4-cylinder, gasoline",
+        "Transmission": "5-speed automatic",
+        "Drivetrain": "AWD",
+        "Exterior colour": "Grey",
+        "Factory tire size (door label)": "225/65R17 on 17x6.5J rims",
+        "Build date": "11/2013"
+      },
+      "sold": false
+    },
+    {
+      "vin": "1GTUUGEDXRZ210897",
+      "slug": "a2ml56uz36rj",
+      "year": 2024,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "trim": "Denali",
+      "km": 55336,
+      "photos": [
+        "incoming/1GTUUGEDXRZ210897/1.jpg",
+        "incoming/1GTUUGEDXRZ210897/2.jpg",
+        "incoming/1GTUUGEDXRZ210897/3.jpg",
+        "incoming/1GTUUGEDXRZ210897/4.jpg"
+      ],
+      "specs": {
+        "Body": "Crew Cab Short Bed",
+        "Engine": "5.3L EcoTec3 V8",
+        "Transmission": "10-speed automatic",
+        "Drivetrain": "4WD",
+        "Exterior colour": "Sterling Metallic",
+        "Interior": "Jet Black"
+      },
+      "build_sheet": {
+        "msrp": 94394,
+        "packages": [
+          "Denali Reserve Package ($4,695): rear camera mirror, 15\" multicolor head-up display, power sunroof, GMC MultiPro power steps, 22\" painted aluminum wheels w/ machining & chrome inserts"
+        ],
+        "options": [
+          "Base price $87,299",
+          "Wheel locks (dealer installed) $100",
+          "GVWR 3,221 kg (7,100 lb)",
+          "3.23 rear axle ratio",
+          "Trailering package (standard)"
+        ],
+        "pdf": "incoming/1GTUUGEDXRZ210897/sticker.pdf"
+      },
+      "sold": false,
+      "carfax": {
+        "Last reported odometer": "32,652 km (2025-08-28)",
+        "Accidents/damage": "None",
+        "Registration": "New Brunswick only, 1 owner, Normal",
+        "Open recalls": "None",
+        "records": [
+          "4 service records at MacDonald Buick GMC Cadillac, Moncton"
+        ],
+        "url": "https://vhr.carfax.ca/?id=vJSnmtcpsQXcDJMO3mBGDVCzbmj%2BlygJ",
+        "pdf": "incoming/1GTUUGEDXRZ210897/carfax.pdf"
+      }
+    }
+  ]
 }
