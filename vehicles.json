@@ -1304,6 +1304,44 @@
     "Build date": "11/2013"
    },
    "sold": false
+  },
+  {
+   "vin": "1GTUUGEDXRZ210897",
+   "slug": "a2ml56uz36rj",
+   "year": 2024,
+   "make": "GMC",
+   "model": "Sierra 1500",
+   "trim": "Denali",
+   "km": 55336,
+   "photos": [
+    "incoming/1GTUUGEDXRZ210897/1.jpg",
+    "incoming/1GTUUGEDXRZ210897/2.jpg",
+    "incoming/1GTUUGEDXRZ210897/3.jpg",
+    "incoming/1GTUUGEDXRZ210897/4.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab Short Bed",
+    "Engine": "5.3L EcoTec3 V8",
+    "Transmission": "10-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Sterling Metallic",
+    "Interior": "Jet Black"
+   },
+   "build_sheet": {
+    "msrp": 94394,
+    "packages": [
+     "Denali Reserve Package ($4,695): rear camera mirror, 15\" multicolor head-up display, power sunroof, GMC MultiPro power steps, 22\" painted aluminum wheels w/ machining & chrome inserts"
+    ],
+    "options": [
+     "Base price $87,299",
+     "Wheel locks (dealer installed) $100",
+     "GVWR 3,221 kg (7,100 lb)",
+     "3.23 rear axle ratio",
+     "Trailering package (standard)"
+    ],
+    "pdf": "incoming/1GTUUGEDXRZ210897/sticker.pdf"
+   },
+   "sold": false
   }
  ]
 }
