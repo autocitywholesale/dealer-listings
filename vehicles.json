@@ -1341,7 +1341,7 @@
         ],
         "pdf": "incoming/1GTUUGEDXRZ210897/sticker.pdf"
       },
-      "sold": false,
+      "sold": true,
       "carfax": {
         "Last reported odometer": "32,652 km (2025-08-28)",
         "Accidents/damage": "None",
