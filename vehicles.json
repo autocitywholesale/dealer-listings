@@ -1232,6 +1232,44 @@
     "Build date": "08/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "2C4RDGEG3HR878694",
+   "slug": "8sm4l3rlmp6l",
+   "year": 2017,
+   "make": "Dodge",
+   "model": "Grand Caravan",
+   "km": 212952,
+   "photos": [
+    "incoming/2C4RDGEG3HR878694/1.jpg",
+    "incoming/2C4RDGEG3HR878694/2.jpg",
+    "incoming/2C4RDGEG3HR878694/3.jpg",
+    "incoming/2C4RDGEG3HR878694/4.jpg",
+    "incoming/2C4RDGEG3HR878694/5.jpg",
+    "incoming/2C4RDGEG3HR878694/6.jpg",
+    "incoming/2C4RDGEG3HR878694/7.jpg",
+    "incoming/2C4RDGEG3HR878694/8.jpg",
+    "incoming/2C4RDGEG3HR878694/9.jpg",
+    "incoming/2C4RDGEG3HR878694/10.jpg",
+    "incoming/2C4RDGEG3HR878694/11.jpg",
+    "incoming/2C4RDGEG3HR878694/12.jpg",
+    "incoming/2C4RDGEG3HR878694/13.jpg",
+    "incoming/2C4RDGEG3HR878694/14.jpg",
+    "incoming/2C4RDGEG3HR878694/15.jpg",
+    "incoming/2C4RDGEG3HR878694/16.jpg",
+    "incoming/2C4RDGEG3HR878694/17.jpg",
+    "incoming/2C4RDGEG3HR878694/18.jpg",
+    "incoming/2C4RDGEG3HR878694/19.jpg",
+    "incoming/2C4RDGEG3HR878694/20.jpg"
+   ],
+   "specs": {
+    "Engine": "3.6L V6, gasoline",
+    "Drivetrain": "FWD",
+    "Exterior colour": "Red",
+    "Factory rim size (door label)": "17x6.5",
+    "Build date": "09/2017"
+   },
+   "sold": false
   }
  ]
 }
