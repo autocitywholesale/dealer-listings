@@ -1455,6 +1455,49 @@
    },
    "notes": "",
    "sold": false
+  },
+  {
+   "vin": "2HGFC1F95LH104126",
+   "slug": "tvu091uaqnli",
+   "year": 2020,
+   "make": "Honda",
+   "model": "Civic",
+   "trim": "Touring",
+   "km": 152907,
+   "photos": [
+    "incoming/2HGFC1F95LH104126/1.jpg",
+    "incoming/2HGFC1F95LH104126/2.jpg",
+    "incoming/2HGFC1F95LH104126/3.jpg",
+    "incoming/2HGFC1F95LH104126/4.jpg",
+    "incoming/2HGFC1F95LH104126/5.jpg",
+    "incoming/2HGFC1F95LH104126/6.jpg",
+    "incoming/2HGFC1F95LH104126/7.jpg",
+    "incoming/2HGFC1F95LH104126/8.jpg",
+    "incoming/2HGFC1F95LH104126/9.jpg",
+    "incoming/2HGFC1F95LH104126/10.jpg",
+    "incoming/2HGFC1F95LH104126/11.jpg",
+    "incoming/2HGFC1F95LH104126/12.jpg",
+    "incoming/2HGFC1F95LH104126/13.jpg",
+    "incoming/2HGFC1F95LH104126/14.jpg",
+    "incoming/2HGFC1F95LH104126/15.jpg",
+    "incoming/2HGFC1F95LH104126/16.jpg",
+    "incoming/2HGFC1F95LH104126/17.jpg",
+    "incoming/2HGFC1F95LH104126/18.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "1.5L turbo I4 (L15B7), 174 hp, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "FWD",
+    "Seating": "5",
+    "Exterior colour": "Blue"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HGFC1F95LH104126/build_sheet.pdf"
+   },
+   "notes": "Leather, sunroof, Michelin tires. Light scratches on left doors and quarter panel (see photos).",
+   "sold": false
   }
  ]
 }
