@@ -1581,6 +1581,92 @@
    },
    "notes": "",
    "sold": false
+  },
+  {
+   "vin": "1GNEVJKS4TJ149450",
+   "slug": "rarld30tzrcg",
+   "year": 2026,
+   "make": "Chevrolet",
+   "model": "Traverse",
+   "trim": "Z71",
+   "km": 17050,
+   "photos": [
+    "incoming/1GNEVJKS4TJ149450/1.jpg",
+    "incoming/1GNEVJKS4TJ149450/2.jpg",
+    "incoming/1GNEVJKS4TJ149450/3.jpg",
+    "incoming/1GNEVJKS4TJ149450/4.jpg",
+    "incoming/1GNEVJKS4TJ149450/5.jpg",
+    "incoming/1GNEVJKS4TJ149450/6.jpg",
+    "incoming/1GNEVJKS4TJ149450/7.jpg",
+    "incoming/1GNEVJKS4TJ149450/8.jpg",
+    "incoming/1GNEVJKS4TJ149450/9.jpg",
+    "incoming/1GNEVJKS4TJ149450/10.jpg",
+    "incoming/1GNEVJKS4TJ149450/11.jpg",
+    "incoming/1GNEVJKS4TJ149450/12.jpg",
+    "incoming/1GNEVJKS4TJ149450/13.jpg",
+    "incoming/1GNEVJKS4TJ149450/14.jpg",
+    "incoming/1GNEVJKS4TJ149450/15.jpg",
+    "incoming/1GNEVJKS4TJ149450/16.jpg",
+    "incoming/1GNEVJKS4TJ149450/17.jpg",
+    "incoming/1GNEVJKS4TJ149450/18.jpg",
+    "incoming/1GNEVJKS4TJ149450/19.jpg"
+   ],
+   "specs": {
+    "Engine": "2.5L 4-cyl turbo gasoline",
+    "Drivetrain": "AWD",
+    "Body": "SUV",
+    "Exterior colour": "White",
+    "Tires": "Michelin X-Ice studless winter tires",
+    "Build date": "08/25"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1GNEVJKS4TJ149450/build_sheet.pdf"
+   },
+   "notes": "Comes with a second set of tires.",
+   "sold": false
+  },
+  {
+   "vin": "3GNAXTEG0SL118389",
+   "slug": "nkwg5fes6b2a",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "trim": "RS",
+   "km": 56279,
+   "photos": [
+    "incoming/3GNAXTEG0SL118389/1.jpg",
+    "incoming/3GNAXTEG0SL118389/2.jpg",
+    "incoming/3GNAXTEG0SL118389/3.jpg",
+    "incoming/3GNAXTEG0SL118389/4.jpg",
+    "incoming/3GNAXTEG0SL118389/5.jpg",
+    "incoming/3GNAXTEG0SL118389/6.jpg",
+    "incoming/3GNAXTEG0SL118389/7.jpg",
+    "incoming/3GNAXTEG0SL118389/8.jpg",
+    "incoming/3GNAXTEG0SL118389/9.jpg",
+    "incoming/3GNAXTEG0SL118389/10.jpg",
+    "incoming/3GNAXTEG0SL118389/11.jpg",
+    "incoming/3GNAXTEG0SL118389/12.jpg",
+    "incoming/3GNAXTEG0SL118389/13.jpg",
+    "incoming/3GNAXTEG0SL118389/14.jpg",
+    "incoming/3GNAXTEG0SL118389/15.jpg",
+    "incoming/3GNAXTEG0SL118389/16.jpg",
+    "incoming/3GNAXTEG0SL118389/17.jpg",
+    "incoming/3GNAXTEG0SL118389/18.jpg"
+   ],
+   "specs": {
+    "Engine": "1.5L 4-cyl turbo gasoline",
+    "Drivetrain": "AWD",
+    "Body": "SUV",
+    "Exterior colour": "Blue",
+    "Build date": "07/24"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/3GNAXTEG0SL118389/build_sheet.pdf"
+   },
+   "notes": "",
+   "sold": false
   }
  ]
 }
