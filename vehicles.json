@@ -1534,6 +1534,53 @@
    },
    "notes": "Leather 'S' seats, Stow 'n Go, black 20\" wheels. Damage: roof trim tape, bumper scuffs, mirror scratches (see photos). Carfax not attached.",
    "sold": false
+  },
+  {
+   "vin": "3GNAXTEG9SL110520",
+   "slug": "c5xk98a71952",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "trim": "RS",
+   "km": 55462,
+   "photos": [
+    "incoming/3GNAXTEG9SL110520/1.jpg",
+    "incoming/3GNAXTEG9SL110520/2.jpg",
+    "incoming/3GNAXTEG9SL110520/3.jpg",
+    "incoming/3GNAXTEG9SL110520/4.jpg",
+    "incoming/3GNAXTEG9SL110520/5.jpg",
+    "incoming/3GNAXTEG9SL110520/6.jpg",
+    "incoming/3GNAXTEG9SL110520/7.jpg",
+    "incoming/3GNAXTEG9SL110520/8.jpg",
+    "incoming/3GNAXTEG9SL110520/9.jpg",
+    "incoming/3GNAXTEG9SL110520/10.jpg",
+    "incoming/3GNAXTEG9SL110520/11.jpg",
+    "incoming/3GNAXTEG9SL110520/12.jpg",
+    "incoming/3GNAXTEG9SL110520/13.jpg",
+    "incoming/3GNAXTEG9SL110520/14.jpg",
+    "incoming/3GNAXTEG9SL110520/15.jpg",
+    "incoming/3GNAXTEG9SL110520/16.jpg",
+    "incoming/3GNAXTEG9SL110520/17.jpg",
+    "incoming/3GNAXTEG9SL110520/18.jpg",
+    "incoming/3GNAXTEG9SL110520/19.jpg"
+   ],
+   "specs": {
+    "Engine": "1.5L gasoline",
+    "Drivetrain": "AWD",
+    "Body": "SUV",
+    "Exterior colour": "Black",
+    "Interior": "Black with red stitching",
+    "Sunroof": "Panoramic",
+    "Wheels": "19\" black/machined",
+    "Tires": "Continental CrossContact RX, good tread",
+    "Build date": "07/24"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/3GNAXTEG9SL110520/build_sheet.pdf"
+   },
+   "notes": "",
+   "sold": false
   }
  ]
 }
