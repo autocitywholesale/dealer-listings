@@ -1713,6 +1713,48 @@
     "Build date": "10/2016"
    },
    "sold": false
+  },
+  {
+   "vin": "1GCUKEEL7SZ106519",
+   "slug": "ctp5iihpq6qy",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 48898,
+   "photos": [
+    "incoming/1GCUKEEL7SZ106519/1.jpg",
+    "incoming/1GCUKEEL7SZ106519/2.jpg",
+    "incoming/1GCUKEEL7SZ106519/3.jpg",
+    "incoming/1GCUKEEL7SZ106519/4.jpg",
+    "incoming/1GCUKEEL7SZ106519/5.jpg",
+    "incoming/1GCUKEEL7SZ106519/6.jpg",
+    "incoming/1GCUKEEL7SZ106519/7.jpg",
+    "incoming/1GCUKEEL7SZ106519/8.jpg",
+    "incoming/1GCUKEEL7SZ106519/9.jpg",
+    "incoming/1GCUKEEL7SZ106519/10.jpg",
+    "incoming/1GCUKEEL7SZ106519/11.jpg",
+    "incoming/1GCUKEEL7SZ106519/12.jpg",
+    "incoming/1GCUKEEL7SZ106519/13.jpg",
+    "incoming/1GCUKEEL7SZ106519/14.jpg",
+    "incoming/1GCUKEEL7SZ106519/15.jpg",
+    "incoming/1GCUKEEL7SZ106519/16.jpg",
+    "incoming/1GCUKEEL7SZ106519/17.jpg",
+    "incoming/1GCUKEEL7SZ106519/18.jpg",
+    "incoming/1GCUKEEL7SZ106519/19.jpg",
+    "incoming/1GCUKEEL7SZ106519/20.jpg",
+    "incoming/1GCUKEEL7SZ106519/21.jpg",
+    "incoming/1GCUKEEL7SZ106519/22.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "6.2L V8, gasoline (L87)",
+    "Transmission": "8-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "275/60R20 on 20x9J rims",
+    "Build date": "08/2024"
+   },
+   "sold": false
   }
  ]
 }
