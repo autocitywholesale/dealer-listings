@@ -1896,6 +1896,45 @@
     "Build date": "12/2022"
    },
    "sold": false
+  },
+  {
+   "vin": "1GYKNGRS6PZ114463",
+   "slug": "w9eehytdwe0p",
+   "year": 2023,
+   "make": "Cadillac",
+   "model": "XT5",
+   "km": 87937,
+   "photos": [
+    "incoming/1GYKNGRS6PZ114463/1.jpg",
+    "incoming/1GYKNGRS6PZ114463/2.jpg",
+    "incoming/1GYKNGRS6PZ114463/3.jpg",
+    "incoming/1GYKNGRS6PZ114463/4.jpg",
+    "incoming/1GYKNGRS6PZ114463/5.jpg",
+    "incoming/1GYKNGRS6PZ114463/6.jpg",
+    "incoming/1GYKNGRS6PZ114463/7.jpg",
+    "incoming/1GYKNGRS6PZ114463/8.jpg",
+    "incoming/1GYKNGRS6PZ114463/9.jpg",
+    "incoming/1GYKNGRS6PZ114463/10.jpg",
+    "incoming/1GYKNGRS6PZ114463/11.jpg",
+    "incoming/1GYKNGRS6PZ114463/12.jpg",
+    "incoming/1GYKNGRS6PZ114463/13.jpg",
+    "incoming/1GYKNGRS6PZ114463/14.jpg",
+    "incoming/1GYKNGRS6PZ114463/15.jpg",
+    "incoming/1GYKNGRS6PZ114463/16.jpg",
+    "incoming/1GYKNGRS6PZ114463/17.jpg",
+    "incoming/1GYKNGRS6PZ114463/18.jpg",
+    "incoming/1GYKNGRS6PZ114463/19.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "3.6L V6, gasoline (LGX)",
+    "Transmission": "9-speed automatic",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Tan/bronze",
+    "Factory tire size (door label)": "235/55R20 on 20x8J rims",
+    "Build date": "08/2022"
+   },
+   "sold": false
   }
  ]
 }
