@@ -2012,6 +2012,49 @@
     "Build date": "04/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "1GNSKBKC7GR261080",
+   "slug": "lcpz7k52g42t",
+   "year": 2016,
+   "make": "Chevrolet",
+   "model": "Tahoe",
+   "km": 182778,
+   "photos": [
+    "incoming/1GNSKBKC7GR261080/1.jpg",
+    "incoming/1GNSKBKC7GR261080/2.jpg",
+    "incoming/1GNSKBKC7GR261080/3.jpg",
+    "incoming/1GNSKBKC7GR261080/4.jpg",
+    "incoming/1GNSKBKC7GR261080/5.jpg",
+    "incoming/1GNSKBKC7GR261080/6.jpg",
+    "incoming/1GNSKBKC7GR261080/7.jpg",
+    "incoming/1GNSKBKC7GR261080/8.jpg",
+    "incoming/1GNSKBKC7GR261080/9.jpg",
+    "incoming/1GNSKBKC7GR261080/10.jpg",
+    "incoming/1GNSKBKC7GR261080/11.jpg",
+    "incoming/1GNSKBKC7GR261080/12.jpg",
+    "incoming/1GNSKBKC7GR261080/13.jpg",
+    "incoming/1GNSKBKC7GR261080/14.jpg",
+    "incoming/1GNSKBKC7GR261080/15.jpg",
+    "incoming/1GNSKBKC7GR261080/16.jpg",
+    "incoming/1GNSKBKC7GR261080/17.jpg",
+    "incoming/1GNSKBKC7GR261080/18.jpg",
+    "incoming/1GNSKBKC7GR261080/19.jpg",
+    "incoming/1GNSKBKC7GR261080/20.jpg",
+    "incoming/1GNSKBKC7GR261080/21.jpg",
+    "incoming/1GNSKBKC7GR261080/22.jpg",
+    "incoming/1GNSKBKC7GR261080/23.jpg",
+    "incoming/1GNSKBKC7GR261080/24.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "5.3L 8-cylinder, gasoline (L83)",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Factory tire size (door label)": "P265/65R18 on 18x8.5J rims",
+    "Build date": "01/2016"
+   },
+   "sold": false
   }
  ]
 }
