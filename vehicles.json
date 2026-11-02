@@ -1974,6 +1974,44 @@
     "Build date": "09/2016"
    },
    "sold": false
+  },
+  {
+   "vin": "JN1BJ1CR1KW334854",
+   "slug": "wf670uiw0b34",
+   "year": 2019,
+   "make": "Nissan",
+   "model": "Qashqai",
+   "km": 178702,
+   "photos": [
+    "incoming/JN1BJ1CR1KW334854/1.jpg",
+    "incoming/JN1BJ1CR1KW334854/2.jpg",
+    "incoming/JN1BJ1CR1KW334854/3.jpg",
+    "incoming/JN1BJ1CR1KW334854/4.jpg",
+    "incoming/JN1BJ1CR1KW334854/5.jpg",
+    "incoming/JN1BJ1CR1KW334854/6.jpg",
+    "incoming/JN1BJ1CR1KW334854/7.jpg",
+    "incoming/JN1BJ1CR1KW334854/8.jpg",
+    "incoming/JN1BJ1CR1KW334854/9.jpg",
+    "incoming/JN1BJ1CR1KW334854/10.jpg",
+    "incoming/JN1BJ1CR1KW334854/11.jpg",
+    "incoming/JN1BJ1CR1KW334854/12.jpg",
+    "incoming/JN1BJ1CR1KW334854/13.jpg",
+    "incoming/JN1BJ1CR1KW334854/14.jpg",
+    "incoming/JN1BJ1CR1KW334854/15.jpg",
+    "incoming/JN1BJ1CR1KW334854/16.jpg",
+    "incoming/JN1BJ1CR1KW334854/17.jpg",
+    "incoming/JN1BJ1CR1KW334854/18.jpg",
+    "incoming/JN1BJ1CR1KW334854/19.jpg",
+    "incoming/JN1BJ1CR1KW334854/20.jpg"
+   ],
+   "specs": {
+    "Body": "Hatchback",
+    "Engine": "2.0L, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Grey (KAD)",
+    "Build date": "04/2019"
+   },
+   "sold": false
   }
  ]
 }
