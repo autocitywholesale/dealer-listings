@@ -2324,6 +2324,40 @@
     "Build date": "04/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "1GYKNGRS2SZ146173",
+   "slug": "rzhwchakgp0m",
+   "year": 2025,
+   "make": "Cadillac",
+   "model": "XT5",
+   "km": 17579,
+   "photos": [
+    "incoming/1GYKNGRS2SZ146173/1.jpg",
+    "incoming/1GYKNGRS2SZ146173/2.jpg",
+    "incoming/1GYKNGRS2SZ146173/3.jpg",
+    "incoming/1GYKNGRS2SZ146173/4.jpg",
+    "incoming/1GYKNGRS2SZ146173/5.jpg",
+    "incoming/1GYKNGRS2SZ146173/6.jpg",
+    "incoming/1GYKNGRS2SZ146173/7.jpg",
+    "incoming/1GYKNGRS2SZ146173/8.jpg",
+    "incoming/1GYKNGRS2SZ146173/9.jpg",
+    "incoming/1GYKNGRS2SZ146173/10.jpg",
+    "incoming/1GYKNGRS2SZ146173/11.jpg",
+    "incoming/1GYKNGRS2SZ146173/12.jpg",
+    "incoming/1GYKNGRS2SZ146173/13.jpg",
+    "incoming/1GYKNGRS2SZ146173/14.jpg",
+    "incoming/1GYKNGRS2SZ146173/15.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "3.6L V6, gasoline (LGX)",
+    "Drivetrain": "AWD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "235/55R20 on 20x8J rims",
+    "Build date": "05/2025"
+   },
+   "sold": false
   }
  ]
 }
