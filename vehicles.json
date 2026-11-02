@@ -1755,6 +1755,40 @@
     "Build date": "08/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "3GCUDFELXPG327345",
+   "slug": "j5ialg5u4wrh",
+   "year": 2023,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 79709,
+   "photos": [
+    "incoming/3GCUDFELXPG327345/1.jpg",
+    "incoming/3GCUDFELXPG327345/2.jpg",
+    "incoming/3GCUDFELXPG327345/3.jpg",
+    "incoming/3GCUDFELXPG327345/4.jpg",
+    "incoming/3GCUDFELXPG327345/5.jpg",
+    "incoming/3GCUDFELXPG327345/6.jpg",
+    "incoming/3GCUDFELXPG327345/7.jpg",
+    "incoming/3GCUDFELXPG327345/8.jpg",
+    "incoming/3GCUDFELXPG327345/9.jpg",
+    "incoming/3GCUDFELXPG327345/10.jpg",
+    "incoming/3GCUDFELXPG327345/11.jpg",
+    "incoming/3GCUDFELXPG327345/12.jpg",
+    "incoming/3GCUDFELXPG327345/13.jpg",
+    "incoming/3GCUDFELXPG327345/14.jpg",
+    "incoming/3GCUDFELXPG327345/15.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "6.2L V8, gasoline (L87)",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Factory tire size (door label)": "LT265/60R20 on 20x9J rims",
+    "Build date": "06/2023"
+   },
+   "sold": false
   }
  ]
 }
