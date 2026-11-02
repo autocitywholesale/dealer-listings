@@ -2025,7 +2025,21 @@
     "Factory tire size (door label)": "275/60R20 on 20x9J rims",
     "Build date": "08/2024"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "September 29, 2026",
+    "Last reported odometer": "36,352 km (Nov 21, 2025)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Nov 21, 2025: Fox Chevrolet Cadillac Ltd, Fredericton NB, 36,352 km, tires balanced/mounted",
+     "6 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=ubQfYCKLVUqSyNI1crpvpjPBSc8zhD2w",
+    "pdf": "incoming/1GCUKEEL0SZ106541/carfax.pdf"
+   }
   },
   {
    "vin": "2GC4YMEY0P1715858",
@@ -2059,7 +2073,21 @@
     "Factory tire size (door label)": "LT275/65R20 on 20x8.5J rims",
     "Build date": "12/2022"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "September 29, 2026",
+    "Last reported odometer": "74,153 mi (May 26, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Ontario only, Normal branding; No U.S. registration; one US service record (Valvoline, Shelbyville KY, May 26, 2026)",
+    "Owners": "1",
+    "Open recalls": "1 open: N232426400 Tailgate May Open Unexpectedly (Feb 1, 2024)",
+    "records": [
+     "May 26, 2026: Valvoline Instant Oil Change, Shelbyville KY US, 74,153 mi, oil and filter changed",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=AkzJhvZO%2FM3LcgdYDRMrWJBkUyi1VOLu",
+    "pdf": "incoming/2GC4YMEY0P1715858/carfax.pdf"
+   }
   },
   {
    "vin": "1GYKNGRS6PZ114463",
@@ -2098,7 +2126,21 @@
     "Factory tire size (door label)": "235/55R20 on 20x8J rims",
     "Build date": "08/2022"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 2, 2026",
+    "Last reported odometer": "85,614 km (date not shown in report)",
+    "Accidents/damage": "1 record: Jun 17, 2026, Charlottetown, Prince Edward Island, Claim: Collision $8,572.00; Estimate $7,098.27 (est. date Jun 24, 2026)",
+    "Registration": "Prince Edward Island only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "May 11, 2026: Take 5 Oil Change, Charlottetown PE, 81,306 km, oil and filter changed",
+     "7 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=lXxr7jSKubVaXLAxqbj%2Fp8sGdJIi%2Bl%2Fr",
+    "pdf": "incoming/1GYKNGRS6PZ114463/carfax.pdf"
+   }
   },
   {
    "vin": "2HGFC2E54GH039263",
@@ -2175,7 +2217,21 @@
     "Exterior colour": "Grey (KAD)",
     "Build date": "04/2019"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 14, 2026",
+    "Last reported odometer": "131,704 km (Apr 2, 2024)",
+    "Accidents/damage": "3 records: Jun 26, 2020, New Brunswick, Claim: Collision $0.00; Aug 31, 2022, New Brunswick, Glass record $2,127.00; Feb 24, 2025, New Brunswick, Glass record $2,201.00",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Apr 2, 2024: Fredericton Nissan, Fredericton NB, 131,704 km",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=NbYr1CI8G9K500y1zmPb%2FeoJlEFHRrLE",
+    "pdf": "incoming/JN1BJ1CR1KW334854/carfax.pdf"
+   }
   },
   {
    "vin": "1GNSKBKC7GR261080",
@@ -2218,7 +2274,21 @@
     "Factory tire size (door label)": "P265/65R18 on 18x8.5J rims",
     "Build date": "01/2016"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "August 6, 2026",
+    "Last reported odometer": "74,807 km (Aug 26, 2020)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Aug 26, 2020: Toner Chevrolet Buick GMC Ltd, Grand Falls NB, 74,807 km, fuel injector(s)/fuel pressure sensor replaced",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=qKeJh4bTjIl6mw74cPmqPCpKpgn3WzA4",
+    "pdf": "incoming/1GNSKBKC7GR261080/carfax.pdf"
+   }
   },
   {
    "vin": "1FMCU9J97JUA00344",
@@ -2259,7 +2329,21 @@
     "Factory tire size (door label)": "235/50R18 97V on 18x7.5J rims",
     "Build date": "08/2017"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "August 17, 2026",
+    "Last reported odometer": "110,144 km (Nov 9, 2022)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Ontario, New Brunswick, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "2 open: 22S43 Transmission shifter cable bushing (Jun 13, 2022); 26S01 Block heater element replacement",
+    "records": [
+     "Nov 9, 2022: Fredericton Mitsubishi, Fredericton NB, 110,144 km, air filter, brake pads, oil change",
+     "15 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=Vfo6Mqwiucj6zfcDYdjzadtp0rLSIU3q",
+    "pdf": "incoming/1FMCU9J97JUA00344/carfax.pdf"
+   }
   },
   {
    "vin": "KNAHT8A30G7131901",
@@ -2323,7 +2407,21 @@
     "Exterior colour": "Green (EBA)",
     "Build date": "04/2019"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "September 14, 2026",
+    "Last reported odometer": "57,642 km (Jun 26, 2023)",
+    "Accidents/damage": "2 records: Dec 22, 2022, Estimate $4,550.00 (REAR CENTER, est. date Apr 26, 2023); Dec 23, 2022, New Brunswick, Claim: Collision $4,821.00",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "1 open: R1911 VSRC 19 2018-19 Rear visibility system update (May 15, 2019)",
+    "records": [
+     "Jun 26, 2023: Speedy Auto Service, Fredericton NB, 57,642 km",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=oKH0bgJ5xoepcEMDY9qjJlNkVCZtF25a",
+    "pdf": "incoming/JN1BJ1CR4KW334816/carfax.pdf"
+   }
   },
   {
    "vin": "1GYKNGRS2SZ146173",
@@ -2357,7 +2455,21 @@
     "Factory tire size (door label)": "235/55R20 on 20x8J rims",
     "Build date": "05/2025"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "September 29, 2026",
+    "Last reported odometer": "10,712 km (May 20, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "May 20, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 10,712 km, maintenance inspection, oil change",
+     "5 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=hDidVvYGtQKgwoIfWTriZ8RigeUtMylF",
+    "pdf": "incoming/1GYKNGRS2SZ146173/carfax.pdf"
+   }
   }
  ]
 }
