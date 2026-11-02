@@ -1935,6 +1935,44 @@
     "Build date": "08/2022"
    },
    "sold": false
+  },
+  {
+   "vin": "2HGFC2E54GH039263",
+   "slug": "70btij5mz8bs",
+   "year": 2016,
+   "make": "Honda",
+   "model": "Civic",
+   "km": 96772,
+   "photos": [
+    "incoming/2HGFC2E54GH039263/1.jpg",
+    "incoming/2HGFC2E54GH039263/2.jpg",
+    "incoming/2HGFC2E54GH039263/3.jpg",
+    "incoming/2HGFC2E54GH039263/4.jpg",
+    "incoming/2HGFC2E54GH039263/5.jpg",
+    "incoming/2HGFC2E54GH039263/6.jpg",
+    "incoming/2HGFC2E54GH039263/7.jpg",
+    "incoming/2HGFC2E54GH039263/8.jpg",
+    "incoming/2HGFC2E54GH039263/9.jpg",
+    "incoming/2HGFC2E54GH039263/10.jpg",
+    "incoming/2HGFC2E54GH039263/11.jpg",
+    "incoming/2HGFC2E54GH039263/12.jpg",
+    "incoming/2HGFC2E54GH039263/13.jpg",
+    "incoming/2HGFC2E54GH039263/14.jpg",
+    "incoming/2HGFC2E54GH039263/15.jpg",
+    "incoming/2HGFC2E54GH039263/16.jpg",
+    "incoming/2HGFC2E54GH039263/17.jpg",
+    "incoming/2HGFC2E54GH039263/18.jpg",
+    "incoming/2HGFC2E54GH039263/19.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline (K20C2)",
+    "Transmission": "6-speed manual",
+    "Drivetrain": "4x2",
+    "Exterior colour": "White (NH578)",
+    "Build date": "09/2016"
+   },
+   "sold": false
   }
  ]
 }
