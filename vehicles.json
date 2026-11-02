@@ -2127,6 +2127,39 @@
     "Exterior colour": "Brown (K7N)"
    },
    "sold": false
+  },
+  {
+   "vin": "JN1BJ1CR4KW334816",
+   "slug": "u60xnasm9b5a",
+   "year": 2019,
+   "make": "Nissan",
+   "model": "Qashqai",
+   "km": 115488,
+   "photos": [
+    "incoming/JN1BJ1CR4KW334816/1.jpg",
+    "incoming/JN1BJ1CR4KW334816/2.jpg",
+    "incoming/JN1BJ1CR4KW334816/3.jpg",
+    "incoming/JN1BJ1CR4KW334816/4.jpg",
+    "incoming/JN1BJ1CR4KW334816/5.jpg",
+    "incoming/JN1BJ1CR4KW334816/6.jpg",
+    "incoming/JN1BJ1CR4KW334816/7.jpg",
+    "incoming/JN1BJ1CR4KW334816/8.jpg",
+    "incoming/JN1BJ1CR4KW334816/9.jpg",
+    "incoming/JN1BJ1CR4KW334816/10.jpg",
+    "incoming/JN1BJ1CR4KW334816/11.jpg",
+    "incoming/JN1BJ1CR4KW334816/12.jpg",
+    "incoming/JN1BJ1CR4KW334816/13.jpg",
+    "incoming/JN1BJ1CR4KW334816/14.jpg",
+    "incoming/JN1BJ1CR4KW334816/15.jpg"
+   ],
+   "specs": {
+    "Body": "Hatchback",
+    "Engine": "2.0L, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Green (EBA)",
+    "Build date": "04/2019"
+   },
+   "sold": false
   }
  ]
 }
