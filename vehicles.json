@@ -1825,6 +1825,43 @@
     "Build date": "04/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "1GCUKEEL0SZ106541",
+   "slug": "p93k3wercbxc",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 58071,
+   "photos": [
+    "incoming/1GCUKEEL0SZ106541/1.jpg",
+    "incoming/1GCUKEEL0SZ106541/2.jpg",
+    "incoming/1GCUKEEL0SZ106541/3.jpg",
+    "incoming/1GCUKEEL0SZ106541/4.jpg",
+    "incoming/1GCUKEEL0SZ106541/5.jpg",
+    "incoming/1GCUKEEL0SZ106541/6.jpg",
+    "incoming/1GCUKEEL0SZ106541/7.jpg",
+    "incoming/1GCUKEEL0SZ106541/8.jpg",
+    "incoming/1GCUKEEL0SZ106541/9.jpg",
+    "incoming/1GCUKEEL0SZ106541/10.jpg",
+    "incoming/1GCUKEEL0SZ106541/11.jpg",
+    "incoming/1GCUKEEL0SZ106541/12.jpg",
+    "incoming/1GCUKEEL0SZ106541/13.jpg",
+    "incoming/1GCUKEEL0SZ106541/14.jpg",
+    "incoming/1GCUKEEL0SZ106541/15.jpg",
+    "incoming/1GCUKEEL0SZ106541/16.jpg",
+    "incoming/1GCUKEEL0SZ106541/17.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "6.2L V8, gasoline (L87)",
+    "Transmission": "8-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Factory tire size (door label)": "275/60R20 on 20x9J rims",
+    "Build date": "08/2024"
+   },
+   "sold": false
   }
  ]
 }
