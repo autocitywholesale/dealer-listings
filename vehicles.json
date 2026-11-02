@@ -1789,6 +1789,42 @@
     "Build date": "06/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "3GCUDCED0RG337974",
+   "slug": "ead9gtt97wk3",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 57153,
+   "photos": [
+    "incoming/3GCUDCED0RG337974/1.jpg",
+    "incoming/3GCUDCED0RG337974/2.jpg",
+    "incoming/3GCUDCED0RG337974/3.jpg",
+    "incoming/3GCUDCED0RG337974/4.jpg",
+    "incoming/3GCUDCED0RG337974/5.jpg",
+    "incoming/3GCUDCED0RG337974/6.jpg",
+    "incoming/3GCUDCED0RG337974/7.jpg",
+    "incoming/3GCUDCED0RG337974/8.jpg",
+    "incoming/3GCUDCED0RG337974/9.jpg",
+    "incoming/3GCUDCED0RG337974/10.jpg",
+    "incoming/3GCUDCED0RG337974/11.jpg",
+    "incoming/3GCUDCED0RG337974/12.jpg",
+    "incoming/3GCUDCED0RG337974/13.jpg",
+    "incoming/3GCUDCED0RG337974/14.jpg",
+    "incoming/3GCUDCED0RG337974/15.jpg",
+    "incoming/3GCUDCED0RG337974/16.jpg",
+    "incoming/3GCUDCED0RG337974/17.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "5.3L 8-cylinder, gasoline (L84)",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Grey",
+    "Factory tire size (door label)": "LT275/65R18 on 18x8.5J rims",
+    "Build date": "04/2024"
+   },
+   "sold": false
   }
  ]
 }
