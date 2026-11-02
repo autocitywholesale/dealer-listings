@@ -1667,6 +1667,52 @@
    },
    "notes": "",
    "sold": false
+  },
+  {
+   "vin": "1N6AA1E54HN509757",
+   "slug": "1kl1eepbtw8n",
+   "year": 2017,
+   "make": "Nissan",
+   "model": "Titan",
+   "km": 120525,
+   "photos": [
+    "incoming/1N6AA1E54HN509757/1.jpg",
+    "incoming/1N6AA1E54HN509757/2.jpg",
+    "incoming/1N6AA1E54HN509757/3.jpg",
+    "incoming/1N6AA1E54HN509757/4.jpg",
+    "incoming/1N6AA1E54HN509757/5.jpg",
+    "incoming/1N6AA1E54HN509757/6.jpg",
+    "incoming/1N6AA1E54HN509757/7.jpg",
+    "incoming/1N6AA1E54HN509757/8.jpg",
+    "incoming/1N6AA1E54HN509757/9.jpg",
+    "incoming/1N6AA1E54HN509757/10.jpg",
+    "incoming/1N6AA1E54HN509757/11.jpg",
+    "incoming/1N6AA1E54HN509757/12.jpg",
+    "incoming/1N6AA1E54HN509757/13.jpg",
+    "incoming/1N6AA1E54HN509757/14.jpg",
+    "incoming/1N6AA1E54HN509757/15.jpg",
+    "incoming/1N6AA1E54HN509757/16.jpg",
+    "incoming/1N6AA1E54HN509757/17.jpg",
+    "incoming/1N6AA1E54HN509757/18.jpg",
+    "incoming/1N6AA1E54HN509757/19.jpg",
+    "incoming/1N6AA1E54HN509757/20.jpg",
+    "incoming/1N6AA1E54HN509757/21.jpg",
+    "incoming/1N6AA1E54HN509757/22.jpg",
+    "incoming/1N6AA1E54HN509757/23.jpg",
+    "incoming/1N6AA1E54HN509757/24.jpg",
+    "incoming/1N6AA1E54HN509757/25.jpg"
+   ],
+   "specs": {
+    "Body": "Crew cab pickup",
+    "Engine": "5.6L, gasoline",
+    "Transmission": "7-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Tire size": "275/60R20",
+    "Factory rim size (door label)": "20x8.0",
+    "Build date": "10/2016"
+   },
+   "sold": false
   }
  ]
 }
