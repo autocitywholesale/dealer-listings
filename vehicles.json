@@ -2096,6 +2096,37 @@
     "Build date": "08/2017"
    },
    "sold": false
+  },
+  {
+   "vin": "KNAHT8A30G7131901",
+   "slug": "4ohhnmiwjlqz",
+   "year": 2016,
+   "make": "Kia",
+   "model": "Rondo",
+   "km": 146591,
+   "photos": [
+    "incoming/KNAHT8A30G7131901/1.jpg",
+    "incoming/KNAHT8A30G7131901/2.jpg",
+    "incoming/KNAHT8A30G7131901/3.jpg",
+    "incoming/KNAHT8A30G7131901/4.jpg",
+    "incoming/KNAHT8A30G7131901/5.jpg",
+    "incoming/KNAHT8A30G7131901/6.jpg",
+    "incoming/KNAHT8A30G7131901/7.jpg",
+    "incoming/KNAHT8A30G7131901/8.jpg",
+    "incoming/KNAHT8A30G7131901/9.jpg",
+    "incoming/KNAHT8A30G7131901/10.jpg",
+    "incoming/KNAHT8A30G7131901/11.jpg",
+    "incoming/KNAHT8A30G7131901/12.jpg",
+    "incoming/KNAHT8A30G7131901/13.jpg",
+    "incoming/KNAHT8A30G7131901/14.jpg",
+    "incoming/KNAHT8A30G7131901/15.jpg"
+   ],
+   "specs": {
+    "Body": "Wagon",
+    "Engine": "2.0L, gasoline (GDI NU)",
+    "Exterior colour": "Brown (K7N)"
+   },
+   "sold": false
   }
  ]
 }
