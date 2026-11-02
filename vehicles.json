@@ -2055,6 +2055,47 @@
     "Build date": "01/2016"
    },
    "sold": false
+  },
+  {
+   "vin": "1FMCU9J97JUA00344",
+   "slug": "cnkodo664ayn",
+   "year": 2018,
+   "make": "Ford",
+   "model": "Escape",
+   "km": 205650,
+   "photos": [
+    "incoming/1FMCU9J97JUA00344/1.jpg",
+    "incoming/1FMCU9J97JUA00344/2.jpg",
+    "incoming/1FMCU9J97JUA00344/3.jpg",
+    "incoming/1FMCU9J97JUA00344/4.jpg",
+    "incoming/1FMCU9J97JUA00344/5.jpg",
+    "incoming/1FMCU9J97JUA00344/6.jpg",
+    "incoming/1FMCU9J97JUA00344/7.jpg",
+    "incoming/1FMCU9J97JUA00344/8.jpg",
+    "incoming/1FMCU9J97JUA00344/9.jpg",
+    "incoming/1FMCU9J97JUA00344/10.jpg",
+    "incoming/1FMCU9J97JUA00344/11.jpg",
+    "incoming/1FMCU9J97JUA00344/12.jpg",
+    "incoming/1FMCU9J97JUA00344/13.jpg",
+    "incoming/1FMCU9J97JUA00344/14.jpg",
+    "incoming/1FMCU9J97JUA00344/15.jpg",
+    "incoming/1FMCU9J97JUA00344/16.jpg",
+    "incoming/1FMCU9J97JUA00344/17.jpg",
+    "incoming/1FMCU9J97JUA00344/18.jpg",
+    "incoming/1FMCU9J97JUA00344/19.jpg",
+    "incoming/1FMCU9J97JUA00344/20.jpg",
+    "incoming/1FMCU9J97JUA00344/21.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Blue",
+    "Factory tire size (door label)": "235/50R18 97V on 18x7.5J rims",
+    "Build date": "08/2017"
+   },
+   "sold": false
   }
  ]
 }
