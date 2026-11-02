@@ -1862,6 +1862,40 @@
     "Build date": "08/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "2GC4YMEY0P1715858",
+   "slug": "3kjdkerzbqcq",
+   "year": 2023,
+   "make": "Chevrolet",
+   "model": "Silverado 2500 HD",
+   "km": 131572,
+   "photos": [
+    "incoming/2GC4YMEY0P1715858/1.jpg",
+    "incoming/2GC4YMEY0P1715858/2.jpg",
+    "incoming/2GC4YMEY0P1715858/3.jpg",
+    "incoming/2GC4YMEY0P1715858/4.jpg",
+    "incoming/2GC4YMEY0P1715858/5.jpg",
+    "incoming/2GC4YMEY0P1715858/6.jpg",
+    "incoming/2GC4YMEY0P1715858/7.jpg",
+    "incoming/2GC4YMEY0P1715858/8.jpg",
+    "incoming/2GC4YMEY0P1715858/9.jpg",
+    "incoming/2GC4YMEY0P1715858/10.jpg",
+    "incoming/2GC4YMEY0P1715858/11.jpg",
+    "incoming/2GC4YMEY0P1715858/12.jpg",
+    "incoming/2GC4YMEY0P1715858/13.jpg",
+    "incoming/2GC4YMEY0P1715858/14.jpg",
+    "incoming/2GC4YMEY0P1715858/15.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "6.6L turbo V8, diesel (L5P)",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "LT275/65R20 on 20x8.5J rims",
+    "Build date": "12/2022"
+   },
+   "sold": false
   }
  ]
 }
