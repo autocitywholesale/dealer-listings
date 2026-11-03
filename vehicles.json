@@ -2541,6 +2541,42 @@
     "Build date": "11/2021"
    },
    "sold": false
+  },
+  {
+   "vin": "5FNYG1H85PB502934",
+   "slug": "6k7x18vctb32",
+   "year": 2023,
+   "make": "Honda",
+   "model": "Pilot",
+   "km": 52669,
+   "photos": [
+    "incoming/5FNYG1H85PB502934/1.jpg",
+    "incoming/5FNYG1H85PB502934/2.jpg",
+    "incoming/5FNYG1H85PB502934/3.jpg",
+    "incoming/5FNYG1H85PB502934/4.jpg",
+    "incoming/5FNYG1H85PB502934/5.jpg",
+    "incoming/5FNYG1H85PB502934/6.jpg",
+    "incoming/5FNYG1H85PB502934/7.jpg",
+    "incoming/5FNYG1H85PB502934/8.jpg",
+    "incoming/5FNYG1H85PB502934/9.jpg",
+    "incoming/5FNYG1H85PB502934/10.jpg",
+    "incoming/5FNYG1H85PB502934/11.jpg",
+    "incoming/5FNYG1H85PB502934/12.jpg",
+    "incoming/5FNYG1H85PB502934/13.jpg",
+    "incoming/5FNYG1H85PB502934/14.jpg",
+    "incoming/5FNYG1H85PB502934/15.jpg",
+    "incoming/5FNYG1H85PB502934/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "3.5L V6, gasoline (J35Y8)",
+    "Transmission": "10-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "255/50R20 105H on 20x8.0J rims",
+    "Build date": "05/2023"
+   },
+   "sold": false
   }
  ]
 }
