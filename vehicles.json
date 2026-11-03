@@ -406,8 +406,7 @@
    "year": 2020,
    "make": "Chevrolet",
    "model": "Equinox",
-   "trim": "LT",
-   "km": 123095,
+   "km": 133097,
    "photos": [
     "incoming/2GNAXUEV4L6250517/1.jpg",
     "incoming/2GNAXUEV4L6250517/2.jpg",
@@ -425,32 +424,20 @@
     "incoming/2GNAXUEV4L6250517/14.jpg",
     "incoming/2GNAXUEV4L6250517/15.jpg",
     "incoming/2GNAXUEV4L6250517/16.jpg",
-    "incoming/2GNAXUEV4L6250517/17.jpg"
+    "incoming/2GNAXUEV4L6250517/17.jpg",
+    "incoming/2GNAXUEV4L6250517/18.jpg",
+    "incoming/2GNAXUEV4L6250517/19.jpg"
    ],
    "specs": {
-    "Body": "SUV",
-    "Engine": "1.5L turbo 4-cylinder, gasoline",
+    "Body": "SUV, 4-door",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (LYX)",
     "Transmission": "6-speed automatic",
     "Drivetrain": "AWD",
     "Exterior colour": "Black",
-    "Tires": "235/50R19 on 19x7.5 rims",
-    "Build date": "06/2020",
-    "Built": "Ingersoll, Ontario",
-    "Interior": "Black leather"
+    "Factory tire size (door label)": "235/50R19 H on 19x7.5J rims",
+    "Build date": "06/2020"
    },
-   "sold": false,
-   "carfax": {
-    "Accidents/damage": "No accident or damage records",
-    "Registration": "New Brunswick only",
-    "Owners": "1",
-    "Service records": "3",
-    "url": "https://vhr.carfax.ca/?id=02F3M15cF3griL6YWTmQFu6XhO1mYzMV",
-    "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
-   },
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
-   }
+   "sold": false
   },
   {
    "vin": "1GC5YTEY0RF326146",
