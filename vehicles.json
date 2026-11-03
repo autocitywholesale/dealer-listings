@@ -2566,6 +2566,72 @@
     "Build date": "05/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "1GC4KREY0SF105507",
+   "slug": "hd6tduxnu92w",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Silverado 2500HD",
+   "trim": "High Country",
+   "km": 49880,
+   "photos": [
+    "incoming/1GC4KREY0SF105507/1.jpg",
+    "incoming/1GC4KREY0SF105507/2.jpg",
+    "incoming/1GC4KREY0SF105507/3.jpg",
+    "incoming/1GC4KREY0SF105507/4.jpg",
+    "incoming/1GC4KREY0SF105507/5.jpg",
+    "incoming/1GC4KREY0SF105507/6.jpg",
+    "incoming/1GC4KREY0SF105507/7.jpg",
+    "incoming/1GC4KREY0SF105507/8.jpg",
+    "incoming/1GC4KREY0SF105507/9.jpg",
+    "incoming/1GC4KREY0SF105507/10.jpg",
+    "incoming/1GC4KREY0SF105507/11.jpg"
+   ],
+   "specs": {
+    "Engine": "Duramax 6.6L V8 turbo diesel",
+    "Transmission": "Allison 10-speed automatic",
+    "Drivetrain": "4WD",
+    "Body": "Crew Cab pickup",
+    "Exterior colour": "Iridescent Pearl Tricoat",
+    "Interior": "Jet Black",
+    "Build date": "08/24"
+   },
+   "build_sheet": {
+    "msrp": 118564,
+    "packages": [
+     "High Country Premium Package",
+     "Z71 Off-Road Package",
+     "Snow Plow Prep/Camper Package",
+     "Hitch Package (DLR installed)"
+    ],
+    "options": [
+     "Duramax 6.6L V8 Turbo Diesel",
+     "Assist steps, power-retractable",
+     "Iridescent Pearl Tricoat",
+     "LT275/65R20 BFGoodrich KO3 off-road tires",
+     "Upfitter switch kit",
+     "LED roof marker lamps",
+     "Front license plate kit",
+     "3.42 rear axle",
+     "Power sunroof",
+     "13.4\" touchscreen, 15\" head-up display, Bose audio",
+     "Heated/ventilated front seats, heated rear seats, heated steering wheel"
+    ],
+    "pdf": "incoming/1GC4KREY0SF105507/build_sheet.pdf"
+   },
+   "notes": "",
+   "carfax": {
+    "Last reported odometer": "41,857 km (Jul 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick, then Prince Edward Island",
+    "Owners": "2",
+    "Open recalls": "None",
+    "records": [
+     "5 service records in total reported"
+    ],
+    "pdf": "incoming/1GC4KREY0SF105507/carfax.pdf"
+   }
   }
  ]
 }
