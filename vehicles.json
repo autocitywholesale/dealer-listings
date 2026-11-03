@@ -197,37 +197,39 @@
    "year": 2019,
    "make": "Honda",
    "model": "CR-V",
-   "trim": "EX-L",
-   "km": 81506,
-   "photos": [],
+   "km": 81614,
+   "photos": [
+    "incoming/2HKRW2H84KH123723/1.jpg",
+    "incoming/2HKRW2H84KH123723/2.jpg",
+    "incoming/2HKRW2H84KH123723/3.jpg",
+    "incoming/2HKRW2H84KH123723/4.jpg",
+    "incoming/2HKRW2H84KH123723/5.jpg",
+    "incoming/2HKRW2H84KH123723/6.jpg",
+    "incoming/2HKRW2H84KH123723/7.jpg",
+    "incoming/2HKRW2H84KH123723/8.jpg",
+    "incoming/2HKRW2H84KH123723/9.jpg",
+    "incoming/2HKRW2H84KH123723/10.jpg",
+    "incoming/2HKRW2H84KH123723/11.jpg",
+    "incoming/2HKRW2H84KH123723/12.jpg",
+    "incoming/2HKRW2H84KH123723/13.jpg",
+    "incoming/2HKRW2H84KH123723/14.jpg",
+    "incoming/2HKRW2H84KH123723/15.jpg",
+    "incoming/2HKRW2H84KH123723/16.jpg",
+    "incoming/2HKRW2H84KH123723/17.jpg",
+    "incoming/2HKRW2H84KH123723/18.jpg",
+    "incoming/2HKRW2H84KH123723/19.jpg",
+    "incoming/2HKRW2H84KH123723/20.jpg"
+   ],
    "specs": {
     "Body": "SUV, 5-door",
-    "Engine": "1.5L turbo 4-cylinder, gasoline (190 hp)",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (L15BE)",
     "Transmission": "CVT",
-    "Drivetrain": "AWD",
-    "Seating": "5",
-    "Exterior colour": "Gunmetal",
-    "Built": "Alliston, Ontario, Canada"
+    "Drivetrain": "4WD",
+    "Exterior colour": "Grey",
+    "Factory tire size (door label)": "235/60R18 103H on 18x7.5J rims",
+    "Build date": "04/2019"
    },
-   "carfax": {
-    "Report date": "October 27, 2026",
-    "Last reported odometer": "32,394 km (Jun 30, 2022)",
-    "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
-    "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-    "Owners": "1",
-    "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
-    "records": [
-     "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
-     "6 service records in total reported (all New Brunswick)"
-    ],
-    "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
-    "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
-   },
-   "sold": true,
-   "build_sheet": {
-    "spec_sheet": true,
-    "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
-   }
+   "sold": false
   },
   {
    "vin": "2GC4YME74R1145051",
