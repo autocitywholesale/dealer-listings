@@ -2470,6 +2470,42 @@
     "url": "https://vhr.carfax.ca/?id=hDidVvYGtQKgwoIfWTriZ8RigeUtMylF",
     "pdf": "incoming/1GYKNGRS2SZ146173/carfax.pdf"
    }
+  },
+  {
+   "vin": "1C6HJTAG1ML540515",
+   "slug": "ubxf20oowbw2",
+   "year": 2021,
+   "make": "Jeep",
+   "model": "Gladiator",
+   "km": 146274,
+   "photos": [
+    "incoming/1C6HJTAG1ML540515/1.jpg",
+    "incoming/1C6HJTAG1ML540515/2.jpg",
+    "incoming/1C6HJTAG1ML540515/3.jpg",
+    "incoming/1C6HJTAG1ML540515/4.jpg",
+    "incoming/1C6HJTAG1ML540515/5.jpg",
+    "incoming/1C6HJTAG1ML540515/6.jpg",
+    "incoming/1C6HJTAG1ML540515/7.jpg",
+    "incoming/1C6HJTAG1ML540515/8.jpg",
+    "incoming/1C6HJTAG1ML540515/9.jpg",
+    "incoming/1C6HJTAG1ML540515/10.jpg",
+    "incoming/1C6HJTAG1ML540515/11.jpg",
+    "incoming/1C6HJTAG1ML540515/12.jpg",
+    "incoming/1C6HJTAG1ML540515/13.jpg",
+    "incoming/1C6HJTAG1ML540515/14.jpg",
+    "incoming/1C6HJTAG1ML540515/15.jpg",
+    "incoming/1C6HJTAG1ML540515/16.jpg",
+    "incoming/1C6HJTAG1ML540515/17.jpg",
+    "incoming/1C6HJTAG1ML540515/18.jpg",
+    "incoming/1C6HJTAG1ML540515/19.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "3.6L V6, gasoline",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Grey"
+   },
+   "sold": false
   }
  ]
 }
