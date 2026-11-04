@@ -2605,6 +2605,47 @@
     ],
     "pdf": "incoming/1GC4KREY0SF105507/carfax.pdf"
    }
+  },
+  {
+   "vin": "1FTFW3L88RFA16274",
+   "slug": "o7it15au61gl",
+   "year": 2024,
+   "make": "Ford",
+   "model": "F-150",
+   "trim": "XLT SuperCrew",
+   "km": 48572,
+   "photos": [
+    "incoming/1FTFW3L88RFA16274/1.jpg",
+    "incoming/1FTFW3L88RFA16274/2.jpg",
+    "incoming/1FTFW3L88RFA16274/3.jpg",
+    "incoming/1FTFW3L88RFA16274/4.jpg",
+    "incoming/1FTFW3L88RFA16274/5.jpg",
+    "incoming/1FTFW3L88RFA16274/6.jpg",
+    "incoming/1FTFW3L88RFA16274/7.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup, SuperCrew",
+    "Engine": "3.5L EcoBoost twin-turbo V6, gasoline",
+    "Drivetrain": "4x4",
+    "Exterior colour": "White",
+    "Package": "303A (per owner)"
+   },
+   "notes": "Leather seats, power driver seat, running boards, tonneau cover, black wheels, Pro Trailer knob, large touchscreen",
+   "sold": false,
+   "carfax": {
+    "Last reported odometer": "47,183 km (Oct 14, 2026)",
+    "Accidents/damage": "No accidents reported",
+    "Registration": "New Brunswick only",
+    "Open recalls": "None",
+    "records": [
+     "6 service records at Vision Ford"
+    ],
+    "pdf": "incoming/1FTFW3L88RFA16274/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1FTFW3L88RFA16274/build_sheet.pdf"
+   }
   }
  ]
 }
