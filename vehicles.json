@@ -229,7 +229,11 @@
     "Factory tire size (door label)": "235/60R18 103H on 18x7.5J rims",
     "Build date": "04/2019"
    },
-   "sold": false
+   "sold": false,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
+   }
   },
   {
    "vin": "2GC4YME74R1145051",
@@ -266,7 +270,11 @@
     "Factory tire size (door label)": "LT275/65R20ES on 20x8.5J rims",
     "Build date": "09/2023"
    },
-   "sold": false
+   "sold": false,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
+   }
   },
   {
    "vin": "KL77LJE21TC125840",
@@ -405,7 +413,11 @@
     "Factory tire size (door label)": "235/50R19 H on 19x7.5J rims",
     "Build date": "06/2020"
    },
-   "sold": false
+   "sold": false,
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
+   }
   },
   {
    "vin": "1GC5YTEY0RF326146",
@@ -1202,6 +1214,10 @@
     ],
     "url": "https://vhr.carfax.ca/?id=IfnGGbupaLx3Cbt0o3/a8m+MkqpJFK3k",
     "pdf": "incoming/3CZRU6H92KM109930/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/3CZRU6H92KM109930/build_sheet.pdf"
    }
   },
   {
@@ -1254,6 +1270,10 @@
     ],
     "url": "https://vhr.carfax.ca/?id=E2xQc0feXd/qpoWoGWzcuJSSAaUYqqq1",
     "pdf": "incoming/2C4RDGEG3HR878694/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2C4RDGEG3HR878694/build_sheet.pdf"
    }
   },
   {
@@ -1302,6 +1322,10 @@
     ],
     "url": "https://vhr.carfax.ca/?id=jb2puXOWaqYkCUD4pUVc7GWLbunINpSa",
     "pdf": "incoming/2HKRM4H58EH111554/carfax.pdf"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HKRM4H58EH111554/build_sheet.pdf"
    }
   },
   {
