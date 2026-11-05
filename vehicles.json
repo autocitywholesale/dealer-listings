@@ -2670,6 +2670,42 @@
     "spec_sheet": true,
     "pdf": "incoming/1FTFW3L88RFA16274/build_sheet.pdf"
    }
+  },
+  {
+   "vin": "2HGFC2F74GH027873",
+   "slug": "7rtlj39435fr",
+   "year": 2016,
+   "make": "Honda",
+   "model": "Civic",
+   "trim": "EX",
+   "km": 190023,
+   "photos": [
+    "incoming/2HGFC2F74GH027873/1.jpg",
+    "incoming/2HGFC2F74GH027873/2.jpg",
+    "incoming/2HGFC2F74GH027873/3.jpg",
+    "incoming/2HGFC2F74GH027873/4.jpg",
+    "incoming/2HGFC2F74GH027873/5.jpg",
+    "incoming/2HGFC2F74GH027873/6.jpg",
+    "incoming/2HGFC2F74GH027873/7.jpg",
+    "incoming/2HGFC2F74GH027873/8.jpg",
+    "incoming/2HGFC2F74GH027873/9.jpg",
+    "incoming/2HGFC2F74GH027873/10.jpg",
+    "incoming/2HGFC2F74GH027873/11.jpg",
+    "incoming/2HGFC2F74GH027873/12.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline (K20C2)",
+    "Transmission": "CVT",
+    "Exterior colour": "Burgundy Night (R560P)",
+    "Build date": "05/2016",
+    "Built": "Alliston, Ontario, Canada"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/2HGFC2F74GH027873/build_sheet.pdf"
+   },
+   "sold": false
   }
  ]
 }
