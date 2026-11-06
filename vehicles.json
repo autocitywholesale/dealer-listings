@@ -233,20 +233,6 @@
       "build_sheet": {
         "spec_sheet": true,
         "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
-      },
-      "carfax": {
-        "Report date": "October 27, 2026",
-        "Last reported odometer": "32,394 km (Jun 30, 2022)",
-        "Accidents/damage": "1 damage claim: Jun 27, 2022, New Brunswick, Other Damage, $3,445",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-        "Owners": "1",
-        "Open recalls": "1: HQ75 ADAS System May Apply Brakes Unexpectedly (Jul 15, 2026)",
-        "records": [
-          "Jun 30, 2022: Edmundston Honda, Edmundston NB, 32,394 km, vehicle serviced",
-          "6 service records in total reported (all New Brunswick)"
-        ],
-        "url": "https://vhr.carfax.ca/?id=YB4XrmbI%2BFtFNFxNgd%2Fh2n%2FdmdKOUAcn",
-        "pdf": "incoming/2HKRW2H84KH123723/carfax.pdf"
       }
     },
     {
@@ -288,20 +274,6 @@
       "build_sheet": {
         "spec_sheet": true,
         "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
-      },
-      "carfax": {
-        "Report date": "October 15, 2026",
-        "Last reported odometer": "64,129 km (Apr 17, 2026)",
-        "Accidents/damage": "No accidents or damage reported",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-        "Owners": "1",
-        "Open recalls": "None",
-        "records": [
-          "Apr 17, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 64,129 km, four tires replaced/balanced",
-          "12 service records in total reported"
-        ],
-        "VHR #": "73434104",
-        "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
       }
     },
     {
@@ -445,20 +417,6 @@
       "build_sheet": {
         "spec_sheet": true,
         "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
-      },
-      "carfax": {
-        "Report date": "October 15, 2026",
-        "Last reported odometer": "20,577 km (Sep 20, 2021)",
-        "Accidents/damage": "No accidents or damage reported",
-        "Registration": "New Brunswick only, Normal branding; no U.S. history; not stolen",
-        "Owners": "1",
-        "Open recalls": "None",
-        "records": [
-          "Sep 20, 2021: Fox Chevrolet Cadillac Ltd, Fredericton NB, 20,577 km, oil and filter changed",
-          "3 service records in total reported"
-        ],
-        "VHR #": "73434110",
-        "pdf": "incoming/2GNAXUEV4L6250517/carfax.pdf"
       }
     },
     {
