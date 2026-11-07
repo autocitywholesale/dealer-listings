@@ -2107,7 +2107,7 @@
         "Factory tire size (door label)": "235/55R20 on 20x8J rims",
         "Build date": "08/2022"
       },
-      "sold": false,
+      "sold": true,
       "carfax": {
         "Report date": "November 2, 2026",
         "Last reported odometer": "85,614 km (date not shown in report)",
