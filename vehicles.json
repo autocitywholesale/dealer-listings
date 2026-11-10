@@ -2759,6 +2759,40 @@
     "Build date": "06/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "1GCUYBEF7KZ285670",
+   "slug": "jn0z6bhcicso",
+   "year": 2019,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 76241,
+   "photos": [
+    "incoming/1GCUYBEF7KZ285670/1.jpg",
+    "incoming/1GCUYBEF7KZ285670/2.jpg",
+    "incoming/1GCUYBEF7KZ285670/3.jpg",
+    "incoming/1GCUYBEF7KZ285670/4.jpg",
+    "incoming/1GCUYBEF7KZ285670/5.jpg",
+    "incoming/1GCUYBEF7KZ285670/6.jpg",
+    "incoming/1GCUYBEF7KZ285670/7.jpg",
+    "incoming/1GCUYBEF7KZ285670/8.jpg",
+    "incoming/1GCUYBEF7KZ285670/9.jpg",
+    "incoming/1GCUYBEF7KZ285670/10.jpg",
+    "incoming/1GCUYBEF7KZ285670/11.jpg",
+    "incoming/1GCUYBEF7KZ285670/12.jpg",
+    "incoming/1GCUYBEF7KZ285670/13.jpg",
+    "incoming/1GCUYBEF7KZ285670/14.jpg",
+    "incoming/1GCUYBEF7KZ285670/15.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab pickup, 4-door",
+    "Engine": "5.3L 8-cylinder, gasoline (L82)",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "275/60R20 S on 20x9J rims",
+    "Build date": "03/2019"
+   },
+   "sold": false
   }
  ]
 }
