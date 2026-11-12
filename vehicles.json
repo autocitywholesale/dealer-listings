@@ -2794,6 +2794,42 @@
     "Build date": "03/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "3GCUKCED9SG107751",
+   "slug": "1fvfrhp79j3k",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "trim": "Custom Trail Boss",
+   "km": 48970,
+   "photos": [
+    "incoming/3GCUKCED9SG107751/1.jpg",
+    "incoming/3GCUKCED9SG107751/2.jpg",
+    "incoming/3GCUKCED9SG107751/3.jpg",
+    "incoming/3GCUKCED9SG107751/4.jpg",
+    "incoming/3GCUKCED9SG107751/5.jpg",
+    "incoming/3GCUKCED9SG107751/6.jpg",
+    "incoming/3GCUKCED9SG107751/7.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab pickup, 4-door",
+    "Engine": "5.3L 8-cylinder, gasoline (L84)",
+    "Transmission": "8-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "Black",
+    "Factory tire size (door label)": "LT275/65R18CQ on 18x8.5J rims",
+    "Build date": "08/24",
+    "Built": "Silao, Guanajuato, Mexico"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/3GCUKCED9SG107751/build_sheet.pdf"
+   },
+   "carfax": {
+    "url": "https://vhr.carfax.ca/?id=GpiYbqxMdo%2Ff8u8uavT6gHdmhat4UNON"
+   },
+   "sold": false
   }
  ]
 }
