@@ -180,7 +180,7 @@
     "Tires": "P265/65R18 on 18x8.5 rims",
     "Build date": "07/2014"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/1GNSKAKC3FR247671/build_sheet.pdf"
@@ -413,7 +413,7 @@
     "Factory tire size (door label)": "235/50R19 H on 19x7.5J rims",
     "Build date": "06/2020"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/2GNAXUEV4L6250517/build_sheet.pdf"
@@ -1200,7 +1200,7 @@
     "Factory tire size (door label)": "215/55R17 on 17x7.5J rims",
     "Build date": "08/2019"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 28, 2026",
     "Last reported odometer": "67,323 km (Aug 2, 2024)",
@@ -1430,7 +1430,7 @@
     ],
     "pdf": "incoming/1GC4YVEY6RF222526/sticker.pdf"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "VHR #": "73663698",
     "Last reported odometer": "38,418 mi (~61,800 km) (2026-02-12)",
@@ -1857,7 +1857,7 @@
     "Factory tire size (door label)": "275/60R20 on 20x9J rims",
     "Build date": "08/2024"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "37,567 km (Apr 1, 2026)",
@@ -1955,7 +1955,7 @@
     "Factory tire size (door label)": "LT275/65R18 on 18x8.5J rims",
     "Build date": "04/2024"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "42,762 km (Jan 15, 2026)",
@@ -2006,7 +2006,7 @@
     "Factory tire size (door label)": "275/60R20 on 20x9J rims",
     "Build date": "08/2024"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "36,352 km (Nov 21, 2025)",
@@ -2310,7 +2310,7 @@
     "Factory tire size (door label)": "235/50R18 97V on 18x7.5J rims",
     "Build date": "08/2017"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "August 17, 2026",
     "Last reported odometer": "110,144 km (Nov 9, 2022)",
@@ -2436,7 +2436,7 @@
     "Factory tire size (door label)": "235/55R20 on 20x8J rims",
     "Build date": "05/2025"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "10,712 km (May 20, 2026)",
@@ -2521,7 +2521,7 @@
     "Exterior colour": "Grey",
     "Build date": "11/2021"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "5FNYG1H85PB502934",
@@ -2557,7 +2557,7 @@
     "Factory tire size (door label)": "255/50R20 105H on 20x8.0J rims",
     "Build date": "05/2023"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "1GC4KREY0SF105507",
@@ -2628,7 +2628,8 @@
      "5 service records in total reported"
     ],
     "pdf": "incoming/1GC4KREY0SF105507/carfax.pdf"
-   }
+   },
+   "sold": true
   },
   {
    "vin": "1FTFW3L88RFA16274",
@@ -2655,7 +2656,7 @@
     "Package": "303A (per owner)"
    },
    "notes": "Leather seats, power driver seat, running boards, tonneau cover, black wheels, Pro Trailer knob, large touchscreen",
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Last reported odometer": "47,183 km (Oct 14, 2026)",
     "Accidents/damage": "No accidents reported",
@@ -2792,7 +2793,7 @@
     "Factory tire size (door label)": "275/60R20 S on 20x9J rims",
     "Build date": "03/2019"
    },
-   "sold": false
+   "sold": true
   }
  ]
 }
