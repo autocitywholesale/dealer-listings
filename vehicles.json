@@ -2963,6 +2963,34 @@
     "Build date": "01/2012"
    },
    "sold": false
+  },
+  {
+   "vin": "1FM5K8HC5PGB65956",
+   "slug": "vpr1k9cljayu",
+   "year": 2023,
+   "make": "Ford",
+   "model": "Explorer",
+   "trim": "Platinum",
+   "km": 42000,
+   "photos": [
+    "incoming/1FM5K8HC5PGB65956/1.jpg",
+    "incoming/1FM5K8HC5PGB65956/2.jpg",
+    "incoming/1FM5K8HC5PGB65956/3.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door, 6 seats / 3 rows",
+    "Engine": "3.0L V6 twin-turbo, gasoline (GTDI)",
+    "Transmission": "10-speed automatic",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Built": "Chicago, Illinois, USA"
+   },
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1FM5K8HC5PGB65956/build_sheet.pdf"
+   },
+   "notes": "Open Ford Canada recalls: 26C11 SYNC screen update (remedy available) and 26S52 second-row easy-entry seat switch (parts not yet available). Carfax is not attached. Factory window sticker has not been released; a VIN-decode spec sheet is attached instead.",
+   "sold": false
   }
  ]
 }
