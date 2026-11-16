@@ -229,7 +229,7 @@
     "Factory tire size (door label)": "235/60R18 103H on 18x7.5J rims",
     "Build date": "04/2019"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/2HKRW2H84KH123723/build_sheet.pdf"
