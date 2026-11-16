@@ -2864,6 +2864,67 @@
     "Build date": "09/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "1GT49YEY2RF405663",
+   "slug": "yihulew8ywtm",
+   "year": 2024,
+   "make": "GMC",
+   "model": "Sierra 3500 HD",
+   "trim": "Denali Ultimate",
+   "km": 38060,
+   "photos": [
+    "incoming/1GT49YEY2RF405663/1.jpg",
+    "incoming/1GT49YEY2RF405663/2.jpg",
+    "incoming/1GT49YEY2RF405663/3.jpg",
+    "incoming/1GT49YEY2RF405663/4.jpg",
+    "incoming/1GT49YEY2RF405663/5.jpg",
+    "incoming/1GT49YEY2RF405663/6.jpg",
+    "incoming/1GT49YEY2RF405663/7.jpg",
+    "incoming/1GT49YEY2RF405663/8.jpg",
+    "incoming/1GT49YEY2RF405663/9.jpg",
+    "incoming/1GT49YEY2RF405663/10.jpg",
+    "incoming/1GT49YEY2RF405663/11.jpg"
+   ],
+   "specs": {
+    "Engine": "Duramax 6.6L V8 turbo diesel",
+    "Transmission": "Allison 10-speed automatic",
+    "Drivetrain": "4WD",
+    "Body": "Crew Cab pickup, SRW",
+    "Exterior colour": "Onyx Black",
+    "Interior": "Alpine Umber",
+    "Built": "Flint, MI, USA"
+   },
+   "build_sheet": {
+    "msrp": 127769,
+    "packages": [
+     "Preferred Equipment Group 5SB (Denali Ultimate)",
+     "Gooseneck/5th Wheel Prep Package"
+    ],
+    "options": [
+     "High Idle Switch",
+     "3.42 rear axle",
+     "GVWR 5,488 kg (12,100 lb)",
+     "Duramax 6.6L V8 Turbo Diesel",
+     "Onyx Black",
+     "Alpine Umber interior"
+    ],
+    "pdf": "incoming/1GT49YEY2RF405663/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "November 4, 2026",
+    "Last reported odometer": "35,394 km (Oct 8, 2026)",
+    "Accidents/damage": "No accidents or damage reported (ICBC data not included for the BC registration period)",
+    "Registration": "British Columbia, then New Brunswick (Normal branding); U.S. history found; no import/export records",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "8 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=sv9aXqGUnvufOmFBtJ8z5Yl7cj5axwzq",
+    "pdf": "incoming/1GT49YEY2RF405663/carfax.pdf"
+   },
+   "sold": false
   }
  ]
 }
