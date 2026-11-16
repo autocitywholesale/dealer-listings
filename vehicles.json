@@ -2925,6 +2925,44 @@
     "pdf": "incoming/1GT49YEY2RF405663/carfax.pdf"
    },
    "sold": false
+  },
+  {
+   "vin": "1FTFW1EF3CFA62750",
+   "slug": "ri9k78piehcx",
+   "year": 2012,
+   "make": "Ford",
+   "model": "F-150",
+   "km": 261017,
+   "photos": [
+    "incoming/1FTFW1EF3CFA62750/1.jpg",
+    "incoming/1FTFW1EF3CFA62750/2.jpg",
+    "incoming/1FTFW1EF3CFA62750/3.jpg",
+    "incoming/1FTFW1EF3CFA62750/4.jpg",
+    "incoming/1FTFW1EF3CFA62750/5.jpg",
+    "incoming/1FTFW1EF3CFA62750/6.jpg",
+    "incoming/1FTFW1EF3CFA62750/7.jpg",
+    "incoming/1FTFW1EF3CFA62750/8.jpg",
+    "incoming/1FTFW1EF3CFA62750/9.jpg",
+    "incoming/1FTFW1EF3CFA62750/10.jpg",
+    "incoming/1FTFW1EF3CFA62750/11.jpg",
+    "incoming/1FTFW1EF3CFA62750/12.jpg",
+    "incoming/1FTFW1EF3CFA62750/13.jpg",
+    "incoming/1FTFW1EF3CFA62750/14.jpg",
+    "incoming/1FTFW1EF3CFA62750/15.jpg",
+    "incoming/1FTFW1EF3CFA62750/16.jpg",
+    "incoming/1FTFW1EF3CFA62750/17.jpg",
+    "incoming/1FTFW1EF3CFA62750/18.jpg",
+    "incoming/1FTFW1EF3CFA62750/19.jpg",
+    "incoming/1FTFW1EF3CFA62750/20.jpg"
+   ],
+   "specs": {
+    "Body": "Crew Cab pickup",
+    "Engine": "5.0L V8, gasoline",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "P275/65R18 114T on 18x7.5J rims",
+    "Build date": "01/2012"
+   },
+   "sold": false
   }
  ]
 }
