@@ -2995,6 +2995,39 @@
    },
    "notes": "Open Ford Canada recalls: 26C11 SYNC screen update (remedy available) and 26S52 second-row easy-entry seat switch (parts not yet available). Carfax is not attached. Factory window sticker has not been released; a VIN-decode spec sheet is attached instead.",
    "sold": false
+  },
+  {
+   "vin": "JF2GUHFC0RH269215",
+   "slug": "uh4jkrayulw3",
+   "year": 2024,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "km": 68432,
+   "photos": [
+    "incoming/JF2GUHFC0RH269215/1.jpg",
+    "incoming/JF2GUHFC0RH269215/2.jpg",
+    "incoming/JF2GUHFC0RH269215/3.jpg",
+    "incoming/JF2GUHFC0RH269215/4.jpg",
+    "incoming/JF2GUHFC0RH269215/5.jpg",
+    "incoming/JF2GUHFC0RH269215/6.jpg",
+    "incoming/JF2GUHFC0RH269215/7.jpg",
+    "incoming/JF2GUHFC0RH269215/8.jpg",
+    "incoming/JF2GUHFC0RH269215/9.jpg",
+    "incoming/JF2GUHFC0RH269215/10.jpg",
+    "incoming/JF2GUHFC0RH269215/11.jpg",
+    "incoming/JF2GUHFC0RH269215/12.jpg",
+    "incoming/JF2GUHFC0RH269215/13.jpg",
+    "incoming/JF2GUHFC0RH269215/14.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "2.5L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "225/55R18 on 18x7J rims",
+    "Build date": "07/2023"
+   },
+   "sold": false
   }
  ]
 }
