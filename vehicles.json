@@ -270,11 +270,24 @@
     "Factory tire size (door label)": "LT275/65R20ES on 20x8.5J rims",
     "Build date": "09/2023"
    },
-   "sold": false,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/2GC4YME74R1145051/build_sheet.pdf"
-   }
+   },
+   "carfax": {
+    "Report date": "October 15, 2026",
+    "Last reported odometer": "64,129 km (Apr 17, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Sep 26, 2023: Seaside Chevrolet, Shediac NB, pre-delivery inspection, mud flaps, VIN glass etching, wheel locks",
+     "12 service records in total reported"
+    ],
+    "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
+   },
+   "sold": false
   },
   {
    "vin": "KL77LJE21TC125840",
@@ -2828,7 +2841,18 @@
     "pdf": "incoming/3GCUKCED9SG107751/build_sheet.pdf"
    },
    "carfax": {
-    "url": "https://vhr.carfax.ca/?id=GpiYbqxMdo%2Ff8u8uavT6gHdmhat4UNON"
+    "Report date": "September 29, 2026",
+    "Last reported odometer": "32,026 km (Jan 13, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Nov 18, 2024: Fox Chevrolet Cadillac Ltd, Fredericton NB, pre-delivery inspection, running boards installed",
+     "6 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=GpiYbqxMdo%2Ff8u8uavT6gHdmhat4UNON",
+    "pdf": "incoming/3GCUKCED9SG107751/carfax.pdf"
    },
    "sold": false
   },
@@ -2863,6 +2887,18 @@
     "Transmission": "CVT",
     "Drivetrain": "4x2",
     "Build date": "09/2024"
+   },
+   "carfax": {
+    "Report date": "November 9, 2026",
+    "Last reported odometer": "Not reported",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "0 service records in total reported"
+    ],
+    "pdf": "incoming/2HGFE2F20SH103421/carfax.pdf"
    },
    "sold": false
   },
