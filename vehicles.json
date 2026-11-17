@@ -3210,6 +3210,40 @@
     "Build date": "04/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "3GCUDFEL8RG189890",
+   "slug": "fwd9yejm6veg",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Silverado 1500",
+   "km": 89472,
+   "photos": [
+    "incoming/3GCUDFEL8RG189890/1.jpg",
+    "incoming/3GCUDFEL8RG189890/2.jpg",
+    "incoming/3GCUDFEL8RG189890/3.jpg",
+    "incoming/3GCUDFEL8RG189890/4.jpg",
+    "incoming/3GCUDFEL8RG189890/5.jpg",
+    "incoming/3GCUDFEL8RG189890/6.jpg",
+    "incoming/3GCUDFEL8RG189890/7.jpg",
+    "incoming/3GCUDFEL8RG189890/8.jpg",
+    "incoming/3GCUDFEL8RG189890/9.jpg",
+    "incoming/3GCUDFEL8RG189890/10.jpg",
+    "incoming/3GCUDFEL8RG189890/11.jpg",
+    "incoming/3GCUDFEL8RG189890/12.jpg",
+    "incoming/3GCUDFEL8RG189890/13.jpg",
+    "incoming/3GCUDFEL8RG189890/14.jpg",
+    "incoming/3GCUDFEL8RG189890/15.jpg",
+    "incoming/3GCUDFEL8RG189890/16.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "6.2L V8, gasoline (L87)",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "275/60R20 on 20x9J rims",
+    "Build date": "11/2023"
+   },
+   "sold": false
   }
  ]
 }
