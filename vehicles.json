@@ -3382,6 +3382,41 @@
     "Build date": "07/2021"
    },
    "sold": false
+  },
+  {
+   "vin": "1FADP3K26GL210162",
+   "slug": "jky5d0skiole",
+   "year": 2016,
+   "make": "Ford",
+   "model": "Focus",
+   "km": 98524,
+   "photos": [
+    "incoming/1FADP3K26GL210162/1.jpg",
+    "incoming/1FADP3K26GL210162/2.jpg",
+    "incoming/1FADP3K26GL210162/3.jpg",
+    "incoming/1FADP3K26GL210162/4.jpg",
+    "incoming/1FADP3K26GL210162/5.jpg",
+    "incoming/1FADP3K26GL210162/6.jpg",
+    "incoming/1FADP3K26GL210162/7.jpg",
+    "incoming/1FADP3K26GL210162/8.jpg",
+    "incoming/1FADP3K26GL210162/9.jpg",
+    "incoming/1FADP3K26GL210162/10.jpg",
+    "incoming/1FADP3K26GL210162/11.jpg",
+    "incoming/1FADP3K26GL210162/12.jpg",
+    "incoming/1FADP3K26GL210162/13.jpg",
+    "incoming/1FADP3K26GL210162/14.jpg",
+    "incoming/1FADP3K26GL210162/15.jpg",
+    "incoming/1FADP3K26GL210162/16.jpg",
+    "incoming/1FADP3K26GL210162/17.jpg",
+    "incoming/1FADP3K26GL210162/18.jpg",
+    "incoming/1FADP3K26GL210162/19.jpg",
+    "incoming/1FADP3K26GL210162/20.jpg"
+   ],
+   "specs": {
+    "Body": "Hatchback, 5-door",
+    "Engine": "2.0L 4-cylinder, gasoline"
+   },
+   "sold": false
   }
  ]
 }
