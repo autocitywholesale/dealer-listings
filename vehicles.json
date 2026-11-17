@@ -3244,6 +3244,42 @@
     "Build date": "11/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "1GNS6NRD5SR356119",
+   "slug": "zjyya24daz5o",
+   "year": 2025,
+   "make": "Chevrolet",
+   "model": "Tahoe",
+   "km": 44689,
+   "photos": [
+    "incoming/1GNS6NRD5SR356119/1.jpg",
+    "incoming/1GNS6NRD5SR356119/2.jpg",
+    "incoming/1GNS6NRD5SR356119/3.jpg",
+    "incoming/1GNS6NRD5SR356119/4.jpg",
+    "incoming/1GNS6NRD5SR356119/5.jpg",
+    "incoming/1GNS6NRD5SR356119/6.jpg",
+    "incoming/1GNS6NRD5SR356119/7.jpg",
+    "incoming/1GNS6NRD5SR356119/8.jpg",
+    "incoming/1GNS6NRD5SR356119/9.jpg",
+    "incoming/1GNS6NRD5SR356119/10.jpg",
+    "incoming/1GNS6NRD5SR356119/11.jpg",
+    "incoming/1GNS6NRD5SR356119/12.jpg",
+    "incoming/1GNS6NRD5SR356119/13.jpg",
+    "incoming/1GNS6NRD5SR356119/14.jpg",
+    "incoming/1GNS6NRD5SR356119/15.jpg",
+    "incoming/1GNS6NRD5SR356119/16.jpg",
+    "incoming/1GNS6NRD5SR356119/17.jpg",
+    "incoming/1GNS6NRD5SR356119/18.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "5.3L V8, gasoline (L84)",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "275/50R22 on 22x9J rims",
+    "Build date": "06/2025"
+   },
+   "sold": false
   }
  ]
 }
