@@ -3280,6 +3280,40 @@
     "Build date": "06/2025"
    },
    "sold": false
+  },
+  {
+   "vin": "3GNAXWEGXRL119657",
+   "slug": "2okz5bnmnfa3",
+   "year": 2024,
+   "make": "Chevrolet",
+   "model": "Equinox",
+   "km": 81235,
+   "photos": [
+    "incoming/3GNAXWEGXRL119657/1.jpg",
+    "incoming/3GNAXWEGXRL119657/2.jpg",
+    "incoming/3GNAXWEGXRL119657/3.jpg",
+    "incoming/3GNAXWEGXRL119657/4.jpg",
+    "incoming/3GNAXWEGXRL119657/5.jpg",
+    "incoming/3GNAXWEGXRL119657/6.jpg",
+    "incoming/3GNAXWEGXRL119657/7.jpg",
+    "incoming/3GNAXWEGXRL119657/8.jpg",
+    "incoming/3GNAXWEGXRL119657/9.jpg",
+    "incoming/3GNAXWEGXRL119657/10.jpg",
+    "incoming/3GNAXWEGXRL119657/11.jpg",
+    "incoming/3GNAXWEGXRL119657/12.jpg",
+    "incoming/3GNAXWEGXRL119657/13.jpg",
+    "incoming/3GNAXWEGXRL119657/14.jpg",
+    "incoming/3GNAXWEGXRL119657/15.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "1.5L turbo 4-cylinder, gasoline (LSD)",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "235/50R19 on 19x7.5J rims",
+    "Build date": "06/2023"
+   },
+   "sold": false
   }
  ]
 }
