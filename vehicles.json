@@ -3209,7 +3209,22 @@
     "Factory tire size (door label)": "235/55R19 on 19x7.5J rims",
     "Build date": "04/2019"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 28, 2026",
+    "Last reported odometer": "70,000 km (Jul 11, 2023)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1 (first owner reported Aug 2019)",
+    "Open recalls": "None",
+    "records": [
+     "Jul 11, 2023: Independent Source, Fredericton NB, 70,000 km odometer reading",
+     "0 service records reported"
+    ],
+    "VHR #": "73777640",
+    "url": "https://vhr.carfax.ca/?id=77UQAagSTQAmQ%2Bel62lFN%2BGWTrDJOcu0",
+    "pdf": "incoming/2T3R1RFVXKW044131/carfax.pdf"
+   }
   },
   {
    "vin": "3GCUDFEL8RG189890",
@@ -3243,7 +3258,22 @@
     "Factory tire size (door label)": "275/60R20 on 20x9J rims",
     "Build date": "11/2023"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 26, 2026",
+    "Last reported odometer": "82,153 mi (Aug 24, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick, Normal branding; U.S. history found (service in Maine)",
+    "Owners": "1 (first owner reported Mar 2024)",
+    "Open recalls": "2 open: N252494000 L87 Engine Loss of Propulsion (Apr 24, 2025); N242487090 Tailgate May Open Unexpectedly (Jul 8, 2025)",
+    "records": [
+     "Aug 24, 2026: Walmart Auto Care Center, Calais, Maine, 82,153 mi, oil and filter changed, tires rotated",
+     "7 service records in total reported"
+    ],
+    "VHR #": "73719391",
+    "url": "https://vhr.carfax.ca/?id=3TRCnhhaDnaEJXAHLdAn2tQz%2BeT4TXmv",
+    "pdf": "incoming/3GCUDFEL8RG189890/carfax.pdf"
+   }
   },
   {
    "vin": "1GNS6NRD5SR356119",
@@ -3279,7 +3309,22 @@
     "Factory tire size (door label)": "275/50R22 on 22x9J rims",
     "Build date": "06/2025"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "37,865 km (Aug 11, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick, Normal branding; U.S. history found (Feb 28, 2026 service in Bangor, Maine)",
+    "Owners": "1 (first owner reported Aug 2025)",
+    "Open recalls": "None",
+    "records": [
+     "Aug 11, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 37,865 km, maintenance inspection, oil and filter changed, tires rotated and balanced",
+     "7 service records in total reported"
+    ],
+    "VHR #": "74242236",
+    "url": "https://vhr.carfax.ca/?id=qmpjWK9qDIogZd5XxA8RpINIa088VSF1",
+    "pdf": "incoming/1GNS6NRD5SR356119/carfax.pdf"
+   }
   },
   {
    "vin": "3GNAXWEGXRL119657",
@@ -3313,7 +3358,22 @@
     "Factory tire size (door label)": "235/50R19 on 19x7.5J rims",
     "Build date": "06/2023"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 19, 2026",
+    "Last reported odometer": "72,684 km (Jun 15, 2026)",
+    "Accidents/damage": "No accidents reported; 1 glass record: Jun 25, 2025, New Brunswick, $149.00",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1 (first owner reported Apr 2024)",
+    "Open recalls": "None",
+    "records": [
+     "Aug 28, 2026: Fredericton Chips Away & Krown, Fredericton NB, vehicle serviced",
+     "12 service records in total reported"
+    ],
+    "VHR #": "73526588",
+    "url": "https://vhr.carfax.ca/?id=%2BAIPETRBULmchTXtfWt3zUgy%2FgZEcFEe",
+    "pdf": "incoming/3GNAXWEGXRL119657/carfax.pdf"
+   }
   },
   {
    "vin": "1GTR9AEF9KZ291208",
@@ -3346,7 +3406,22 @@
     "Factory tire size (door label)": "LT265/70R17 on 17x8J rims",
     "Build date": "03/2019"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "111,153 km (Apr 13, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Newfoundland, Nova Scotia, then Prince Edward Island, Normal branding; no U.S. history; previous use: commercial",
+    "Owners": "3 reported (first Apr 2019; new owners Dec 2023 and Mar 2025)",
+    "Open recalls": "None",
+    "records": [
+     "Apr 13, 2026: Experience Hyundai, Charlottetown PE, 111,153 km, vehicle serviced",
+     "3 service records in total reported"
+    ],
+    "VHR #": "74240535",
+    "url": "https://vhr.carfax.ca/?id=TB%2B0oqEFuk4N8Eu%2FX5sn6Xq4RFPgca7T",
+    "pdf": "incoming/1GTR9AEF9KZ291208/carfax.pdf"
+   }
   },
   {
    "vin": "KL8CD6SA2NC004415",
@@ -3381,7 +3456,22 @@
     "Drivetrain": "FWD",
     "Build date": "07/2021"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 27, 2026",
+    "Last reported odometer": "107,812 km (Sep 25, 2026)",
+    "Accidents/damage": "1 claim: Feb 22, 2025, New Brunswick, collision front, $3,211.00",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1 (first owner reported Nov 2021)",
+    "Open recalls": "None",
+    "records": [
+     "Sep 25, 2026: Fox Chevrolet Cadillac Ltd, Fredericton NB, 107,812 km, noise checked",
+     "21 service records in total reported"
+    ],
+    "VHR #": "73746893",
+    "url": "https://vhr.carfax.ca/?id=KzLcxJK4Gj25nmnCWC0%2BOVi7zZSPUYNc",
+    "pdf": "incoming/KL8CD6SA2NC004415/carfax.pdf"
+   }
   },
   {
    "vin": "1FADP3K26GL210162",
@@ -3416,7 +3506,22 @@
     "Body": "Hatchback, 5-door",
     "Engine": "2.0L 4-cylinder, gasoline"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 26, 2026",
+    "Last reported odometer": "67,312 km (May 16, 2022)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Ontario, then New Brunswick, Normal branding; no U.S. history; previous use: commercial",
+    "Owners": "2 reported (first Nov 2015; new owner Jun 2016)",
+    "Open recalls": "None",
+    "records": [
+     "May 16, 2022: Midas Auto Service Experts, Mississauga ON, 67,312 km, oil and filter changed",
+     "4 service records in total reported"
+    ],
+    "VHR #": "73713333",
+    "url": "https://vhr.carfax.ca/?id=plHmIR9IQzyrJnzKIWjVRIAimuyTkaSA",
+    "pdf": "incoming/1FADP3K26GL210162/carfax.pdf"
+   }
   },
   {
    "vin": "4S4BTHND6N3163389",
@@ -3452,7 +3557,22 @@
     "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
     "Build date": "11/2021"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "93,635 km (Oct 15, 2026)",
+    "Accidents/damage": "2 claims on Jul 2, 2022, New Brunswick: collision $0.00 and other damage $13,486.00; glass record Feb 14, 2022, $132.00",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1 (first owner reported Dec 2021)",
+    "Open recalls": "None",
+    "records": [
+     "Oct 15, 2026: Subaru of Moncton, Moncton NB, 93,635 km, maintenance inspection, recommended maintenance, alignment checked",
+     "8 service records in total reported"
+    ],
+    "VHR #": "74248875",
+    "url": "https://vhr.carfax.ca/?id=vYfN1S5kI8rqnA1hKbe8fT3afcc3Ma%2FR",
+    "pdf": "incoming/4S4BTHND6N3163389/carfax.pdf"
+   }
   },
   {
    "vin": "4S4GUHU67R3718393",
@@ -3489,7 +3609,22 @@
     "Factory tire size (door label)": "225/60R17 on 17x7J rims",
     "Build date": "08/2023"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "Not reported",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history; loan/lien reported on Oct 5, 2023 registration",
+    "Owners": "1 (first owner reported Oct 2023)",
+    "Open recalls": "None",
+    "records": [
+     "Oct 2, 2023: Fox Subaru, Fredericton NB, pre-delivery inspection, alignment, oil and filter changed",
+     "1 service record in total reported"
+    ],
+    "VHR #": "74248962",
+    "url": "https://vhr.carfax.ca/?id=TtsJC67rP58oB4ImfOojSeuGYkvg2Rf4",
+    "pdf": "incoming/4S4GUHU67R3718393/carfax.pdf"
+   }
   }
  ]
 }
