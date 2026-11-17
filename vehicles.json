@@ -325,7 +325,7 @@
     "Interior": "Jet Black with Red Accents",
     "Built": "Changwon, Korea"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "msrp": 33198,
     "pdf": "incoming/KL77LJE21TC125840/build_sheet.pdf"
@@ -3082,7 +3082,7 @@
     "VHR #": "73890391",
     "pdf": "incoming/1FM5K8HC5PGB65956/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "JF2GUHFC0RH269215",
