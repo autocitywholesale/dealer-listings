@@ -3417,6 +3417,42 @@
     "Engine": "2.0L 4-cylinder, gasoline"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4BTHND6N3163389",
+   "slug": "m0px0h51pl2b",
+   "year": 2022,
+   "make": "Subaru",
+   "model": "Outback",
+   "km": 95088,
+   "photos": [
+    "incoming/4S4BTHND6N3163389/1.jpg",
+    "incoming/4S4BTHND6N3163389/2.jpg",
+    "incoming/4S4BTHND6N3163389/3.jpg",
+    "incoming/4S4BTHND6N3163389/4.jpg",
+    "incoming/4S4BTHND6N3163389/5.jpg",
+    "incoming/4S4BTHND6N3163389/6.jpg",
+    "incoming/4S4BTHND6N3163389/7.jpg",
+    "incoming/4S4BTHND6N3163389/8.jpg",
+    "incoming/4S4BTHND6N3163389/9.jpg",
+    "incoming/4S4BTHND6N3163389/10.jpg",
+    "incoming/4S4BTHND6N3163389/11.jpg",
+    "incoming/4S4BTHND6N3163389/12.jpg",
+    "incoming/4S4BTHND6N3163389/13.jpg",
+    "incoming/4S4BTHND6N3163389/14.jpg",
+    "incoming/4S4BTHND6N3163389/15.jpg",
+    "incoming/4S4BTHND6N3163389/16.jpg",
+    "incoming/4S4BTHND6N3163389/17.jpg",
+    "incoming/4S4BTHND6N3163389/18.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
+    "Build date": "11/2021"
+   },
+   "sold": false
   }
  ]
 }
