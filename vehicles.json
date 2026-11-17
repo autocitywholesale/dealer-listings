@@ -3314,6 +3314,39 @@
     "Build date": "06/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "1GTR9AEF9KZ291208",
+   "slug": "93hrr6h192nk",
+   "year": 2019,
+   "make": "GMC",
+   "model": "Sierra 1500",
+   "km": 129273,
+   "photos": [
+    "incoming/1GTR9AEF9KZ291208/1.jpg",
+    "incoming/1GTR9AEF9KZ291208/2.jpg",
+    "incoming/1GTR9AEF9KZ291208/3.jpg",
+    "incoming/1GTR9AEF9KZ291208/4.jpg",
+    "incoming/1GTR9AEF9KZ291208/5.jpg",
+    "incoming/1GTR9AEF9KZ291208/6.jpg",
+    "incoming/1GTR9AEF9KZ291208/7.jpg",
+    "incoming/1GTR9AEF9KZ291208/8.jpg",
+    "incoming/1GTR9AEF9KZ291208/9.jpg",
+    "incoming/1GTR9AEF9KZ291208/10.jpg",
+    "incoming/1GTR9AEF9KZ291208/11.jpg",
+    "incoming/1GTR9AEF9KZ291208/12.jpg",
+    "incoming/1GTR9AEF9KZ291208/13.jpg",
+    "incoming/1GTR9AEF9KZ291208/14.jpg",
+    "incoming/1GTR9AEF9KZ291208/15.jpg"
+   ],
+   "specs": {
+    "Body": "Pickup",
+    "Engine": "5.3L 8-cylinder, gasoline (L82)",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "LT265/70R17 on 17x8J rims",
+    "Build date": "03/2019"
+   },
+   "sold": false
   }
  ]
 }
