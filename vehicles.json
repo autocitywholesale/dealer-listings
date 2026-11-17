@@ -3347,6 +3347,41 @@
     "Build date": "03/2019"
    },
    "sold": false
+  },
+  {
+   "vin": "KL8CD6SA2NC004415",
+   "slug": "zzdku1i6dvhk",
+   "year": 2022,
+   "make": "Chevrolet",
+   "model": "Spark",
+   "km": 109013,
+   "photos": [
+    "incoming/KL8CD6SA2NC004415/1.jpg",
+    "incoming/KL8CD6SA2NC004415/2.jpg",
+    "incoming/KL8CD6SA2NC004415/3.jpg",
+    "incoming/KL8CD6SA2NC004415/4.jpg",
+    "incoming/KL8CD6SA2NC004415/5.jpg",
+    "incoming/KL8CD6SA2NC004415/6.jpg",
+    "incoming/KL8CD6SA2NC004415/7.jpg",
+    "incoming/KL8CD6SA2NC004415/8.jpg",
+    "incoming/KL8CD6SA2NC004415/9.jpg",
+    "incoming/KL8CD6SA2NC004415/10.jpg",
+    "incoming/KL8CD6SA2NC004415/11.jpg",
+    "incoming/KL8CD6SA2NC004415/12.jpg",
+    "incoming/KL8CD6SA2NC004415/13.jpg",
+    "incoming/KL8CD6SA2NC004415/14.jpg",
+    "incoming/KL8CD6SA2NC004415/15.jpg",
+    "incoming/KL8CD6SA2NC004415/16.jpg",
+    "incoming/KL8CD6SA2NC004415/17.jpg"
+   ],
+   "specs": {
+    "Body": "Hatchback, 4-door",
+    "Engine": "1.4L 4-cylinder, gasoline (LV7)",
+    "Transmission": "Automatic",
+    "Drivetrain": "FWD",
+    "Build date": "07/2021"
+   },
+   "sold": false
   }
  ]
 }
