@@ -3625,6 +3625,38 @@
     "url": "https://vhr.carfax.ca/?id=TtsJC67rP58oB4ImfOojSeuGYkvg2Rf4",
     "pdf": "incoming/4S4GUHU67R3718393/carfax.pdf"
    }
+  },
+  {
+   "vin": "5LMPJ8K47SJ968421",
+   "slug": "sjxjlwrsfzwi",
+   "year": 2025,
+   "make": "Lincoln",
+   "model": "Nautilus",
+   "km": 19442,
+   "photos": [
+    "incoming/5LMPJ8K47SJ968421/1.jpg",
+    "incoming/5LMPJ8K47SJ968421/2.jpg",
+    "incoming/5LMPJ8K47SJ968421/3.jpg",
+    "incoming/5LMPJ8K47SJ968421/4.jpg",
+    "incoming/5LMPJ8K47SJ968421/5.jpg",
+    "incoming/5LMPJ8K47SJ968421/6.jpg",
+    "incoming/5LMPJ8K47SJ968421/7.jpg",
+    "incoming/5LMPJ8K47SJ968421/8.jpg",
+    "incoming/5LMPJ8K47SJ968421/9.jpg",
+    "incoming/5LMPJ8K47SJ968421/10.jpg",
+    "incoming/5LMPJ8K47SJ968421/11.jpg",
+    "incoming/5LMPJ8K47SJ968421/12.jpg",
+    "incoming/5LMPJ8K47SJ968421/13.jpg",
+    "incoming/5LMPJ8K47SJ968421/14.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "2.0L turbo 4-cylinder, gasoline hybrid",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "255/45R22 107H on 22x8.5 rims",
+    "Build date": "05/2025"
+   },
+   "sold": false
   }
  ]
 }
