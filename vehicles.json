@@ -3657,6 +3657,38 @@
     "Build date": "05/2025"
    },
    "sold": false
+  },
+  {
+   "vin": "1C4SDJCT7TC161795",
+   "slug": "j79mj2ucv4zv",
+   "year": 2026,
+   "make": "Dodge",
+   "model": "Durango",
+   "km": 36220,
+   "photos": [
+    "incoming/1C4SDJCT7TC161795/1.jpg",
+    "incoming/1C4SDJCT7TC161795/2.jpg",
+    "incoming/1C4SDJCT7TC161795/3.jpg",
+    "incoming/1C4SDJCT7TC161795/4.jpg",
+    "incoming/1C4SDJCT7TC161795/5.jpg",
+    "incoming/1C4SDJCT7TC161795/6.jpg",
+    "incoming/1C4SDJCT7TC161795/7.jpg",
+    "incoming/1C4SDJCT7TC161795/8.jpg",
+    "incoming/1C4SDJCT7TC161795/9.jpg",
+    "incoming/1C4SDJCT7TC161795/10.jpg",
+    "incoming/1C4SDJCT7TC161795/11.jpg",
+    "incoming/1C4SDJCT7TC161795/12.jpg",
+    "incoming/1C4SDJCT7TC161795/13.jpg",
+    "incoming/1C4SDJCT7TC161795/14.jpg",
+    "incoming/1C4SDJCT7TC161795/15.jpg",
+    "incoming/1C4SDJCT7TC161795/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "5.7L V8, gasoline",
+    "Drivetrain": "AWD"
+   },
+   "sold": false
   }
  ]
 }
