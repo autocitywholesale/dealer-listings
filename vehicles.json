@@ -2810,10 +2810,12 @@
     "incoming/1GCUYBEF7KZ285670/12.jpg",
     "incoming/1GCUYBEF7KZ285670/13.jpg",
     "incoming/1GCUYBEF7KZ285670/14.jpg",
-    "incoming/1GCUYBEF7KZ285670/15.jpg"
+    "incoming/1GCUYBEF7KZ285670/15.jpg",
+    "incoming/1GCUYBEF7KZ285670/16.jpg"
    ],
    "specs": {
     "Body": "Crew Cab pickup, 4-door",
+    "Exterior colour": "Red",
     "Engine": "5.3L 8-cylinder, gasoline (L82)",
     "Transmission": "6-speed automatic",
     "Drivetrain": "4WD",
