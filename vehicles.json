@@ -3760,6 +3760,43 @@
     "Build date": "01/2021"
    },
    "sold": false
+  },
+  {
+   "vin": "1FM5K8FH8KGA17744",
+   "slug": "erz7nc9zsp5s",
+   "year": 2019,
+   "make": "Ford",
+   "model": "Explorer",
+   "km": 104310,
+   "photos": [
+    "incoming/1FM5K8FH8KGA17744/1.jpg",
+    "incoming/1FM5K8FH8KGA17744/2.jpg",
+    "incoming/1FM5K8FH8KGA17744/3.jpg",
+    "incoming/1FM5K8FH8KGA17744/4.jpg",
+    "incoming/1FM5K8FH8KGA17744/5.jpg",
+    "incoming/1FM5K8FH8KGA17744/6.jpg",
+    "incoming/1FM5K8FH8KGA17744/7.jpg",
+    "incoming/1FM5K8FH8KGA17744/8.jpg",
+    "incoming/1FM5K8FH8KGA17744/9.jpg",
+    "incoming/1FM5K8FH8KGA17744/10.jpg",
+    "incoming/1FM5K8FH8KGA17744/11.jpg",
+    "incoming/1FM5K8FH8KGA17744/12.jpg",
+    "incoming/1FM5K8FH8KGA17744/13.jpg",
+    "incoming/1FM5K8FH8KGA17744/14.jpg",
+    "incoming/1FM5K8FH8KGA17744/15.jpg",
+    "incoming/1FM5K8FH8KGA17744/16.jpg",
+    "incoming/1FM5K8FH8KGA17744/17.jpg",
+    "incoming/1FM5K8FH8KGA17744/18.jpg",
+    "incoming/1FM5K8FH8KGA17744/19.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.3L turbo 4-cylinder, gasoline",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "255/50R20 105H on 20x8.5J rims",
+    "Build date": "10/2018"
+   },
+   "sold": false
   }
  ]
 }
