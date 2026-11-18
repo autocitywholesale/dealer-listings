@@ -3726,6 +3726,40 @@
     "Build date": "09/2018"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2SKEMC9MH501014",
+   "slug": "hqnpberl43r8",
+   "year": 2021,
+   "make": "Subaru",
+   "model": "Forester",
+   "km": 154866,
+   "photos": [
+    "incoming/JF2SKEMC9MH501014/1.jpg",
+    "incoming/JF2SKEMC9MH501014/2.jpg",
+    "incoming/JF2SKEMC9MH501014/3.jpg",
+    "incoming/JF2SKEMC9MH501014/4.jpg",
+    "incoming/JF2SKEMC9MH501014/5.jpg",
+    "incoming/JF2SKEMC9MH501014/6.jpg",
+    "incoming/JF2SKEMC9MH501014/7.jpg",
+    "incoming/JF2SKEMC9MH501014/8.jpg",
+    "incoming/JF2SKEMC9MH501014/9.jpg",
+    "incoming/JF2SKEMC9MH501014/10.jpg",
+    "incoming/JF2SKEMC9MH501014/11.jpg",
+    "incoming/JF2SKEMC9MH501014/12.jpg",
+    "incoming/JF2SKEMC9MH501014/13.jpg",
+    "incoming/JF2SKEMC9MH501014/14.jpg",
+    "incoming/JF2SKEMC9MH501014/15.jpg",
+    "incoming/JF2SKEMC9MH501014/16.jpg",
+    "incoming/JF2SKEMC9MH501014/17.jpg"
+   ],
+   "specs": {
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "225/55R18 98H on 18x7J rims",
+    "Build date": "01/2021"
+   },
+   "sold": false
   }
  ]
 }
