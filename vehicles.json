@@ -3704,7 +3704,7 @@
     "Engine": "5.7L V8, gasoline",
     "Drivetrain": "AWD"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 4, 2026",
     "Last reported odometer": "Not reported",
