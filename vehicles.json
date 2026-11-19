@@ -4117,6 +4117,53 @@
     "Build date": "02/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "1FTFW1E87NKD64991",
+   "slug": "duqizt43zz1v",
+   "year": 2022,
+   "make": "Ford",
+   "model": "F-150",
+   "trim": "SuperCrew",
+   "km": 107067,
+   "photos": [
+    "incoming/1FTFW1E87NKD64991/1.jpg",
+    "incoming/1FTFW1E87NKD64991/2.jpg",
+    "incoming/1FTFW1E87NKD64991/3.jpg",
+    "incoming/1FTFW1E87NKD64991/4.jpg",
+    "incoming/1FTFW1E87NKD64991/5.jpg",
+    "incoming/1FTFW1E87NKD64991/6.jpg",
+    "incoming/1FTFW1E87NKD64991/7.jpg",
+    "incoming/1FTFW1E87NKD64991/8.jpg"
+   ],
+   "specs": {
+    "Body": "SuperCrew pickup",
+    "Engine": "3.5L V6 turbo, gasoline (GTDI), 400 hp",
+    "Drivetrain": "4WD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "LT265/70R17C 112/109S on 17x7.5J rims",
+    "Build date": "03/2022",
+    "Built": "Kansas City, Missouri, USA"
+   },
+   "notes": "Damage: chrome front bumper scuffed/scraped on the lower passenger side; paint cracking/rust at the lower rear of the cab/bed near the wheel arch; rear bumper cracked below the plate; torn rear bumper corner/step pad on the driver side, with the corner pad pushed into the bed side and paint chipped; bent/damaged mud flap; rocker/lower panel scuffs and paint cracking. Tires are Bridgestone Dueler A/T Ascent with good tread. Open Ford recall 25S75 (low pressure fuel pump software update, issued Jul 8, 2025). Factory window sticker has not been released; a VIN-decode spec sheet is attached instead.",
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/1FTFW1E87NKD64991/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "November 19, 2026",
+    "Last reported odometer": "Not reported",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "1 open: 25S75 Low Pressure Fuel Pump - software update (Jul 8, 2025)",
+    "records": [
+     "0 service records in total reported"
+    ],
+    "VHR #": "74304407",
+    "pdf": "incoming/1FTFW1E87NKD64991/carfax.pdf"
+   },
+   "sold": false
   }
  ]
 }
