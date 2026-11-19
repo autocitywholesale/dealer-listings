@@ -35,14 +35,24 @@ document.addEventListener('click',function(ev){var c=ev.target.closest('[data-co
 document.addEventListener('click',function(ev){var b=ev.target.closest('[data-share-url]');if(!b)return;ev.preventDefault();var u=b.getAttribute('data-share-url'),t=b.getAttribute('data-share-title');
 if(navigator.share){navigator.share({title:t,text:t,url:u}).catch(function(x){if(x&&x.name==='AbortError')return;copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})})}
 else{copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})}})})();"""
-CRM_JS = """(function(){function on(){var h=(location.hash||'').replace(/^#/,'').toLowerCase();return h==='crm'||h==='crm/'}
-function paint(){var bar=document.getElementById('crm-owner-bar');if(!bar)return;var show=on(),vin=bar.getAttribute('data-vin')||'';
-bar.hidden=!show;bar.innerHTML='';
-if(!show)return;
-var a=document.createElement('a');a.id='crm-open';a.className='btn';a.textContent='Open in CRM';a.href='https://crm.autocityfredericton.ca/#/vin/'+encodeURIComponent(vin);
-var b=document.createElement('a');b.id='crm-remove';b.className='btn crm-remove';b.textContent='Remove from WSS';b.href='https://crm.autocityfredericton.ca/#/wss-remove/'+encodeURIComponent(vin);
+CRM_JS = """(function(){var CRM='https://crm.autocityfredericton.ca',API=CRM+'/api/wss/owner-ui',KEY='acwss_owner_token';
+function token(){try{return localStorage.getItem(KEY)||''}catch(e){return ''}}
+function paint(show){var bar=document.getElementById('crm-owner-bar');if(!bar)return;var vin=bar.getAttribute('data-vin')||'';
+bar.innerHTML='';bar.hidden=!show;if(!show)return;
+var a=document.createElement('a');a.id='crm-open';a.className='btn';a.textContent='Open in CRM';a.href=CRM+'/#/vin/'+encodeURIComponent(vin);
+var b=document.createElement('a');b.id='crm-remove';b.className='btn crm-remove';b.textContent='Remove from WSS';b.href=CRM+'/#/wss-remove/'+encodeURIComponent(vin);
 bar.appendChild(a);bar.appendChild(b)}
-paint();window.addEventListener('hashchange',paint)})();"""
+function check(){var q=token()?('?token='+encodeURIComponent(token())):'';
+fetch(API+q,{credentials:'include',mode:'cors',cache:'no-store'}).then(function(r){return r.json().then(function(j){return !!(j&&j.ok)},function(){return false})}).then(function(ok){paint(!!ok)}).catch(function(){paint(false)})}
+paint(false);check()})();"""
+OWNER_HTML = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Owner buttons</title>
+<style>body{font:16px/1.45 system-ui,-apple-system,sans-serif;max-width:36rem;margin:2rem auto;padding:0 1rem;color:#222}.ok{color:#165c2a}.bad{color:#8b1e1e}</style></head>
+<body><h1>Wholesale owner buttons</h1><p id="msg">Setting up this browser…</p>
+<script>(function(){var KEY='acwss_owner_token',t=new URLSearchParams(location.search).get('t')||'',msg=document.getElementById('msg');
+function go(){history.replaceState({},'',location.pathname)}
+if(!t){msg.className='bad';msg.textContent='Open this page from your CRM Account screen (Set up owner buttons in this browser) while signed in as Derek.';return}
+try{localStorage.setItem(KEY,t)}catch(e){msg.className='bad';msg.textContent='This browser blocked saving the setup. Turn off Private/Incognito mode and try again.';go();return}
+msg.className='ok';msg.textContent='This browser can show Open in CRM and Remove from WSS on listing pages. You can close this tab.';go()})();</script></body></html>"""
 def sharebtn(url, ttl, cls="sharebtn", label="Share"):
     return f'<button type="button" class="{cls}" data-share-url="{e(url)}" data-share-title="{e(ttl)}">{ICON} {label}</button>'
 SITE_SHORT = "Auto City Wholesale"
@@ -129,6 +139,7 @@ def build():
     shutil.rmtree(DIST, ignore_errors=True); os.makedirs(DIST)
     open(os.path.join(DIST, "style.css"), "w").write(CSS)
     open(os.path.join(DIST, "robots.txt"), "w").write("User-agent: *\nDisallow: /\n")
+    open(os.path.join(DIST, "owner.html"), "w").write(OWNER_HTML)
     vs = [v for v in load_vehicles() if not v.get("sold")]  # sold cars are never published
     for v in vs:
         imgs = photos(v); d = os.path.join(DIST, "v", v["slug"])
