@@ -4082,6 +4082,41 @@
     "Build date": "06/2018"
    },
    "sold": false
+  },
+  {
+   "vin": "4S3GTAG69P3716586",
+   "slug": "utmbvpyhic5q",
+   "year": 2023,
+   "make": "Subaru",
+   "model": "Impreza",
+   "km": 86764,
+   "photos": [
+    "incoming/4S3GTAG69P3716586/1.jpg",
+    "incoming/4S3GTAG69P3716586/2.jpg",
+    "incoming/4S3GTAG69P3716586/3.jpg",
+    "incoming/4S3GTAG69P3716586/4.jpg",
+    "incoming/4S3GTAG69P3716586/5.jpg",
+    "incoming/4S3GTAG69P3716586/6.jpg",
+    "incoming/4S3GTAG69P3716586/7.jpg",
+    "incoming/4S3GTAG69P3716586/8.jpg",
+    "incoming/4S3GTAG69P3716586/9.jpg",
+    "incoming/4S3GTAG69P3716586/10.jpg",
+    "incoming/4S3GTAG69P3716586/11.jpg",
+    "incoming/4S3GTAG69P3716586/12.jpg",
+    "incoming/4S3GTAG69P3716586/13.jpg",
+    "incoming/4S3GTAG69P3716586/14.jpg",
+    "incoming/4S3GTAG69P3716586/15.jpg",
+    "incoming/4S3GTAG69P3716586/16.jpg",
+    "incoming/4S3GTAG69P3716586/17.jpg"
+   ],
+   "specs": {
+    "Body": "Hatchback, 5-door",
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Build date": "02/2023"
+   },
+   "sold": false
   }
  ]
 }
