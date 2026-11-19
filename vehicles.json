@@ -4010,6 +4010,44 @@
     "url": "https://vhr.carfax.ca/?id=eeQJNTJx31qoAzoANl2GT5C0af5Rt7qm",
     "pdf": "incoming/JM1BL1UF0C1671865/carfax.pdf"
    }
+  },
+  {
+   "vin": "4S3GKAG69N3600496",
+   "slug": "m8yiphepw620",
+   "year": 2022,
+   "make": "Subaru",
+   "model": "Impreza",
+   "km": 44522,
+   "photos": [
+    "incoming/4S3GKAG69N3600496/1.jpg",
+    "incoming/4S3GKAG69N3600496/2.jpg",
+    "incoming/4S3GKAG69N3600496/3.jpg",
+    "incoming/4S3GKAG69N3600496/4.jpg",
+    "incoming/4S3GKAG69N3600496/5.jpg",
+    "incoming/4S3GKAG69N3600496/6.jpg",
+    "incoming/4S3GKAG69N3600496/7.jpg",
+    "incoming/4S3GKAG69N3600496/8.jpg",
+    "incoming/4S3GKAG69N3600496/9.jpg",
+    "incoming/4S3GKAG69N3600496/10.jpg",
+    "incoming/4S3GKAG69N3600496/11.jpg",
+    "incoming/4S3GKAG69N3600496/12.jpg",
+    "incoming/4S3GKAG69N3600496/13.jpg",
+    "incoming/4S3GKAG69N3600496/14.jpg",
+    "incoming/4S3GKAG69N3600496/15.jpg",
+    "incoming/4S3GKAG69N3600496/16.jpg",
+    "incoming/4S3GKAG69N3600496/17.jpg",
+    "incoming/4S3GKAG69N3600496/18.jpg",
+    "incoming/4S3GKAG69N3600496/19.jpg",
+    "incoming/4S3GKAG69N3600496/20.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Build date": "08/2021"
+   },
+   "sold": false
   }
  ]
 }
