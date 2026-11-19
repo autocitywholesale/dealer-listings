@@ -4048,6 +4048,40 @@
     "Build date": "08/2021"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4BSDNC7J3388045",
+   "slug": "9wtx9hu3m64c",
+   "year": 2018,
+   "make": "Subaru",
+   "model": "Outback",
+   "km": 168915,
+   "photos": [
+    "incoming/4S4BSDNC7J3388045/1.jpg",
+    "incoming/4S4BSDNC7J3388045/2.jpg",
+    "incoming/4S4BSDNC7J3388045/3.jpg",
+    "incoming/4S4BSDNC7J3388045/4.jpg",
+    "incoming/4S4BSDNC7J3388045/5.jpg",
+    "incoming/4S4BSDNC7J3388045/6.jpg",
+    "incoming/4S4BSDNC7J3388045/7.jpg",
+    "incoming/4S4BSDNC7J3388045/8.jpg",
+    "incoming/4S4BSDNC7J3388045/9.jpg",
+    "incoming/4S4BSDNC7J3388045/10.jpg",
+    "incoming/4S4BSDNC7J3388045/11.jpg",
+    "incoming/4S4BSDNC7J3388045/12.jpg",
+    "incoming/4S4BSDNC7J3388045/13.jpg",
+    "incoming/4S4BSDNC7J3388045/14.jpg",
+    "incoming/4S4BSDNC7J3388045/15.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.5L 4-cylinder, gasoline",
+    "Transmission": "CVT",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
+    "Build date": "06/2018"
+   },
+   "sold": false
   }
  ]
 }
