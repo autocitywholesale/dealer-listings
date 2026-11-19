@@ -3866,6 +3866,38 @@
     "Build date": "03/2022"
    },
    "sold": false
+  },
+  {
+   "vin": "JM1BL1UF0C1671865",
+   "slug": "r5isi2ojn4ic",
+   "year": 2012,
+   "make": "Mazda",
+   "model": "Mazda3",
+   "km": 276506,
+   "photos": [
+    "incoming/JM1BL1UF0C1671865/1.jpg",
+    "incoming/JM1BL1UF0C1671865/2.jpg",
+    "incoming/JM1BL1UF0C1671865/3.jpg",
+    "incoming/JM1BL1UF0C1671865/4.jpg",
+    "incoming/JM1BL1UF0C1671865/5.jpg",
+    "incoming/JM1BL1UF0C1671865/6.jpg",
+    "incoming/JM1BL1UF0C1671865/7.jpg",
+    "incoming/JM1BL1UF0C1671865/8.jpg",
+    "incoming/JM1BL1UF0C1671865/9.jpg",
+    "incoming/JM1BL1UF0C1671865/10.jpg",
+    "incoming/JM1BL1UF0C1671865/11.jpg",
+    "incoming/JM1BL1UF0C1671865/12.jpg",
+    "incoming/JM1BL1UF0C1671865/13.jpg",
+    "incoming/JM1BL1UF0C1671865/14.jpg",
+    "incoming/JM1BL1UF0C1671865/15.jpg",
+    "incoming/JM1BL1UF0C1671865/16.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "2.0L, gasoline",
+    "Build date": "06/2012"
+   },
+   "sold": false
   }
  ]
 }
