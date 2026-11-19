@@ -27,7 +27,7 @@ footer{text-align:center;padding:24px;color:#555;font-size:.9rem}
 .sharealt{font-size:.85rem;color:#555}.sharealt a{color:#13315c}.sharemsg{font-size:.85rem;font-weight:600;color:#1e7e34;min-height:1.1em}
 .cardshare{margin-top:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:6px;padding:7px 12px;cursor:pointer;font-family:inherit;font-size:.95rem;display:inline-flex;align-items:center;justify-content:center;gap:6px}
 .vinline{margin:4px 0 0;font-size:1.05rem}.vin{font-family:ui-monospace,Menlo,Consolas,monospace;font-weight:700;letter-spacing:.04em;user-select:all;-webkit-user-select:all;background:#eef2f7;padding:2px 6px;border-radius:4px}.vincopy{margin-left:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:5px;padding:2px 8px;font-size:.8rem;cursor:pointer;font-family:inherit}
-@media(max-width:600px){.sharebox{width:100%}.sharebtn{width:100%;font-size:1.15rem;padding:14px}}"""
+@media(max-width:600px){.sharebox{width:100%}.sharebtn{width:100%;font-size:1.15rem;padding:14px}}#crm-owner-bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}#crm-owner-bar[hidden]{display:none!important}#crm-owner-bar a.btn{margin-top:0}#crm-owner-bar a.crm-remove{background:#8b1e1e}"""
 ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>'
 SHARE_JS = """(function(){function note(el,t){var m=el.closest('[data-share-root]');m=m&&m.querySelector('.sharemsg');if(m){m.textContent=t;setTimeout(function(){m.textContent=''},3000)}else{alert(t)}}
 function copy(u){if(navigator.clipboard&&window.isSecureContext)return navigator.clipboard.writeText(u);return new Promise(function(ok,no){var a=document.createElement('textarea');a.value=u;a.style.position='fixed';a.style.opacity='0';document.body.appendChild(a);a.select();try{document.execCommand('copy')?ok():no()}catch(x){no(x)}document.body.removeChild(a)})}
@@ -35,6 +35,14 @@ document.addEventListener('click',function(ev){var c=ev.target.closest('[data-co
 document.addEventListener('click',function(ev){var b=ev.target.closest('[data-share-url]');if(!b)return;ev.preventDefault();var u=b.getAttribute('data-share-url'),t=b.getAttribute('data-share-title');
 if(navigator.share){navigator.share({title:t,text:t,url:u}).catch(function(x){if(x&&x.name==='AbortError')return;copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})})}
 else{copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})}})})();"""
+CRM_JS = """(function(){function on(){var h=(location.hash||'').replace(/^#/,'').toLowerCase();return h==='crm'||h==='crm/'}
+function paint(){var bar=document.getElementById('crm-owner-bar');if(!bar)return;var show=on(),vin=bar.getAttribute('data-vin')||'';
+bar.hidden=!show;bar.innerHTML='';
+if(!show)return;
+var a=document.createElement('a');a.id='crm-open';a.className='btn';a.textContent='Open in CRM';a.href='https://crm.autocityfredericton.ca/#/vin/'+encodeURIComponent(vin);
+var b=document.createElement('a');b.id='crm-remove';b.className='btn crm-remove';b.textContent='Remove from WSS';b.href='https://crm.autocityfredericton.ca/#/wss-remove/'+encodeURIComponent(vin);
+bar.appendChild(a);bar.appendChild(b)}
+paint();window.addEventListener('hashchange',paint)})();"""
 def sharebtn(url, ttl, cls="sharebtn", label="Share"):
     return f'<button type="button" class="{cls}" data-share-url="{e(url)}" data-share-title="{e(ttl)}">{ICON} {label}</button>'
 SITE_SHORT = "Auto City Wholesale"
@@ -44,7 +52,7 @@ def page(title, body, rel="", head=""):
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow"><title>{e(title)}</title>{head}<link rel="stylesheet" href="{rel}style.css"></head><body>
 <header><h1>{e(c['name'])}</h1><p>Dealer-to-dealer inventory · {e(c['addr'])}</p></header>
-<main>{body}</main><footer>{e(c['name'])} · {e(c['addr'])}<br>Dealer-to-dealer listing. Information provided as-is; verify before purchase.</footer><script>{SHARE_JS}</script></body></html>"""
+<main>{body}</main><footer>{e(c['name'])} · {e(c['addr'])}<br>Dealer-to-dealer listing. Information provided as-is; verify before purchase.</footer><script>{SHARE_JS}</script><script>{CRM_JS}</script></body></html>"""
 SLUG_CHARS = string.ascii_lowercase + string.digits
 def new_slug(): return "".join(secrets.choice(SLUG_CHARS) for _ in range(12))
 def share_url(v): return BASE + "v/" + v["slug"] + "/"
@@ -68,6 +76,7 @@ def vpage(v, imgs):
     b = (f'<div class="titlebar"><div><h1>{e(title(v))}</h1><p class="vinline">VIN: <span class="vin">{e(v['vin'])}</span><button type="button" class="vincopy" data-copy-vin="{e(v['vin'])}">Copy</button> · {v['km']:,} km</p></div><div class="sharebox" data-share-root>{sharebtn(url, stitle)}'
          f'<div class="sharemsg" role="status" aria-live="polite"></div>'
          f'<div class="sharealt">Or share by <a href="{e(em)}">Email</a> · <a href="{e(sms)}">Text</a></div></div></div>')
+    b += f"<div id=\"crm-owner-bar\" hidden data-vin=\"{e(v['vin'])}\"></div>"
     if not imgs: b += '<div class="noimg hero" style="aspect-ratio:16/6">Photos coming soon</div>'
     if imgs: b += f'<img class="hero" src="{imgs[0]}" alt="">' + ('<h3>Photos</h3><div class="gal">' + "".join(f'<a href="{i}"><img src="{i}" loading="lazy" alt=""></a>' for i in imgs) + "</div>" if len(imgs) > 1 else "")
     b += f"<section><h2>Overview</h2><table><tr><td>VIN</td><td>{e(v['vin'])}</td></tr><tr><td>Kilometres</td><td>{v['km']:,} km</td></tr>{pr}</table>"
