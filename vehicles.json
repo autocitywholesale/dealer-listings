@@ -4047,7 +4047,22 @@
     "Drivetrain": "AWD",
     "Build date": "08/2021"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 18, 2026",
+    "Last reported odometer": "35,805 km (Nov 27, 2025)",
+    "Accidents/damage": "Aug 8, 2022, New Brunswick: Other Damage claim $0.00; glass record $973.00 (Sep 28, 2026)",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Nov 27, 2025: Mountain View Auto, Bath NB, 35,805 km, air filter, cabin air filter, oil and filter",
+     "Dec 17, 2024: Mountain View Auto, 27,146 km, oil and filter",
+     "5 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=%2FqKtsdw6CiYwMH6J6aXo0RWoJX3Adv2T",
+    "pdf": "incoming/4S3GKAG69N3600496/carfax.pdf"
+   }
   },
   {
    "vin": "4S4BSDNC7J3388045",
@@ -4081,7 +4096,22 @@
     "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
     "Build date": "06/2018"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "160,888 km (May 5, 2026)",
+    "Accidents/damage": "Nov 16, 2022, Fredericton, New Brunswick: $1,068.65 estimate; Other Damage claim $1,069.00",
+    "Registration": "New Brunswick, Normal branding; no U.S. history; first serviced in Nova Scotia (PDI)",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "May 5, 2026: Fox Subaru, Fredericton NB, 160,888 km, fluids, oil and filter, sway bar bushings",
+     "Sep 16, 2025: Fox Subaru, 152,997 km, vehicle serviced",
+     "27 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=l6GtNzcTcYLBfQ7dsukJ8LGQ52coM6Ix",
+    "pdf": "incoming/4S4BSDNC7J3388045/carfax.pdf"
+   }
   },
   {
    "vin": "4S3GTAG69P3716586",
@@ -4116,7 +4146,22 @@
     "Drivetrain": "AWD",
     "Build date": "02/2023"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "80,705 km (Jul 24, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Jul 24, 2026: Fox Subaru, Fredericton NB, 80,705 km, fluids, oil and filter",
+     "Feb 20, 2026: Fox Subaru, 71,711 km, fluids, oil and filter",
+     "11 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=LO9WdTVyIOpx%2Bm%2FP1XlTz5MinKar%2F2lZ",
+    "pdf": "incoming/4S3GTAG69P3716586/carfax.pdf"
+   }
   },
   {
    "vin": "1FTFW1E87NKD64991",
