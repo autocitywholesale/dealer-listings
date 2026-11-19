@@ -3658,7 +3658,21 @@
     "Factory tire size (door label)": "255/45R22 107H on 22x8.5 rims",
     "Build date": "05/2025"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 27, 2026",
+    "Last reported odometer": "Not reported",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Ontario, then Prince Edward Island, Normal branding; no U.S. history",
+    "Owners": "1 (personal)",
+    "Open recalls": "2 open: 25SA2 Pedestrian Alert System Software Update (Oct 10, 2025); 26S51 Pedestrian Alert System Repair (Jul 7, 2026)",
+    "records": [
+     "Oct 2, 2025: Griffin's Service Centre, Cornwall PE, vehicle serviced, maintenance inspection",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=tKO9uItrUUAzjxSVCYG9ByiSfzw3QuiD",
+    "pdf": "incoming/5LMPJ8K47SJ968421/carfax.pdf"
+   }
   },
   {
    "vin": "1C4SDJCT7TC161795",
@@ -3690,7 +3704,21 @@
     "Engine": "5.7L V8, gasoline",
     "Drivetrain": "AWD"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 4, 2026",
+    "Last reported odometer": "Not reported",
+    "Accidents/damage": "No accidents reported (ICBC BC insurance data not included)",
+    "Registration": "British Columbia, then New Brunswick, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Oct 16, 2025: Langley Chrysler, Surrey BC, pre-delivery inspection, wheel locks",
+     "2 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=ZaZhrCF8Oq%2FvFK8QSHZYo1LKvRfM0slI",
+    "pdf": "incoming/1C4SDJCT7TC161795/carfax.pdf"
+   }
   },
   {
    "vin": "5FNRL6H63KB507490",
@@ -3725,7 +3753,21 @@
     "Factory tire size (door label)": "235/60R18 103H on 18x7.5J rims",
     "Build date": "09/2018"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 18, 2026",
+    "Last reported odometer": "195,001 km (Sep 2, 2026)",
+    "Accidents/damage": "Nov 18, 2022, Grand Falls, New Brunswick: front collision, $5,202.34 estimate; Claim $7,764.00",
+    "Registration": "Quebec, then New Brunswick, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "1: HQ72 Rear View Camera Image May Not Display (Jul 2, 2026)",
+    "records": [
+     "Oct 22, 2026: Fox Subaru, Fredericton NB",
+     "7 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=h2Fsmxa570ozMrYV7tpeWWSx0xNw2CbR",
+    "pdf": "incoming/5FNRL6H63KB507490/carfax.pdf"
+   }
   },
   {
    "vin": "JF2SKEMC9MH501014",
@@ -3759,7 +3801,21 @@
     "Factory tire size (door label)": "225/55R18 98H on 18x7J rims",
     "Build date": "01/2021"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "October 30, 2026",
+    "Last reported odometer": "16,226 km (Dec 2, 2021)",
+    "Accidents/damage": "Nov 30, 2021, Fredericton, New Brunswick: $5,830.36 estimate; Claim $6,214.00; damage reported Dec 2, 2021 (no amount); glass claims $127.00 (Sep 29, 2023) and $2,003.00 (May 6, 2024)",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Nov 18, 2021: Fox Subaru, Fredericton NB, 15,070 km, oil and filter changed",
+     "4 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=Di%2FrNDIfgpfcyV3cUO8WaAMeglyS1OiU",
+    "pdf": "incoming/JF2SKEMC9MH501014/carfax.pdf"
+   }
   },
   {
    "vin": "1FM5K8FH8KGA17744",
@@ -3796,7 +3852,21 @@
     "Factory tire size (door label)": "255/50R20 105H on 20x8.5J rims",
     "Build date": "10/2018"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 18, 2026",
+    "Last reported odometer": "103,894 km (Oct 13, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "2 open: 25SA4 Block Heater Element Replacement (Jan 16, 2026); 26S54 Roof Rail Cover Detachment (Jul 15, 2026)",
+    "records": [
+     "Oct 13, 2026: Speedy Auto Service, Fredericton NB, 103,894 km, muffler replaced",
+     "23 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=y8Qd3R3%2BOuXbBwyaCyWaAhEy5%2FJfd85L",
+    "pdf": "incoming/1FM5K8FH8KGA17744/carfax.pdf"
+   }
   },
   {
    "vin": "JF2GTHNC4M8316484",
@@ -3831,7 +3901,21 @@
     "Factory tire size (door label)": "225/55R18 98H on 18x7J rims",
     "Build date": "01/2021"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026 (report status pending)",
+    "Last reported odometer": "99,644 km (Oct 21, 2026)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history; earlier service in Quebec",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "Oct 21, 2026: Fox Subaru, Fredericton NB, 99,644 km, battery replaced, reprogram, oil and filter changed",
+     "19 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=nEE%2FPdfeLAaYkRnB2OtTFtyB5qAiWbjL",
+    "pdf": "incoming/JF2GTHNC4M8316484/carfax.pdf"
+   }
   },
   {
    "vin": "3TYDZ5BN9NT011083",
@@ -3865,7 +3949,21 @@
     "Factory tire size (door label)": "P265/65R17 on 17x7.5J rims",
     "Build date": "03/2022"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "29,919 km (Nov 21, 2024)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "Nova Scotia only, Normal branding; no U.S. history",
+    "Owners": "1 (personal)",
+    "Open recalls": "None",
+    "records": [
+     "Nov 21, 2024: Amherst Toyota, Amherst NS, 29,919 km, rear shocks replaced",
+     "4 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=3vKDzCaDbargpk3u7uzqt%2FFW%2F59Y6ZBo",
+    "pdf": "incoming/3TYDZ5BN9NT011083/carfax.pdf"
+   }
   },
   {
    "vin": "JM1BL1UF0C1671865",
@@ -3897,7 +3995,21 @@
     "Engine": "2.0L, gasoline",
     "Build date": "06/2012"
    },
-   "sold": false
+   "sold": false,
+   "carfax": {
+    "Report date": "November 18, 2026",
+    "Last reported odometer": "119,999 km (May 1, 2019)",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history",
+    "Owners": "1",
+    "Open recalls": "None",
+    "records": [
+     "May 1, 2019: Fredericton Mazda, Fredericton NB, 119,999 km, vehicle serviced",
+     "4 service records in total reported"
+    ],
+    "url": "https://vhr.carfax.ca/?id=eeQJNTJx31qoAzoANl2GT5C0af5Rt7qm",
+    "pdf": "incoming/JM1BL1UF0C1671865/carfax.pdf"
+   }
   }
  ]
 }
