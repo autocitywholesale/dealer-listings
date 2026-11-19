@@ -3210,7 +3210,7 @@
     "Factory tire size (door label)": "235/55R19 on 19x7.5J rims",
     "Build date": "04/2019"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 28, 2026",
     "Last reported odometer": "70,000 km (Jul 11, 2023)",
