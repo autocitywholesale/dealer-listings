@@ -27,7 +27,7 @@ footer{text-align:center;padding:24px;color:#555;font-size:.9rem}
 .sharealt{font-size:.85rem;color:#555}.sharealt a{color:#13315c}.sharemsg{font-size:.85rem;font-weight:600;color:#1e7e34;min-height:1.1em}
 .cardshare{margin-top:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:6px;padding:7px 12px;cursor:pointer;font-family:inherit;font-size:.95rem;display:inline-flex;align-items:center;justify-content:center;gap:6px}
 .vinline{margin:4px 0 0;font-size:1.05rem}.vin{font-family:ui-monospace,Menlo,Consolas,monospace;font-weight:700;letter-spacing:.04em;user-select:all;-webkit-user-select:all;background:#eef2f7;padding:2px 6px;border-radius:4px}.vincopy{margin-left:6px;background:none;border:1px solid #13315c;color:#13315c;border-radius:5px;padding:2px 8px;font-size:.8rem;cursor:pointer;font-family:inherit}
-@media(max-width:600px){.sharebox{width:100%}.sharebtn{width:100%;font-size:1.15rem;padding:14px}}#crm-owner-bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}#crm-owner-bar[hidden]{display:none!important}#crm-owner-bar a.btn{margin-top:0}#crm-owner-bar a.crm-remove{background:#8b1e1e}"""
+@media(max-width:600px){.sharebox{width:100%}.sharebtn{width:100%;font-size:1.15rem;padding:14px}}#crm-owner-bar{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}#crm-owner-bar[hidden]{display:none!important}#crm-owner-bar a.btn{margin-top:0}#crm-owner-bar a.crm-remove{background:#8b1e1e}#crm-owner-bar a.crm-keep{background:#165c2a}#crm-owner-bar a.crm-kept{background:#6b7280;cursor:default}"""
 ICON = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92s2.92-1.31 2.92-2.92-1.31-2.92-2.92-2.92z"/></svg>'
 SHARE_JS = """(function(){function note(el,t){var m=el.closest('[data-share-root]');m=m&&m.querySelector('.sharemsg');if(m){m.textContent=t;setTimeout(function(){m.textContent=''},3000)}else{alert(t)}}
 function copy(u){if(navigator.clipboard&&window.isSecureContext)return navigator.clipboard.writeText(u);return new Promise(function(ok,no){var a=document.createElement('textarea');a.value=u;a.style.position='fixed';a.style.opacity='0';document.body.appendChild(a);a.select();try{document.execCommand('copy')?ok():no()}catch(x){no(x)}document.body.removeChild(a)})}
@@ -35,15 +35,23 @@ document.addEventListener('click',function(ev){var c=ev.target.closest('[data-co
 document.addEventListener('click',function(ev){var b=ev.target.closest('[data-share-url]');if(!b)return;ev.preventDefault();var u=b.getAttribute('data-share-url'),t=b.getAttribute('data-share-title');
 if(navigator.share){navigator.share({title:t,text:t,url:u}).catch(function(x){if(x&&x.name==='AbortError')return;copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})})}
 else{copy(u).then(function(){note(b,'Link copied')},function(){note(b,'Copy this link: '+u)})}})})();"""
-CRM_JS = """(function(){var CRM='https://crm.autocityfredericton.ca',API=CRM+'/api/wss/owner-ui',KEY='acwss_owner_token';
+CRM_JS = """(function(){var CRM='https://crm.autocityfredericton.ca',API=CRM+'/api/wss/owner-ui',KEEP=CRM+'/api/wss/owner-keep',KEY='acwss_owner_token';
 function token(){try{return localStorage.getItem(KEY)||''}catch(e){return ''}}
-function paint(show){var bar=document.getElementById('crm-owner-bar');if(!bar)return;var vin=bar.getAttribute('data-vin')||'';
+function tq(){return token()?('token='+encodeURIComponent(token())):''}
+function vinOf(){var bar=document.getElementById('crm-owner-bar');return bar?(bar.getAttribute('data-vin')||''):''}
+function paint(show,kept){var bar=document.getElementById('crm-owner-bar');if(!bar)return;var vin=vinOf();
 bar.innerHTML='';bar.hidden=!show;if(!show)return;
 var a=document.createElement('a');a.id='crm-open';a.className='btn';a.textContent='Open in CRM';a.href=CRM+'/#/vin/'+encodeURIComponent(vin);
 var b=document.createElement('a');b.id='crm-remove';b.className='btn crm-remove';b.textContent='Remove from WSS';b.href=CRM+'/#/wss-remove/'+encodeURIComponent(vin);
-bar.appendChild(a);bar.appendChild(b)}
-function check(){var q=token()?('?token='+encodeURIComponent(token())):'';
-fetch(API+q,{credentials:'include',mode:'cors',cache:'no-store'}).then(function(r){return r.json().then(function(j){return !!(j&&j.ok)},function(){return false})}).then(function(ok){paint(!!ok)}).catch(function(){paint(false)})}
+bar.appendChild(a);bar.appendChild(b);
+if(kept===true){var s=document.createElement('a');s.id='crm-keep';s.className='btn crm-kept';s.textContent='Kept for retail \u2713';s.setAttribute('aria-disabled','true');bar.appendChild(s)}
+else if(kept===false){var k=document.createElement('a');k.id='crm-keep';k.className='btn crm-keep';k.href='#';k.textContent='Keeping for retail';
+k.onclick=function(ev){ev.preventDefault();if(k.getAttribute('data-busy'))return;if(!confirm('Mark this car Keeping for retail in the CRM? It stays on WSS until you tap Remove on the CRM Keeping for retail tab.'))return;
+k.setAttribute('data-busy','1');k.textContent='Saving\u2026';var q=tq();
+fetch(KEEP+(q?'?'+q:''),{method:'POST',credentials:'include',mode:'cors',cache:'no-store',headers:{'Content-Type':'application/json'},body:JSON.stringify({vin:vin})}).then(function(r){return r.json().then(function(j){return {ok:r.ok&&j&&j.ok,j:j}},function(){return {ok:false,j:{}}})}).then(function(x){if(x.ok){paint(true,true)}else{k.removeAttribute('data-busy');k.textContent='Keeping for retail';alert((x.j&&x.j.detail)||'Could not mark Keeping for retail.')}}).catch(function(){k.removeAttribute('data-busy');k.textContent='Keeping for retail';alert('Could not reach the CRM.')})};
+bar.appendChild(k)}}
+function check(){var q=tq(),v=vinOf();var qs=[q,v?('vin='+encodeURIComponent(v)):''].filter(Boolean).join('&');
+fetch(API+(qs?'?'+qs:''),{credentials:'include',mode:'cors',cache:'no-store'}).then(function(r){return r.json().then(function(j){return j||{}},function(){return {}})}).then(function(j){paint(!!j.ok,j.kept)}).catch(function(){paint(false)})}
 paint(false);check()})();"""
 OWNER_HTML = """<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Owner buttons</title>
 <style>body{font:16px/1.45 system-ui,-apple-system,sans-serif;max-width:36rem;margin:2rem auto;padding:0 1rem;color:#222}.ok{color:#165c2a}.bad{color:#8b1e1e}</style></head>
