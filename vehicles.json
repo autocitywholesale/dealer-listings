@@ -4096,7 +4096,7 @@
     "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
     "Build date": "06/2018"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 17, 2026",
     "Last reported odometer": "160,888 km (May 5, 2026)",
