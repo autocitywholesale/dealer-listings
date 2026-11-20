@@ -4396,6 +4396,62 @@
     "Engine": "2.0L 4-cylinder, gasoline"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2SLDAC5SH538733",
+   "slug": "qqvm0glvocv8",
+   "year": 2025,
+   "make": "Subaru",
+   "model": "Forester",
+   "trim": "Base Plus",
+   "km": 33566,
+   "photos": [
+    "incoming/JF2SLDAC5SH538733/1.jpg",
+    "incoming/JF2SLDAC5SH538733/2.jpg",
+    "incoming/JF2SLDAC5SH538733/3.jpg",
+    "incoming/JF2SLDAC5SH538733/4.jpg",
+    "incoming/JF2SLDAC5SH538733/5.jpg",
+    "incoming/JF2SLDAC5SH538733/6.jpg",
+    "incoming/JF2SLDAC5SH538733/7.jpg",
+    "incoming/JF2SLDAC5SH538733/8.jpg",
+    "incoming/JF2SLDAC5SH538733/9.jpg",
+    "incoming/JF2SLDAC5SH538733/10.jpg",
+    "incoming/JF2SLDAC5SH538733/11.jpg",
+    "incoming/JF2SLDAC5SH538733/12.jpg",
+    "incoming/JF2SLDAC5SH538733/13.jpg",
+    "incoming/JF2SLDAC5SH538733/14.jpg",
+    "incoming/JF2SLDAC5SH538733/15.jpg",
+    "incoming/JF2SLDAC5SH538733/16.jpg"
+   ],
+   "specs": {
+    "Engine": "2.5L 4-cylinder, gasoline, 180 hp",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "White",
+    "Factory tire size (door label)": "225/60R17 on 17x7J rims",
+    "GVWR (door label)": "2,223 kg",
+    "Build date": "12/2024",
+    "Built": "Yajima Plant, Ota, Gunma, Japan"
+   },
+   "notes": "NHTSA VIN decode lists trim as Base Plus. Factory window sticker is not available for Subaru; a VIN-decode spec sheet is attached instead, with no MSRP or option list. Cluster shows 33,566 km; the driver's door-open indicator is on because the door was open for the photo. Roof rails and black cladding. Fox Subaru rear decal. Cloth seats. Two keys. Yokohama Geolandar tires on 17-inch alloy wheels. No obvious body damage in these photos.",
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/JF2SLDAC5SH538733/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "29,226 km on September 2, 2026",
+    "Accidents/damage": "No accidents or damage reported",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history. Loan or lien reported on first registration (March 31, 2025).",
+    "Owners": "1",
+    "Open recalls": "No open recalls",
+    "records": [
+     "4 service records at Fox Subaru Fredericton: Mar 4, 2025 (pre-delivery inspection, maintenance inspection, alignment, battery/charging system checked, brakes checked and serviced, tire check, wash/detail); Jul 14, 2025 (5,966 km, one tire balanced, tires balanced); Nov 18, 2025 (10,728 km, fluids checked, oil and filter changed, tire check); Sep 2, 2026 (29,226 km, fluids checked, oil and filter changed, tire check)"
+    ],
+    "VHR #": "74249039",
+    "pdf": "incoming/JF2SLDAC5SH538733/carfax.pdf"
+   },
+   "sold": false
   }
  ]
 }
