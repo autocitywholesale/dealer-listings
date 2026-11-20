@@ -4312,6 +4312,48 @@
     "pdf": "incoming/JF2GUABC3SH263623/carfax.pdf"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4BTDLC5S3182952",
+   "slug": "5cfq3sxcxib3",
+   "year": 2025,
+   "make": "Subaru",
+   "model": "Outback",
+   "trim": "Onyx Edition",
+   "km": 80000,
+   "photos": [
+    "incoming/4S4BTDLC5S3182952/1.jpg",
+    "incoming/4S4BTDLC5S3182952/2.jpg",
+    "incoming/4S4BTDLC5S3182952/3.jpg"
+   ],
+   "specs": {
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Exterior colour": "Blue",
+    "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
+    "GVWR (door label)": "2,200 kg",
+    "Build date": "11/2024",
+    "Built": "SIA, Lafayette, Indiana, USA"
+   },
+   "notes": "NHTSA VIN decode lists trim as Onyx Edition, with trim code M/R, HK (Moonroof / Harman Kardon). NHTSA did not return engine displacement. Carfax lists the vehicle as 4-cylinder gas. Factory window sticker is not available for Subaru; a VIN-decode spec sheet is attached instead, with no MSRP or option list. Paint is dusty in these photos. Roof rails and black cladding. No obvious body damage in these photos. More photos to follow.",
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/4S4BTDLC5S3182952/build_sheet.pdf"
+   },
+   "carfax": {
+    "Report date": "November 17, 2026",
+    "Last reported odometer": "70,047 km on July 27, 2026",
+    "Accidents/damage": "No accidents or damage reported. Service record on August 28, 2025 (32,718 km) notes odometer replaced.",
+    "Registration": "New Brunswick only, Normal branding; no U.S. history. Loan or lien reported on first registration (December 18, 2024).",
+    "Owners": "1",
+    "Open recalls": "No open recalls",
+    "records": [
+     "7 service records at Fox Subaru Fredericton: Dec 17, 2024 (pre-delivery inspection, battery/charging system checked, brakes checked and serviced, front and rear brake pads replaced, fluids checked, four-wheel alignment, oil and filter changed, tire check, wash/detail); Mar 21, 2025 (10,837 km, fluids checked, oil and filter changed, tire check); Jun 2, 2025 (21,427 km, fluids checked, front and rear brake pads replaced, oil and filter changed, tire check); Aug 28, 2025 (32,718 km, alignment checked and performed, drivability/performance checked, fluids checked, four-wheel alignment, odometer replaced, oil and filter changed, tire check); Oct 30, 2025 (40,082 km, recommended maintenance, oil and filter changed, tires rotated); Feb 5, 2026 (51,037 km, 50,000 mile service, fluids checked, noise checked, oil and filter changed, sway bar bushing(s) replaced, tire check); Jul 27, 2026 (70,047 km, recommended maintenance, brake fluid flushed/changed, oil and filter changed)"
+    ],
+    "VHR #": "74249084",
+    "pdf": "incoming/4S4BTDLC5S3182952/carfax.pdf"
+   },
+   "sold": false
   }
  ]
 }
