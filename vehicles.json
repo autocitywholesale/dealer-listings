@@ -92,7 +92,7 @@
     "Tires": "235/60R18 on 18x8 rims",
     "Build date": "01/2019"
    },
-   "sold": false,
+   "sold": true,
    "trim": "Luxury",
    "carfax": {
     "Report date": "September 29, 2026",
