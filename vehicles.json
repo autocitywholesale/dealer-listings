@@ -374,7 +374,7 @@
     "Interior": "Jet Black",
     "Built": "Bupyeong, Korea"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "msrp": 35489,
     "pdf": "incoming/KL79MRSL5RB206128/build_sheet.pdf"
@@ -772,7 +772,7 @@
     "Factory tire size (door label)": "235/65R17 on 7.0Jx17 rims",
     "Build date": "08/2017"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/5XYZUDLB8JG530633/build_sheet.pdf"
@@ -912,7 +912,7 @@
     "Factory tire size (door label)": "245/60R18 105H on 18x7.5J rims",
     "Build date": "08/2020"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/4S4WMAGD6M3403171/build_sheet.pdf"
@@ -1080,7 +1080,7 @@
     "Factory tire size (door label)": "225/60R17 on 17x7.5J rims",
     "Build date": "06/2023"
    },
-   "sold": false,
+   "sold": true,
    "build_sheet": {
     "msrp": 31923,
     "pdf": "incoming/KL79MRSL1PB204826/build_sheet.pdf"
@@ -1499,7 +1499,7 @@
     "pdf": "incoming/2HGFC1F95LH104126/build_sheet.pdf"
    },
    "notes": "Leather, sunroof, Michelin tires. Light scratches on left doors and quarter panel (see photos).",
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 29, 2026",
     "Last reported odometer": "147,894 km (Aug 10, 2026)",
@@ -2402,7 +2402,7 @@
     "Exterior colour": "Green (EBA)",
     "Build date": "04/2019"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 14, 2026",
     "Last reported odometer": "57,642 km (Jun 26, 2023)",
@@ -2513,7 +2513,7 @@
     "VHR #": "73434042",
     "pdf": "incoming/1C6HJTAG1ML540515/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "1HGCV1F38NA800022",
@@ -3259,7 +3259,7 @@
     "Factory tire size (door label)": "275/60R20 on 20x9J rims",
     "Build date": "11/2023"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 26, 2026",
     "Last reported odometer": "82,153 mi (Aug 24, 2026)",
@@ -3558,7 +3558,7 @@
     "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
     "Build date": "11/2021"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 17, 2026",
     "Last reported odometer": "93,635 km (Oct 15, 2026)",
