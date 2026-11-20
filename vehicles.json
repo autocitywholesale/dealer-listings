@@ -4367,6 +4367,35 @@
     "pdf": "incoming/4S4BTDLC5S3182952/carfax.pdf"
    },
    "sold": false
+  },
+  {
+   "vin": "1FADP3F29DL322461",
+   "slug": "2ksknwzosqvi",
+   "year": 2013,
+   "make": "Ford",
+   "model": "Focus",
+   "km": 182664,
+   "photos": [
+    "incoming/1FADP3F29DL322461/1.jpg",
+    "incoming/1FADP3F29DL322461/2.jpg",
+    "incoming/1FADP3F29DL322461/3.jpg",
+    "incoming/1FADP3F29DL322461/4.jpg",
+    "incoming/1FADP3F29DL322461/5.jpg",
+    "incoming/1FADP3F29DL322461/6.jpg",
+    "incoming/1FADP3F29DL322461/7.jpg",
+    "incoming/1FADP3F29DL322461/8.jpg",
+    "incoming/1FADP3F29DL322461/9.jpg",
+    "incoming/1FADP3F29DL322461/10.jpg",
+    "incoming/1FADP3F29DL322461/11.jpg",
+    "incoming/1FADP3F29DL322461/12.jpg",
+    "incoming/1FADP3F29DL322461/13.jpg",
+    "incoming/1FADP3F29DL322461/14.jpg"
+   ],
+   "specs": {
+    "Body": "Sedan, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline"
+   },
+   "sold": false
   }
  ]
 }
