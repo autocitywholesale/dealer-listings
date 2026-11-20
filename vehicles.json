@@ -4324,7 +4324,10 @@
    "photos": [
     "incoming/4S4BTDLC5S3182952/1.jpg",
     "incoming/4S4BTDLC5S3182952/2.jpg",
-    "incoming/4S4BTDLC5S3182952/3.jpg"
+    "incoming/4S4BTDLC5S3182952/3.jpg",
+    "incoming/4S4BTDLC5S3182952/4.jpg",
+    "incoming/4S4BTDLC5S3182952/5.jpg",
+    "incoming/4S4BTDLC5S3182952/6.jpg"
    ],
    "specs": {
     "Transmission": "CVT",
@@ -4335,7 +4338,7 @@
     "Build date": "11/2024",
     "Built": "SIA, Lafayette, Indiana, USA"
    },
-   "notes": "NHTSA VIN decode lists trim as Onyx Edition, with trim code M/R, HK (Moonroof / Harman Kardon). NHTSA did not return engine displacement. Carfax lists the vehicle as 4-cylinder gas. Factory window sticker is not available for Subaru; a VIN-decode spec sheet is attached instead, with no MSRP or option list. Paint is dusty in these photos. Roof rails and black cladding. No obvious body damage in these photos. More photos to follow.",
+   "notes": "NHTSA VIN decode lists trim as Onyx Edition, with trim code M/R, HK (Moonroof / Harman Kardon). NHTSA did not return engine displacement. Carfax lists the vehicle as 4-cylinder gas. Factory window sticker is not available for Subaru; a VIN-decode spec sheet is attached instead, with no MSRP or option list. Paint is dusty in these photos. Roof rails and black cladding. No obvious body damage in these photos. Still need left side, rear, interior and cluster photos.",
    "build_sheet": {
     "spec_sheet": true,
     "pdf": "incoming/4S4BTDLC5S3182952/build_sheet.pdf"
