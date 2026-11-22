@@ -3949,7 +3949,7 @@
     "Factory tire size (door label)": "P265/65R17 on 17x7.5J rims",
     "Build date": "03/2022"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 17, 2026",
     "Last reported odometer": "29,919 km (Nov 21, 2024)",
