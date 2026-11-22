@@ -3901,7 +3901,7 @@
     "Factory tire size (door label)": "225/55R18 98H on 18x7J rims",
     "Build date": "01/2021"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 17, 2026 (report status pending)",
     "Last reported odometer": "99,644 km (Oct 21, 2026)",
