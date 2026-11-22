@@ -3753,7 +3753,7 @@
     "Factory tire size (door label)": "235/60R18 103H on 18x7.5J rims",
     "Build date": "09/2018"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 18, 2026",
     "Last reported odometer": "195,001 km (Sep 2, 2026)",
