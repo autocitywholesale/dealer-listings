@@ -4490,6 +4490,41 @@
     "Build date": "06/2021"
    },
    "sold": false
+  },
+  {
+   "vin": "KM8J3CA27HU309901",
+   "slug": "t5jd89tngtm9",
+   "year": 2017,
+   "make": "Hyundai",
+   "model": "Tucson",
+   "km": 143893,
+   "photos": [
+    "incoming/KM8J3CA27HU309901/1.jpg",
+    "incoming/KM8J3CA27HU309901/2.jpg",
+    "incoming/KM8J3CA27HU309901/3.jpg",
+    "incoming/KM8J3CA27HU309901/4.jpg",
+    "incoming/KM8J3CA27HU309901/5.jpg",
+    "incoming/KM8J3CA27HU309901/6.jpg",
+    "incoming/KM8J3CA27HU309901/7.jpg",
+    "incoming/KM8J3CA27HU309901/8.jpg",
+    "incoming/KM8J3CA27HU309901/9.jpg",
+    "incoming/KM8J3CA27HU309901/10.jpg",
+    "incoming/KM8J3CA27HU309901/11.jpg",
+    "incoming/KM8J3CA27HU309901/12.jpg",
+    "incoming/KM8J3CA27HU309901/13.jpg",
+    "incoming/KM8J3CA27HU309901/14.jpg",
+    "incoming/KM8J3CA27HU309901/15.jpg",
+    "incoming/KM8J3CA27HU309901/16.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "1.6L 4-cylinder, gasoline, turbo",
+    "Transmission": "7-speed automatic",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "245/45R19 on 7.5JX19 rims",
+    "Build date": "08/2016"
+   },
+   "sold": false
   }
  ]
 }
