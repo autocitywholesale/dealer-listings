@@ -4673,6 +4673,39 @@
     "Build date": "01/2024"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2GTAGC5P8319354",
+   "slug": "obvgw0va5mk4",
+   "year": 2023,
+   "make": "Subaru",
+   "model": "Crosstrek",
+   "km": 47669,
+   "photos": [
+    "incoming/JF2GTAGC5P8319354/1.jpg",
+    "incoming/JF2GTAGC5P8319354/2.jpg",
+    "incoming/JF2GTAGC5P8319354/3.jpg",
+    "incoming/JF2GTAGC5P8319354/4.jpg",
+    "incoming/JF2GTAGC5P8319354/5.jpg",
+    "incoming/JF2GTAGC5P8319354/6.jpg",
+    "incoming/JF2GTAGC5P8319354/7.jpg",
+    "incoming/JF2GTAGC5P8319354/8.jpg",
+    "incoming/JF2GTAGC5P8319354/9.jpg",
+    "incoming/JF2GTAGC5P8319354/10.jpg",
+    "incoming/JF2GTAGC5P8319354/11.jpg",
+    "incoming/JF2GTAGC5P8319354/12.jpg",
+    "incoming/JF2GTAGC5P8319354/13.jpg",
+    "incoming/JF2GTAGC5P8319354/14.jpg",
+    "incoming/JF2GTAGC5P8319354/15.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims front and rear",
+    "Build date": "01/2023"
+   },
+   "sold": false
   }
  ]
 }
