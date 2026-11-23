@@ -4594,6 +4594,50 @@
     "Build date": "08/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "JF2SJCBC9GG482369",
+   "slug": "u8uve2dpxdr6",
+   "year": 2016,
+   "make": "Subaru",
+   "model": "Forester",
+   "km": 328130,
+   "photos": [
+    "incoming/JF2SJCBC9GG482369/1.jpg",
+    "incoming/JF2SJCBC9GG482369/2.jpg",
+    "incoming/JF2SJCBC9GG482369/3.jpg",
+    "incoming/JF2SJCBC9GG482369/4.jpg",
+    "incoming/JF2SJCBC9GG482369/5.jpg",
+    "incoming/JF2SJCBC9GG482369/6.jpg",
+    "incoming/JF2SJCBC9GG482369/7.jpg",
+    "incoming/JF2SJCBC9GG482369/8.jpg",
+    "incoming/JF2SJCBC9GG482369/9.jpg",
+    "incoming/JF2SJCBC9GG482369/10.jpg",
+    "incoming/JF2SJCBC9GG482369/11.jpg",
+    "incoming/JF2SJCBC9GG482369/12.jpg",
+    "incoming/JF2SJCBC9GG482369/13.jpg",
+    "incoming/JF2SJCBC9GG482369/14.jpg",
+    "incoming/JF2SJCBC9GG482369/15.jpg",
+    "incoming/JF2SJCBC9GG482369/16.jpg",
+    "incoming/JF2SJCBC9GG482369/17.jpg",
+    "incoming/JF2SJCBC9GG482369/18.jpg",
+    "incoming/JF2SJCBC9GG482369/19.jpg",
+    "incoming/JF2SJCBC9GG482369/20.jpg",
+    "incoming/JF2SJCBC9GG482369/21.jpg",
+    "incoming/JF2SJCBC9GG482369/22.jpg",
+    "incoming/JF2SJCBC9GG482369/23.jpg",
+    "incoming/JF2SJCBC9GG482369/24.jpg",
+    "incoming/JF2SJCBC9GG482369/25.jpg"
+   ],
+   "specs": {
+    "Body": "SUV",
+    "Engine": "2.5L, gasoline, naturally aspirated",
+    "Transmission": "6-speed manual",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims",
+    "Build date": "10/2015"
+   },
+   "sold": false
   }
  ]
 }
