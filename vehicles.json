@@ -4706,6 +4706,45 @@
     "Build date": "01/2023"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4BSFTC0J3208712",
+   "slug": "wwvhzi6nxijl",
+   "year": 2018,
+   "make": "Subaru",
+   "model": "Outback",
+   "km": 196028,
+   "photos": [
+    "incoming/4S4BSFTC0J3208712/1.jpg",
+    "incoming/4S4BSFTC0J3208712/2.jpg",
+    "incoming/4S4BSFTC0J3208712/3.jpg",
+    "incoming/4S4BSFTC0J3208712/4.jpg",
+    "incoming/4S4BSFTC0J3208712/5.jpg",
+    "incoming/4S4BSFTC0J3208712/6.jpg",
+    "incoming/4S4BSFTC0J3208712/7.jpg",
+    "incoming/4S4BSFTC0J3208712/8.jpg",
+    "incoming/4S4BSFTC0J3208712/9.jpg",
+    "incoming/4S4BSFTC0J3208712/10.jpg",
+    "incoming/4S4BSFTC0J3208712/11.jpg",
+    "incoming/4S4BSFTC0J3208712/12.jpg",
+    "incoming/4S4BSFTC0J3208712/13.jpg",
+    "incoming/4S4BSFTC0J3208712/14.jpg",
+    "incoming/4S4BSFTC0J3208712/15.jpg",
+    "incoming/4S4BSFTC0J3208712/16.jpg",
+    "incoming/4S4BSFTC0J3208712/17.jpg",
+    "incoming/4S4BSFTC0J3208712/18.jpg",
+    "incoming/4S4BSFTC0J3208712/19.jpg",
+    "incoming/4S4BSFTC0J3208712/20.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "3.6L 6-cylinder, gasoline, naturally aspirated",
+    "Transmission": "CVT",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "225/60R18 100H on 18x7J rims front and rear",
+    "Build date": "08/2017"
+   },
+   "sold": false
   }
  ]
 }
