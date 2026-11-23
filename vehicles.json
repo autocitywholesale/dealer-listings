@@ -4311,7 +4311,7 @@
     "VHR #": "74246829",
     "pdf": "incoming/JF2GUABC3SH263623/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "4S4BTDLC5S3182952",
@@ -4451,7 +4451,7 @@
     "VHR #": "74249039",
     "pdf": "incoming/JF2SLDAC5SH538733/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "KM8R5DHE7NU345974",
