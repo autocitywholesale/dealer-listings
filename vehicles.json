@@ -3658,7 +3658,7 @@
     "Factory tire size (door label)": "255/45R22 107H on 22x8.5 rims",
     "Build date": "05/2025"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 27, 2026",
     "Last reported odometer": "Not reported",
@@ -3704,7 +3704,7 @@
     "Engine": "5.7L V8, gasoline",
     "Drivetrain": "AWD"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 4, 2026",
     "Last reported odometer": "Not reported",
