@@ -4047,7 +4047,7 @@
     "Drivetrain": "AWD",
     "Build date": "08/2021"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 18, 2026",
     "Last reported odometer": "35,805 km (Nov 27, 2025)",
