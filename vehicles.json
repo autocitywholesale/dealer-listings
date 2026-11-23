@@ -4216,7 +4216,6 @@
       "year": 2024,
       "make": "GMC",
       "model": "Sierra 1500",
-      "trim": "AT4",
       "km": 34168,
       "photos": [
         "incoming/1GTUUAED0RZ379307/1.jpg",
@@ -4232,24 +4231,15 @@
         "incoming/1GTUUAED0RZ379307/11.jpg",
         "incoming/1GTUUAED0RZ379307/12.jpg",
         "incoming/1GTUUAED0RZ379307/13.jpg",
-        "incoming/1GTUUAED0RZ379307/14.jpg",
-        "incoming/1GTUUAED0RZ379307/15.jpg"
+        "incoming/1GTUUAED0RZ379307/14.jpg"
       ],
       "specs": {
-        "Body": "Crew cab pickup",
-        "Engine": "5.3L V8 (L84), gasoline",
+        "Body": "Pickup",
+        "Engine": "5.3L 8-cylinder, L84, gasoline",
         "Drivetrain": "4WD / 4x4",
-        "Exterior colour": "Light grey",
-        "Factory tire size (door label)": "LT275/65R18CQ on 18x8.5J rims; spare 265/70R17 S on 17x8J",
-        "GVWR (door label)": "3,221 kg / 7,100 lb",
-        "Curb weight (door label)": "2,396 kg / 5,282 lb",
-        "Payload (door label)": "825 kg / 1,818 lb",
-        "Conventional towing (door label)": "4,173 kg / 9,200 lb",
-        "Build date": "07/2024",
-        "Built": "Fort Wayne, Indiana, USA",
-        "Seats": "Cloth, dark grey; rear bench"
+        "Factory tire size (door label)": "LT275/65R18CQ on 18x8.5J rims front and rear; spare 265/70R17 S on 17x8J",
+        "Build date": "07/2024"
       },
-      "notes": "AT4 badges on both front fenders; NHTSA VIN decode lists trim as Fleet/Base. Factory window sticker could not be retrieved (GM returned Access Denied); a VIN-decode spec sheet is attached instead, with no MSRP or option list. Cluster shows 34,168 km and a 'Front Camera Blocked, Clean Windshield' message (a warning light is also on the speedometer). Steele dealer badge on the tailgate and a New Brunswick Steele dealer plate still on the truck. Tires are Goodyear Wrangler Territory MT LT275/65R18 with remaining tread still visible. Cloth dark-grey interior, rear bench, rubber floor mats (dirty/wet). Black running boards and a hitch receiver. Some frost/dust on the paint; no obvious body damage in these photos.",
       "build_sheet": {
         "spec_sheet": true,
         "pdf": "incoming/1GTUUAED0RZ379307/build_sheet.pdf"
