@@ -4561,6 +4561,39 @@
     "Drivetrain": "4x2"
    },
    "sold": false
+  },
+  {
+   "vin": "4S4BTDNC7R3154724",
+   "slug": "nee69pr6s0ur",
+   "year": 2024,
+   "make": "Subaru",
+   "model": "Outback",
+   "km": 92945,
+   "photos": [
+    "incoming/4S4BTDNC7R3154724/1.jpg",
+    "incoming/4S4BTDNC7R3154724/2.jpg",
+    "incoming/4S4BTDNC7R3154724/3.jpg",
+    "incoming/4S4BTDNC7R3154724/4.jpg",
+    "incoming/4S4BTDNC7R3154724/5.jpg",
+    "incoming/4S4BTDNC7R3154724/6.jpg",
+    "incoming/4S4BTDNC7R3154724/7.jpg",
+    "incoming/4S4BTDNC7R3154724/8.jpg",
+    "incoming/4S4BTDNC7R3154724/9.jpg",
+    "incoming/4S4BTDNC7R3154724/10.jpg",
+    "incoming/4S4BTDNC7R3154724/11.jpg",
+    "incoming/4S4BTDNC7R3154724/12.jpg",
+    "incoming/4S4BTDNC7R3154724/13.jpg",
+    "incoming/4S4BTDNC7R3154724/14.jpg",
+    "incoming/4S4BTDNC7R3154724/15.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Transmission": "CVT",
+    "Drivetrain": "AWD",
+    "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
+    "Build date": "08/2023"
+   },
+   "sold": false
   }
  ]
 }
