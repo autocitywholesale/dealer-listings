@@ -4452,6 +4452,44 @@
     "pdf": "incoming/JF2SLDAC5SH538733/carfax.pdf"
    },
    "sold": false
+  },
+  {
+   "vin": "KM8R5DHE7NU345974",
+   "slug": "wm9vhesgj5n4",
+   "year": 2022,
+   "make": "Hyundai",
+   "model": "Palisade",
+   "km": 111238,
+   "photos": [
+    "incoming/KM8R5DHE7NU345974/1.jpg",
+    "incoming/KM8R5DHE7NU345974/2.jpg",
+    "incoming/KM8R5DHE7NU345974/3.jpg",
+    "incoming/KM8R5DHE7NU345974/4.jpg",
+    "incoming/KM8R5DHE7NU345974/5.jpg",
+    "incoming/KM8R5DHE7NU345974/6.jpg",
+    "incoming/KM8R5DHE7NU345974/7.jpg",
+    "incoming/KM8R5DHE7NU345974/8.jpg",
+    "incoming/KM8R5DHE7NU345974/9.jpg",
+    "incoming/KM8R5DHE7NU345974/10.jpg",
+    "incoming/KM8R5DHE7NU345974/11.jpg",
+    "incoming/KM8R5DHE7NU345974/12.jpg",
+    "incoming/KM8R5DHE7NU345974/13.jpg",
+    "incoming/KM8R5DHE7NU345974/14.jpg",
+    "incoming/KM8R5DHE7NU345974/15.jpg",
+    "incoming/KM8R5DHE7NU345974/16.jpg",
+    "incoming/KM8R5DHE7NU345974/17.jpg",
+    "incoming/KM8R5DHE7NU345974/18.jpg",
+    "incoming/KM8R5DHE7NU345974/19.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 5-door",
+    "Engine": "3.8L, gasoline (GDI LAMBDA II)",
+    "Transmission": "8-speed automatic",
+    "Drivetrain": "4WD",
+    "Factory tire size (door label)": "245/50R20 on 7.5JX20 rims",
+    "Build date": "06/2021"
+   },
+   "sold": false
   }
  ]
 }
