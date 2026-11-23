@@ -4525,6 +4525,42 @@
     "Build date": "08/2016"
    },
    "sold": false
+  },
+  {
+   "vin": "KM8J23A4XLU263896",
+   "slug": "iicjzyo75kq1",
+   "year": 2020,
+   "make": "Hyundai",
+   "model": "Tucson",
+   "km": 124775,
+   "photos": [
+    "incoming/KM8J23A4XLU263896/1.jpg",
+    "incoming/KM8J23A4XLU263896/2.jpg",
+    "incoming/KM8J23A4XLU263896/3.jpg",
+    "incoming/KM8J23A4XLU263896/4.jpg",
+    "incoming/KM8J23A4XLU263896/5.jpg",
+    "incoming/KM8J23A4XLU263896/6.jpg",
+    "incoming/KM8J23A4XLU263896/7.jpg",
+    "incoming/KM8J23A4XLU263896/8.jpg",
+    "incoming/KM8J23A4XLU263896/9.jpg",
+    "incoming/KM8J23A4XLU263896/10.jpg",
+    "incoming/KM8J23A4XLU263896/11.jpg",
+    "incoming/KM8J23A4XLU263896/12.jpg",
+    "incoming/KM8J23A4XLU263896/13.jpg",
+    "incoming/KM8J23A4XLU263896/14.jpg",
+    "incoming/KM8J23A4XLU263896/15.jpg",
+    "incoming/KM8J23A4XLU263896/16.jpg",
+    "incoming/KM8J23A4XLU263896/17.jpg",
+    "incoming/KM8J23A4XLU263896/18.jpg",
+    "incoming/KM8J23A4XLU263896/19.jpg"
+   ],
+   "specs": {
+    "Body": "SUV, 4-door",
+    "Engine": "2.0L 4-cylinder, gasoline",
+    "Transmission": "6-speed automatic",
+    "Drivetrain": "4x2"
+   },
+   "sold": false
   }
  ]
 }
