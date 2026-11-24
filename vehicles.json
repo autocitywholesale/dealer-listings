@@ -4479,6 +4479,20 @@
         "Factory tire size (door label)": "245/50R20 on 7.5JX20 rims",
         "Build date": "06/2021"
       },
+      "carfax": {
+        "Report date": "November 17, 2026",
+        "Last reported odometer": "99,839 km (Jun 5, 2026)",
+        "Accidents/damage": "No accidents reported; 1 glass record: Mar 23, 2026, New Brunswick, $2,291.00",
+        "Registration": "Ontario, then New Brunswick, Normal branding; no U.S. history",
+        "Owners": "1 (first owner reported Sep 2021)",
+        "Open recalls": "1 open: R0299 Third-Row Ejection Mitigation (May 20, 2026)",
+        "records": [
+          "Jun 5, 2026: Fredericton Hyundai, Fredericton NB, 99,839 km, maintenance inspection, alignment performed, cabin air filter replaced, oil and filter changed, emissions or safety inspection",
+          "4 service records in total reported"
+        ],
+        "VHR #": "74256779",
+        "pdf": "incoming/KM8R5DHE7NU345974/carfax.pdf"
+      },
       "sold": false
     },
     {
@@ -4513,6 +4527,20 @@
         "Drivetrain": "4WD",
         "Factory tire size (door label)": "245/45R19 on 7.5JX19 rims",
         "Build date": "08/2016"
+      },
+      "carfax": {
+        "Report date": "November 18, 2026",
+        "Last reported odometer": "107,984 km (Jun 15, 2023)",
+        "Accidents/damage": "No accidents reported; 1 glass record: Jan 16, 2018, New Brunswick, $984.00",
+        "Registration": "Nova Scotia, then New Brunswick, Normal branding; no U.S. history",
+        "Owners": "1 (first owner reported Nov 2016)",
+        "Open recalls": "1 open: R0173 Antilock Brake System (ABS) Control Module (Jan 22, 2021)",
+        "records": [
+          "Jun 15, 2023: Wonder Auto Centre, Fredericton NB, 107,984 km, vehicle serviced",
+          "7 service records in total reported"
+        ],
+        "VHR #": "74262516",
+        "pdf": "incoming/KM8J3CA27HU309901/carfax.pdf"
       },
       "sold": false
     },
@@ -4550,6 +4578,20 @@
         "Transmission": "6-speed automatic",
         "Drivetrain": "4x2"
       },
+      "carfax": {
+        "Report date": "November 18, 2026",
+        "Last reported odometer": "121,536 km (Jul 22, 2026)",
+        "Accidents/damage": "No accidents or damage reported",
+        "Registration": "Ontario, then New Brunswick, Normal branding; no U.S. history",
+        "Owners": "1 (first owner reported Jul 2020)",
+        "Open recalls": "None",
+        "records": [
+          "Jul 22, 2026: Fredericton Hyundai, Fredericton NB, 121,536 km, maintenance inspection, air filter replaced",
+          "16 service records in total reported"
+        ],
+        "VHR #": "74260623",
+        "pdf": "incoming/KM8J23A4XLU263896/carfax.pdf"
+      },
       "sold": false
     },
     {
@@ -4582,6 +4624,20 @@
         "Drivetrain": "AWD",
         "Factory tire size (door label)": "225/60R18 100H on 18x7J rims",
         "Build date": "08/2023"
+      },
+      "carfax": {
+        "Report date": "October 14, 2026",
+        "Last reported odometer": "66,562 km (Dec 10, 2025)",
+        "Accidents/damage": "No accidents or damage reported",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history; loan/lien reported on Sep 26, 2023 registration",
+        "Owners": "1 (first owner reported Sep 2023)",
+        "Open recalls": "None",
+        "records": [
+          "Dec 10, 2025: Fox Subaru, Fredericton NB, 66,562 km, alignment checked, fluids checked",
+          "8 service records in total reported"
+        ],
+        "VHR #": "73415976",
+        "pdf": "incoming/4S4BTDNC7R3154724/carfax.pdf"
       },
       "sold": false
     },
@@ -4662,6 +4718,20 @@
         "Factory tire size (door label)": "225/60R17 on 17x7J rims front and rear",
         "Build date": "01/2024"
       },
+      "carfax": {
+        "Report date": "November 17, 2026",
+        "Last reported odometer": "45,672 km (Sep 28, 2026)",
+        "Accidents/damage": "No accidents or damage reported",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history; loan/lien reported on Apr 9, 2024 registration",
+        "Owners": "1 (first owner reported Apr 2024)",
+        "Open recalls": "None",
+        "records": [
+          "Sep 28, 2026: Fox Subaru, Fredericton NB, 45,672 km, fluids checked, oil and filter changed",
+          "5 service records in total reported"
+        ],
+        "VHR #": "74243720",
+        "pdf": "incoming/JF2GUADC8RH351476/carfax.pdf"
+      },
       "sold": false
     },
     {
@@ -4734,6 +4804,20 @@
         "Factory tire size (door label)": "225/60R18 100H on 18x7J rims front and rear",
         "Build date": "08/2017"
       },
+      "carfax": {
+        "Report date": "November 17, 2026",
+        "Last reported odometer": "193,207 km (Oct 27, 2026)",
+        "Accidents/damage": "No accidents reported; 1 glass record: Jan 29, 2023, New Brunswick, $1,472.00",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history",
+        "Owners": "1 (first owner reported Aug 2017)",
+        "Open recalls": "None",
+        "records": [
+          "Oct 27, 2026: Fox Subaru, Fredericton NB, 193,207 km, vehicle serviced",
+          "16 service records in total reported"
+        ],
+        "VHR #": "74252116",
+        "pdf": "incoming/4S4BSFTC0J3208712/carfax.pdf"
+      },
       "sold": false
     },
     {
@@ -4767,6 +4851,20 @@
         "Drivetrain": "AWD",
         "Factory tire size (door label)": "225/60R18 100H on 18x7J rims front and rear",
         "Build date": "02/2021"
+      },
+      "carfax": {
+        "Report date": "November 17, 2026",
+        "Last reported odometer": "130,484 km (Sep 9, 2026)",
+        "Accidents/damage": "No accidents reported; 2 glass records: Oct 9, 2021, New Brunswick, $1,345.00; May 21, 2025, New Brunswick, $1,566.00",
+        "Registration": "New Brunswick only, Normal branding; no U.S. history",
+        "Owners": "1 (first owner reported Apr 2021)",
+        "Open recalls": "None",
+        "records": [
+          "Sep 9, 2026: Fox Subaru, Fredericton NB, 130,484 km, maintenance inspection, brakes checked, oil and filter changed, rear brakes/rotors, spark plugs, transmission fluid changed",
+          "11 service records in total reported"
+        ],
+        "VHR #": "74252123",
+        "pdf": "incoming/4S4BTDNC8M3190995/carfax.pdf"
       },
       "sold": false
     }
