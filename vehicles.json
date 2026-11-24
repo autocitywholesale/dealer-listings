@@ -4909,6 +4909,41 @@
         "Build date": "06/2012"
       },
       "sold": false
+    },
+    {
+      "vin": "JF2SJCNC8FH590342",
+      "slug": "xsu8fowylxs1",
+      "year": 2015,
+      "make": "Subaru",
+      "model": "Forester",
+      "km": 89690,
+      "photos": [
+        "incoming/JF2SJCNC8FH590342/1.jpg",
+        "incoming/JF2SJCNC8FH590342/2.jpg",
+        "incoming/JF2SJCNC8FH590342/3.jpg",
+        "incoming/JF2SJCNC8FH590342/4.jpg",
+        "incoming/JF2SJCNC8FH590342/5.jpg",
+        "incoming/JF2SJCNC8FH590342/6.jpg",
+        "incoming/JF2SJCNC8FH590342/7.jpg",
+        "incoming/JF2SJCNC8FH590342/8.jpg",
+        "incoming/JF2SJCNC8FH590342/9.jpg",
+        "incoming/JF2SJCNC8FH590342/10.jpg",
+        "incoming/JF2SJCNC8FH590342/11.jpg",
+        "incoming/JF2SJCNC8FH590342/12.jpg",
+        "incoming/JF2SJCNC8FH590342/13.jpg",
+        "incoming/JF2SJCNC8FH590342/14.jpg",
+        "incoming/JF2SJCNC8FH590342/15.jpg",
+        "incoming/JF2SJCNC8FH590342/16.jpg"
+      ],
+      "specs": {
+        "Body": "SUV, 4-door",
+        "Engine": "2.5L, 2.5NA C0, naturally aspirated",
+        "Transmission": "CVT",
+        "Drivetrain": "AWD",
+        "Factory tire size (door label)": "P225/60R17 98H on 17x7J rims front and rear",
+        "Build date": "02/2015"
+      },
+      "sold": false
     }
   ]
 }
