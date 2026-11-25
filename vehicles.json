@@ -287,7 +287,7 @@
     ],
     "pdf": "incoming/2GC4YME74R1145051/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "KL77LJE21TC125840",
@@ -2068,7 +2068,7 @@
     "Factory tire size (door label)": "LT275/65R20 on 20x8.5J rims",
     "Build date": "12/2022"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "74,153 mi (May 26, 2026)",
@@ -3310,7 +3310,7 @@
     "Factory tire size (door label)": "275/50R22 on 22x9J rims",
     "Build date": "06/2025"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "November 17, 2026",
     "Last reported odometer": "37,865 km (Aug 11, 2026)",
@@ -3801,7 +3801,7 @@
     "Factory tire size (door label)": "225/55R18 98H on 18x7J rims",
     "Build date": "01/2021"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "October 30, 2026",
     "Last reported odometer": "16,226 km (Dec 2, 2021)",
@@ -4732,7 +4732,7 @@
     "VHR #": "74243720",
     "pdf": "incoming/JF2GUADC8RH351476/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   },
   {
    "vin": "JF2GTAGC5P8319354",
@@ -4866,7 +4866,7 @@
     "VHR #": "74252123",
     "pdf": "incoming/4S4BTDNC8M3190995/carfax.pdf"
    },
-   "sold": false
+   "sold": true
   }
  ]
 }

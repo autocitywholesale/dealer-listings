@@ -46,7 +46,7 @@ var b=document.createElement('a');b.id='crm-remove';b.className='btn crm-remove'
 bar.appendChild(a);bar.appendChild(b);
 if(kept===true){var s=document.createElement('a');s.id='crm-keep';s.className='btn crm-kept';s.textContent='Kept for retail \u2713';s.setAttribute('aria-disabled','true');bar.appendChild(s)}
 else if(kept===false){var k=document.createElement('a');k.id='crm-keep';k.className='btn crm-keep';k.href='#';k.textContent='Keeping for retail';
-k.onclick=function(ev){ev.preventDefault();if(k.getAttribute('data-busy'))return;if(!confirm('Mark this car Keeping for retail in the CRM? It stays on WSS until you tap Remove on the CRM Keeping for retail tab.'))return;
+k.onclick=function(ev){ev.preventDefault();if(k.getAttribute('data-busy'))return;if(!confirm('Mark this car Keeping for retail in the CRM? It will also be taken off the wholesale site.'))return;
 k.setAttribute('data-busy','1');k.textContent='Saving\u2026';var q=tq();
 fetch(KEEP+(q?'?'+q:''),{method:'POST',credentials:'include',mode:'cors',cache:'no-store',headers:{'Content-Type':'application/json'},body:JSON.stringify({vin:vin})}).then(function(r){return r.json().then(function(j){return {ok:r.ok&&j&&j.ok,j:j}},function(){return {ok:false,j:{}}})}).then(function(x){if(x.ok){paint(true,true)}else{k.removeAttribute('data-busy');k.textContent='Keeping for retail';alert((x.j&&x.j.detail)||'Could not mark Keeping for retail.')}}).catch(function(){k.removeAttribute('data-busy');k.textContent='Keeping for retail';alert('Could not reach the CRM.')})};
 bar.appendChild(k)}}
