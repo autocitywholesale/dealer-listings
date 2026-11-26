@@ -4550,6 +4550,7 @@
    "year": 2020,
    "make": "Hyundai",
    "model": "Tucson",
+   "trim": "SE",
    "km": 124775,
    "photos": [
     "incoming/KM8J23A4XLU263896/1.jpg",
@@ -4592,7 +4593,11 @@
     "VHR #": "74260623",
     "pdf": "incoming/KM8J23A4XLU263896/carfax.pdf"
    },
-   "sold": true
+   "build_sheet": {
+    "spec_sheet": true,
+    "pdf": "incoming/KM8J23A4XLU263896/build_sheet.pdf"
+   },
+   "sold": false
   },
   {
    "vin": "4S4BTDNC7R3154724",
