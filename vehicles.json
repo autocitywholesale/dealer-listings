@@ -1919,7 +1919,7 @@
     "Factory tire size (door label)": "LT265/60R20 on 20x9J rims",
     "Build date": "06/2023"
    },
-   "sold": false,
+   "sold": true,
    "carfax": {
     "Report date": "September 29, 2026",
     "Last reported odometer": "74,649 km (Apr 1, 2026)",
