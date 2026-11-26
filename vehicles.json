@@ -4944,6 +4944,40 @@
         "Build date": "02/2015"
       },
       "sold": false
+    },
+    {
+      "vin": "1GCUDEEL5RZ235234",
+      "slug": "pfngq37a1n2x",
+      "year": 2024,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "km": 65605,
+      "photos": [
+        "incoming/1GCUDEEL5RZ235234/1.jpg",
+        "incoming/1GCUDEEL5RZ235234/2.jpg",
+        "incoming/1GCUDEEL5RZ235234/3.jpg",
+        "incoming/1GCUDEEL5RZ235234/4.jpg",
+        "incoming/1GCUDEEL5RZ235234/5.jpg",
+        "incoming/1GCUDEEL5RZ235234/6.jpg",
+        "incoming/1GCUDEEL5RZ235234/7.jpg",
+        "incoming/1GCUDEEL5RZ235234/8.jpg",
+        "incoming/1GCUDEEL5RZ235234/9.jpg",
+        "incoming/1GCUDEEL5RZ235234/10.jpg",
+        "incoming/1GCUDEEL5RZ235234/11.jpg",
+        "incoming/1GCUDEEL5RZ235234/12.jpg",
+        "incoming/1GCUDEEL5RZ235234/13.jpg",
+        "incoming/1GCUDEEL5RZ235234/14.jpg",
+        "incoming/1GCUDEEL5RZ235234/15.jpg",
+        "incoming/1GCUDEEL5RZ235234/16.jpg"
+      ],
+      "specs": {
+        "Body": "Pickup",
+        "Engine": "6.2L 8-cylinder, L87, gasoline",
+        "Drivetrain": "4WD / 4x4",
+        "Factory tire size (door label)": "275/60R20 S on 20x9J front and rear, spare 255/80R17 S on 17x8J",
+        "Build date": "01/2024"
+      },
+      "sold": false
     }
   ]
 }
