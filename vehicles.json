@@ -4977,6 +4977,28 @@
     "Factory tire size (door label)": "275/60R20 S on 20x9J front and rear, spare 255/80R17 S on 17x8J",
     "Build date": "01/2024"
    },
+   "build_sheet": {
+    "msrp": 79929,
+    "packages": [
+     "Preferred Equipment Group 1SP, Convenience Package II ($1,695): Bose sound system, universal home remote, rear sliding power window, hitch view, trailer brake controller",
+     "Z71 Off-Road & Protection Package ($1,540): 2-spd Autotrac transfer case, skid plates, hill descent control, heavy-duty air filter, dual exhaust, Chevytec spray-on bedliner, rear wheelhouse liners, Z71 all-weather floor liners (dealer installed)",
+     "Leather Package with up-level rear seat storage package ($1,255)"
+    ],
+    "options": [
+     "Base price $63,499",
+     "6.2L EcoTec3 V8 engine $6,185",
+     "Power sunroof $1,325",
+     "20\" gloss black painted aluminum wheels $920",
+     "Front bucket seats with centre console (includes wireless charging) $715",
+     "275/60R-20 all-terrain tires $250",
+     "Active exhaust system $225",
+     "Front license plate kit $20",
+     "Total options $14,130",
+     "A/C charge $100",
+     "Destination $2,200"
+    ],
+    "pdf": "incoming/1GCUDEEL5RZ235234/build_sheet.pdf"
+   },
    "sold": false
   }
  ]
